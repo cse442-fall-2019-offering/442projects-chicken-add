@@ -1,0 +1,3 @@
+- using coding concepts as weapon power ups 
+  - for loops for repetitive fire on weapons
+- collecting coins to buy powerups instead of finding power ups
