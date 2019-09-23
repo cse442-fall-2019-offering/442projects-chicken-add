@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneOneManage : MonoBehaviour
+public class SceneManagerMM : MonoBehaviour
 {
     int sceneIndex; 
     //used to track which scene we are on
@@ -15,7 +15,9 @@ public class SceneOneManage : MonoBehaviour
     {
         if (sceneIndex > 0)
         {
-            SceneManager.LoadScene(sceneIndex - 1);
+            SceneManager.LoadScene(0);
+            sceneIndex = 0;
+            Debug.Log("BACK");
            
         }
         else
