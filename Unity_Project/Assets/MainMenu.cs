@@ -9,10 +9,9 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Game");
     }
-    public static void BackToMenu()
+    public void BackToMenu()
     {
         SceneManager.LoadScene("Menu");
-        Debug.Log("Back");
     }
     public void QuitGame()
     {
