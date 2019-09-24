@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-09-17T19:36:36.711-04:00
-  initializedAtString: 2019-09-17T11:24:53.704-04:00
+  lastUpdatedAtString: 2019-09-24T14:09:29.115-04:00
+  initializedAtString: 2019-09-24T14:09:29.087-04:00
   localBranches:
+  - name: Background
+    tracking: origin/Background
   - name: master
     tracking: origin/master
+  - name: Ui_Dev
+    tracking: origin/Ui_Dev
   remoteBranches:
+  - name: origin/Background
+    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
@@ -35,23 +41,41 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - Background
     - master
+    - Ui_Dev
     values:
+    - name: Background
+      remote:
+        name: origin
+        url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+      trackingBranch: Background
     - name: master
       remote:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
       trackingBranch: master
+    - name: Ui_Dev
+      remote:
+        name: origin
+        url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+      trackingBranch: Ui_Dev
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - Background
       - HEAD
       - master
       - Ui_Dev
     subKeyValues:
     - Values:
+      - name: Background
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
