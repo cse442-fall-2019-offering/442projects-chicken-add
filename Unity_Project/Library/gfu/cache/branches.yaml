@@ -13,25 +13,33 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-09-25T13:21:19.806-04:00
-  initializedAtString: 2019-09-25T13:19:00.991-04:00
+  lastUpdatedAtString: 2019-09-25T19:16:57.147-04:00
+  initializedAtString: 2019-09-25T19:13:48.202-04:00
   localBranches:
   - name: Background
     tracking: origin/Background
-  - name: master
-    tracking: origin/master
+  - name: Font
+    tracking: origin/Font
+  - name: GameScene
+    tracking: origin/GameScene
+  - name: Leaderboard
+    tracking: origin/Leaderboard
   - name: Ui_Dev
     tracking: origin/Ui_Dev
+  - name: master
+    tracking: origin/master
   remoteBranches:
   - name: origin/Background
     tracking: '[None]'
   - name: origin/Font
     tracking: '[None]'
-  - name: origin/HEAD
+  - name: origin/GameScene
     tracking: '[None]'
-  - name: origin/master
+  - name: origin/Leaderboard
     tracking: '[None]'
   - name: origin/Ui_Dev
+    tracking: '[None]'
+  - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
@@ -44,24 +52,42 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - Background
-    - master
+    - Font
+    - GameScene
+    - Leaderboard
     - Ui_Dev
+    - master
     values:
     - name: Background
       remote:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
       trackingBranch: Background
-    - name: master
+    - name: Font
       remote:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
-      trackingBranch: master
+      trackingBranch: Font
+    - name: GameScene
+      remote:
+        name: origin
+        url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+      trackingBranch: GameScene
+    - name: Leaderboard
+      remote:
+        name: origin
+        url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+      trackingBranch: Leaderboard
     - name: Ui_Dev
       remote:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
       trackingBranch: Ui_Dev
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
@@ -69,9 +95,10 @@ MonoBehaviour:
     - Values:
       - Background
       - Font
-      - HEAD
-      - master
+      - GameScene
+      - Leaderboard
       - Ui_Dev
+      - master
     subKeyValues:
     - Values:
       - name: Background
@@ -84,17 +111,22 @@ MonoBehaviour:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
-      - name: HEAD
+      - name: GameScene
         remote:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
-      - name: master
+      - name: Leaderboard
         remote:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
       - name: Ui_Dev
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
+      - name: master
         remote:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
