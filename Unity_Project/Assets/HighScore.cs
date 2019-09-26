@@ -8,10 +8,11 @@ public class NewBehaviourScript : MonoBehaviour
     private Transform entryTemplate;
     // Start is called before the first frame update
     void Start(){
-         entryContainer = transform.Find("scoringContainer");
+		Debug.Log("hello world!");
+        entryContainer = transform.Find("scoringContainer");
         entryTemplate = transform.Find("scoringTemplate");
         entryTemplate.gameObject.SetActive(false);
-        
+   
         float templateHeight = 30f;
         for(int i = 0; i < 10; ++i){
             Transform entryTransform = Instantiate(entryTemplate, entryContainer);
