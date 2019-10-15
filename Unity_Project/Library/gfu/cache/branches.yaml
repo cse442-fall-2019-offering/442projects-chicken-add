@@ -13,17 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-10-14T22:19:04.347-04:00
-  initializedAtString: 2019-10-14T22:19:04.203-04:00
+  lastUpdatedAtString: 2019-10-15T11:26:18.577-04:00
+  initializedAtString: 2019-10-15T11:26:18.568-04:00
   localBranches:
-  - name: Character_Move
-    tracking: origin/Character_Move
+  - name: Background
+    tracking: origin/Background
   - name: Level_Design
-    tracking: 
+    tracking: origin/Level_Design
   - name: master
     tracking: origin/master
-  - name: Sprint_2_Dev
-    tracking: origin/Sprint_2_Dev
+  - name: ui
+    tracking: 
+  - name: Ui_Dev
+    tracking: origin/Ui_Dev
   remoteBranches:
   - name: origin/Background
     tracking: '[None]'
@@ -31,11 +33,15 @@ MonoBehaviour:
     tracking: '[None]'
   - name: origin/Font
     tracking: '[None]'
-  - name: origin/GameScene
+  - name: origin/HEAD
     tracking: '[None]'
   - name: origin/Leaderboard
     tracking: '[None]'
+  - name: origin/Level_Design
+    tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/Shooting
     tracking: '[None]'
   - name: origin/Sprint_2_Dev
     tracking: '[None]'
@@ -51,31 +57,37 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Character_Move
+    - Background
     - Level_Design
     - master
-    - Sprint_2_Dev
+    - ui
+    - Ui_Dev
     values:
-    - name: Character_Move
+    - name: Background
       remote:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
-      trackingBranch: Character_Move
+      trackingBranch: Background
     - name: Level_Design
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: origin
+        url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+      trackingBranch: Level_Design
     - name: master
       remote:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
       trackingBranch: master
-    - name: Sprint_2_Dev
+    - name: ui
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: Ui_Dev
       remote:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
-      trackingBranch: Sprint_2_Dev
+      trackingBranch: Ui_Dev
   remoteConfigBranches:
     keys:
     - origin
@@ -84,9 +96,11 @@ MonoBehaviour:
       - Background
       - Character_Move
       - Font
-      - GameScene
+      - HEAD
       - Leaderboard
+      - Level_Design
       - master
+      - Shooting
       - Sprint_2_Dev
       - Ui_Dev
     subKeyValues:
@@ -106,7 +120,7 @@ MonoBehaviour:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
-      - name: GameScene
+      - name: HEAD
         remote:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
@@ -116,7 +130,17 @@ MonoBehaviour:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
+      - name: Level_Design
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
+      - name: Shooting
         remote:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
