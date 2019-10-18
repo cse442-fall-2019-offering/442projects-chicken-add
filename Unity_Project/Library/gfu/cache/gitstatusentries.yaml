@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2019-10-16T23:10:41.993-04:00
   initializedAtString: 2019-10-16T20:26:09.623-04:00
   entries:
@@ -127,15 +128,24 @@ MonoBehaviour:
   - path: Unity_Project\Assets\Scenes\World.unity
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Scenes\World.unity
     projectPath: Assets\Scenes\World.unity
+=======
+  lastUpdatedAtString: 2019-10-18T19:01:33.818-04:00
+  initializedAtString: 2019-10-18T18:43:29.528-04:00
+  entries:
+  - path: Unity_Project\Assets\Scenes\Character_Test.unity
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\Character_Test.unity
+    projectPath: Assets\Scenes\Character_Test.unity
+>>>>>>> Character_Animations
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\assetDatabase3
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\assetDatabase3
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Unity_Project\Library\CrashedAssetImports.txt
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\CrashedAssetImports.txt
     projectPath: Library\CrashedAssetImports.txt
@@ -144,34 +154,39 @@ MonoBehaviour:
     workTreeStatus: 1
   - path: Unity_Project\Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\CurrentLayout-default.dwlt
+=======
+  - path: Unity_Project\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\CurrentLayout-default.dwlt
+>>>>>>> Character_Animations
     projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Unity_Project\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
     projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
@@ -180,10 +195,15 @@ MonoBehaviour:
     workTreeStatus: 1
   - path: Unity_Project\Library\InspectorExpandedItems.asset
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\InspectorExpandedItems.asset
+=======
+  - path: Unity_Project\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\InspectorExpandedItems.asset
+>>>>>>> Character_Animations
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Unity_Project\Library\metadata\27\27d79ae20464c0b4899915d0efd73fb9
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\27\27d79ae20464c0b4899915d0efd73fb9
     projectPath: Library\metadata\27\27d79ae20464c0b4899915d0efd73fb9
@@ -300,16 +320,25 @@ MonoBehaviour:
     workTreeStatus: 3
   - path: Unity_Project\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+=======
+  - path: Unity_Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+>>>>>>> Character_Animations
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Unity_Project\Temp\UnityLockfile
+<<<<<<< HEAD
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityLockfile
+=======
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityLockfile
+>>>>>>> Character_Animations
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+<<<<<<< HEAD
   - path: Unity_Project\Temp\UnityTempFile-09cdd26c26684c045b2cb7d31d542557
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-09cdd26c26684c045b2cb7d31d542557
     projectPath: Temp\UnityTempFile-09cdd26c26684c045b2cb7d31d542557
@@ -382,3 +411,5 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+=======
+>>>>>>> Character_Animations

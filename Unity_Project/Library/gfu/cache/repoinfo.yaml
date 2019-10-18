@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2019-10-16T20:26:04.220-04:00
   initializedAtString: 2019-10-16T20:26:04.220-04:00
+=======
+  lastUpdatedAtString: 2019-10-18T18:43:25.248-04:00
+  initializedAtString: 2019-10-18T18:43:25.248-04:00
+>>>>>>> Character_Animations
   currentGitRemote:
     name: origin
     url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
@@ -24,6 +29,7 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
+<<<<<<< HEAD
     name: Level_Design
     tracking: origin/Level_Design
   currentConfigBranch:
@@ -32,6 +38,16 @@ MonoBehaviour:
       name: origin
       url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
     trackingBranch: Level_Design
+=======
+    name: Character_Animations
+    tracking: origin/Character_Animations
+  currentConfigBranch:
+    name: Character_Animations
+    remote:
+      name: origin
+      url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+    trackingBranch: Character_Animations
+>>>>>>> Character_Animations
   currentConfigRemote:
     name: origin
     url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
