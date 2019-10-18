@@ -890,7 +890,7 @@ GameObject:
   - component: {fileID: 2004499739}
   - component: {fileID: 2004499740}
   m_Layer: 0
-  m_Name: Player
+  m_Name: PlayerIdle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -912,7 +912,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: cca8abc87078b704188a14dfe8f93a3b, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -978,8 +978,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 459545725
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -2590428952501623742, guid: 2b7f2095fd51a644395b1b79ff6105e7,
     type: 3}
