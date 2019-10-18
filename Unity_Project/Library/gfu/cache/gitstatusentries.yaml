@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-18T18:39:36.432-04:00
-  initializedAtString: 2019-10-18T18:26:55.205-04:00
+  lastUpdatedAtString: 2019-10-18T19:01:33.818-04:00
+  initializedAtString: 2019-10-18T18:43:29.528-04:00
   entries:
   - path: Unity_Project\Assets\Scenes\Character_Test.unity
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\Character_Test.unity
@@ -22,21 +22,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Assets\Slippery.physicsMaterial2D
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Slippery.physicsMaterial2D
-    projectPath: Assets\Slippery.physicsMaterial2D
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Slippery.physicsMaterial2D.meta
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Slippery.physicsMaterial2D.meta
-    projectPath: Assets\Slippery.physicsMaterial2D.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Unity_Project\Library\assetDatabase3
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -67,24 +61,6 @@ MonoBehaviour:
   - path: Unity_Project\Library\InspectorExpandedItems.asset
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cc\cca8abc87078b704188a14dfe8f93a3b
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\cc\cca8abc87078b704188a14dfe8f93a3b
-    projectPath: Library\metadata\cc\cca8abc87078b704188a14dfe8f93a3b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\cc\cca8abc87078b704188a14dfe8f93a3b.info
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\cc\cca8abc87078b704188a14dfe8f93a3b.info
-    projectPath: Library\metadata\cc\cca8abc87078b704188a14dfe8f93a3b.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
