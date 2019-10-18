@@ -46,7 +46,11 @@ public class Character_Controller : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W) && isGrounded == true)
         {
             rb.velocity = Vector2.up * jumpForce;
+            animator.SetBool("IsJumping", true);
+            animator.SetFloat("Height", groundCheck.position.y);
+            
         }
+        
        
     }
     //This function flips the orientation of the sprite, using this
@@ -59,5 +63,9 @@ public class Character_Controller : MonoBehaviour
         transform.localScale = Scaler;
 
         //comment boi
+    }
+
+    public void OnLanding () {
+      animator.SetBool("IsJumping", false);
     }
 }
