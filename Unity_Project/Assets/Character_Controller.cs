@@ -43,13 +43,26 @@ public class Character_Controller : MonoBehaviour
     }
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W) && isGrounded == true)
+               
+      if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) && isGrounded == true)
         {
+           
             rb.velocity = Vector2.up * jumpForce;
             animator.SetBool("IsJumping", true);
-            animator.SetFloat("Height", groundCheck.position.y);
+            //animator.SetFloat("Height", groundCheck.position.y);
             
         }
+      if ((!Input.GetKeyDown(KeyCode.UpArrow) && !Input.GetKeyDown(KeyCode.W)) && isGrounded == false)
+      {
+        animator.SetBool("IsJumping", true);
+      }
+      if ((!Input.GetKeyDown(KeyCode.UpArrow) && !Input.GetKeyDown(KeyCode.W)) && isGrounded == true) {
+        animator.SetBool("IsJumping", false);
+      }
+
+
+
+      
         
        
     }
@@ -65,7 +78,4 @@ public class Character_Controller : MonoBehaviour
         //comment boi
     }
 
-    public void OnLanding () {
-      animator.SetBool("IsJumping", false);
-    }
-}
+   }
