@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
 
 public class Character_Controller : MonoBehaviour
 {
@@ -17,7 +16,7 @@ public class Character_Controller : MonoBehaviour
     public Transform groundCheck;
     public float checkRadius;
     public LayerMask whatIsGround;
-    public Animator animator;
+
 
 
     void Start()
@@ -39,31 +38,13 @@ public class Character_Controller : MonoBehaviour
         {
             Flip();
         }
-        animator.SetFloat("Speed", Math.Abs(moveInput * speed));
     }
     private void Update()
     {
         if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) && isGrounded == true)
         {
-           
             rb.velocity = Vector2.up * jumpForce;
-            animator.SetBool("IsJumping", true);
-            //animator.SetFloat("Height", groundCheck.position.y);
-            
         }
-      if ((!Input.GetKeyDown(KeyCode.UpArrow) && !Input.GetKeyDown(KeyCode.W)) && isGrounded == false)
-      {
-        animator.SetBool("IsJumping", true);
-      }
-      if ((!Input.GetKeyDown(KeyCode.UpArrow) && !Input.GetKeyDown(KeyCode.W)) && isGrounded == true) {
-        animator.SetBool("IsJumping", false);
-      }
-
-
-
-      
-        
-       
     }
     //This function flips the orientation of the sprite, using this
     //before animation.
@@ -76,5 +57,4 @@ public class Character_Controller : MonoBehaviour
 
         //comment boi
     }
-
-   }
+}
