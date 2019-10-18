@@ -888,6 +888,7 @@ GameObject:
   - component: {fileID: 2004499736}
   - component: {fileID: 2004499735}
   - component: {fileID: 2004499739}
+  - component: {fileID: 2004499740}
   m_Layer: 0
   m_Name: PlayerIdle
   m_TagString: Untagged
@@ -933,7 +934,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.43, y: 1.52}
+    oldSize: {x: 9.533334, y: 10.133333}
     newSize: {x: 1.43, y: 1.52}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1026,3 +1027,23 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 256
+  animator: {fileID: 2004499740}
+--- !u!95 &2004499740
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2004499734}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0042a4fd767ef442b979e835b63b7b66, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

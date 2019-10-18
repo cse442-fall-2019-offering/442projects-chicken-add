@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class Character_Controller : MonoBehaviour
 {
@@ -16,7 +17,7 @@ public class Character_Controller : MonoBehaviour
     public Transform groundCheck;
     public float checkRadius;
     public LayerMask whatIsGround;
-
+    public Animator animator;
 
 
     void Start()
@@ -38,6 +39,7 @@ public class Character_Controller : MonoBehaviour
         {
             Flip();
         }
+        animator.SetFloat("Speed", Math.Abs(moveInput * speed));
     }
     private void Update()
     {
@@ -45,6 +47,7 @@ public class Character_Controller : MonoBehaviour
         {
             rb.velocity = Vector2.up * jumpForce;
         }
+       
     }
     //This function flips the orientation of the sprite, using this
     //before animation.
