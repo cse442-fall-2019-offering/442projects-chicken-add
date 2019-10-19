@@ -10,11 +10,14 @@ public class Character_Controller : MonoBehaviour
     private float moveInput;
 
     private Rigidbody2D rb;
-
+    private BoxCollider2D box;
     private bool facingRight = true;
 
     private bool isGrounded;
     public Transform groundCheck;
+    private bool isCrouching;
+    public Transform crouchCheck;
+    private bool crouch;
     public float checkRadius;
     public LayerMask whatIsGround;
     public Animator animator;
@@ -22,13 +25,14 @@ public class Character_Controller : MonoBehaviour
 
     void Start()
     {
+        box = GetComponent<BoxCollider2D>();
         rb = GetComponent<Rigidbody2D>();
     }
 
     void FixedUpdate()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
-
+        crouch = Physics2D.OverlapCircle(crouchCheck.position, checkRadius, whatIsGround);
         moveInput = Input.GetAxis("Horizontal");
         //right arrow input = 1, left = -1
         rb.velocity = new Vector2(moveInput * speed, rb.velocity.y);
@@ -43,8 +47,22 @@ public class Character_Controller : MonoBehaviour
     }
     private void Update()
     {
-               
-      if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) && isGrounded == true)
+        Debug.Log(crouch);
+      if ((Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S)) && isCrouching == false)
+        {
+            box.enabled = false;
+            isCrouching = true;
+            //rb.velocity = new Vector2((moveInput * speed) / 2, rb.velocity.y);
+        }
+        if ((Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) && (crouch == false))
+        {
+            box.enabled = true;
+            isCrouching = false;
+        }
+
+
+
+            if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) && isGrounded == true)
         {
            
             rb.velocity = Vector2.up * jumpForce;
