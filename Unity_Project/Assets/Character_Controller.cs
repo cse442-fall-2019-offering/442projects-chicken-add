@@ -15,7 +15,8 @@ public class Character_Controller : MonoBehaviour
 
     private bool isGrounded;
     public Transform groundCheck;
-    private bool isCrouching;
+    private bool isCrouching = false;
+    private bool standUp = false;
     public Transform crouchCheck;
     private bool crouch;
     public float checkRadius;
@@ -47,22 +48,38 @@ public class Character_Controller : MonoBehaviour
     }
     private void Update()
     {
-        Debug.Log(crouch);
+        Debug.Log(isCrouching);
+        //Debug.Log(crouch);
       if ((Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S)) && isCrouching == false)
         {
             box.enabled = false;
             isCrouching = true;
             //rb.velocity = new Vector2((moveInput * speed) / 2, rb.velocity.y);
         }
-        if ((Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) && (crouch == false))
+        else if ((Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) && (crouch == false))
         {
             box.enabled = true;
             isCrouching = false;
         }
+        if((Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) && (crouch == true))
+        {
+            standUp = true;
+        }
+        if (standUp && (crouch == false))
+        {
+            box.enabled = true;
+            standUp = false;
+            isCrouching = false;
+        }
+        /*if ((Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) && (crouch == false))
+        {
+            box.enabled = true;
+            isCrouching = false;
+        }*/
 
 
 
-            if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) && isGrounded == true)
+        if ((Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W)) && isGrounded == true)
         {
            
             rb.velocity = Vector2.up * jumpForce;
