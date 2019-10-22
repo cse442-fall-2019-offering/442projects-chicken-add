@@ -94,6 +94,7 @@ public class Character_Controller : MonoBehaviour
       if ((!Input.GetKeyDown(KeyCode.UpArrow) && !Input.GetKeyDown(KeyCode.W)) && isGrounded == true) {
         animator.SetBool("IsJumping", false);
       }
+      animator.SetBool("IsCrouching", isCrouching);
 
 
 
