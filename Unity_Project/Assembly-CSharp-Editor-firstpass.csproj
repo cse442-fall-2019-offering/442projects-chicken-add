@@ -81,9 +81,6 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -104,9 +101,6 @@
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
