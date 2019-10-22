@@ -14,7 +14,11 @@ public class bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(collision.name);
+        Enemy enemy = collision.GetComponent<Enemy>();
+        if(enemy != null)
+        {
+            enemy.takeDamage(25);
+        }
         Destroy(gameObject);
     }
 
