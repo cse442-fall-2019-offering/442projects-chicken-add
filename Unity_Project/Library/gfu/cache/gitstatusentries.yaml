@@ -13,138 +13,678 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-22T17:45:24.144-04:00
-  initializedAtString: 2019-10-22T17:31:14.413-04:00
+  lastUpdatedAtString: 2019-10-22T19:21:50.071-04:00
+  initializedAtString: 2019-10-22T18:36:38.005-04:00
   entries:
-  - path: Unity_Project\.vs\Unity_Project\v15\.suo
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\.suo
-    projectPath: .vs\Unity_Project\v15\.suo
+  - path: Unity_Project\Assembly-CSharp.csproj
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
-    projectPath: .vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
+  - path: Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\Unity_Project\v15\Server\sqlite3\storage.ide-wal
+  - path: Unity_Project\Assets\bullet.cs
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\bullet.cs
+    projectPath: Assets\bullet.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\bullet.cs.meta
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\bullet.cs.meta
+    projectPath: Assets\bullet.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Character_Controller.cs
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Character_Controller.cs
+    projectPath: Assets\Character_Controller.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Assets\Control.cs
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\Control.cs
-    projectPath: Assets\Control.cs
+  - path: Unity_Project\Assets\Enemy.cs
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Enemy.cs
+    projectPath: Assets\Enemy.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Enemy.cs.meta
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Enemy.cs.meta
+    projectPath: Assets\Enemy.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Level_Design\Bullet.prefab
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\Bullet.prefab
+    projectPath: Assets\Level_Design\Bullet.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Level_Design\Bullet.prefab.meta
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\Bullet.prefab.meta
+    projectPath: Assets\Level_Design\Bullet.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Level_Design\comp.png
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\comp.png
+    projectPath: Assets\Level_Design\comp.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Level_Design\comp.png.meta
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\comp.png.meta
+    projectPath: Assets\Level_Design\comp.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Level_Design\comp.prefab
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\comp.prefab
+    projectPath: Assets\Level_Design\comp.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Level_Design\comp.prefab.meta
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\comp.prefab.meta
+    projectPath: Assets\Level_Design\comp.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Level_Design\Level01.png
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\Level01.png
+    projectPath: Assets\Level_Design\Level01.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Assets\Level_Design\PlayerIdle.prefab
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\PlayerIdle.prefab
+    projectPath: Assets\Level_Design\PlayerIdle.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Assets\Player.cs
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Player.cs
+    projectPath: Assets\Player.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Assets\Scenes\StartMenu.unity
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\Scenes\StartMenu.unity
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Scenes\StartMenu.unity
     projectPath: Assets\Scenes\StartMenu.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Assets\Scenes\World.unity
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\Scenes\World.unity
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Scenes\World.unity
     projectPath: Assets\Scenes\World.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project\Assets\weapon.cs
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\weapon.cs
+    projectPath: Assets\weapon.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\weapon.cs.meta
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\weapon.cs.meta
+    projectPath: Assets\weapon.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\assetDatabase3
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\assetDatabase3
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Unity_Project\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
-    projectPath: Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
+  - path: Unity_Project\Library\metadata\07\0740c19e52f95044cb5dce5de67dd324
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\07\0740c19e52f95044cb5dce5de67dd324
+    projectPath: Library\metadata\07\0740c19e52f95044cb5dce5de67dd324
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\07\0740c19e52f95044cb5dce5de67dd324.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\07\0740c19e52f95044cb5dce5de67dd324.info
+    projectPath: Library\metadata\07\0740c19e52f95044cb5dce5de67dd324.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca
+    projectPath: Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca.info
+    projectPath: Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\2a\2a410c098978cef44a20f43b7db3eaa4
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\2a\2a410c098978cef44a20f43b7db3eaa4
+    projectPath: Library\metadata\2a\2a410c098978cef44a20f43b7db3eaa4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\2a\2a410c098978cef44a20f43b7db3eaa4.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\2a\2a410c098978cef44a20f43b7db3eaa4.info
+    projectPath: Library\metadata\2a\2a410c098978cef44a20f43b7db3eaa4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
+    projectPath: Library\metadata\31\31958cec507553946927001eb481314a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\58\5873025ac93dc21459e06f576fc4c314
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\58\5873025ac93dc21459e06f576fc4c314
+    projectPath: Library\metadata\58\5873025ac93dc21459e06f576fc4c314
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\58\5873025ac93dc21459e06f576fc4c314.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\58\5873025ac93dc21459e06f576fc4c314.info
+    projectPath: Library\metadata\58\5873025ac93dc21459e06f576fc4c314.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\8d\8d482a592af676646b5e175ae43a85eb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\8d\8d482a592af676646b5e175ae43a85eb
+    projectPath: Library\metadata\8d\8d482a592af676646b5e175ae43a85eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\8d\8d482a592af676646b5e175ae43a85eb.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\8d\8d482a592af676646b5e175ae43a85eb.info
+    projectPath: Library\metadata\8d\8d482a592af676646b5e175ae43a85eb.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\bf\bf2e522d2537fb042b623bc874729017
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\bf\bf2e522d2537fb042b623bc874729017
+    projectPath: Library\metadata\bf\bf2e522d2537fb042b623bc874729017
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\bf\bf2e522d2537fb042b623bc874729017.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\bf\bf2e522d2537fb042b623bc874729017.info
+    projectPath: Library\metadata\bf\bf2e522d2537fb042b623bc874729017.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\c1\c13e5bd22728d0749b001e5517650761
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\c1\c13e5bd22728d0749b001e5517650761
+    projectPath: Library\metadata\c1\c13e5bd22728d0749b001e5517650761
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\c1\c13e5bd22728d0749b001e5517650761.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\c1\c13e5bd22728d0749b001e5517650761.info
+    projectPath: Library\metadata\c1\c13e5bd22728d0749b001e5517650761.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\c3\c314285a0ac4de64bafe2c44c4c1e784
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\c3\c314285a0ac4de64bafe2c44c4c1e784
+    projectPath: Library\metadata\c3\c314285a0ac4de64bafe2c44c4c1e784
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\c3\c314285a0ac4de64bafe2c44c4c1e784.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\c3\c314285a0ac4de64bafe2c44c4c1e784.info
+    projectPath: Library\metadata\c3\c314285a0ac4de64bafe2c44c4c1e784.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94
+    projectPath: Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94.info
+    projectPath: Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\ce\ce08be626c1ddb546a1ec34051818096
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\ce\ce08be626c1ddb546a1ec34051818096
+    projectPath: Library\metadata\ce\ce08be626c1ddb546a1ec34051818096
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\ce\ce08be626c1ddb546a1ec34051818096.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\ce\ce08be626c1ddb546a1ec34051818096.info
+    projectPath: Library\metadata\ce\ce08be626c1ddb546a1ec34051818096.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\ce\ce2d57977e0c4cc4a88f8583d06bb64c
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\ce\ce2d57977e0c4cc4a88f8583d06bb64c
+    projectPath: Library\metadata\ce\ce2d57977e0c4cc4a88f8583d06bb64c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\de\de7e17ccf54b030468cc4feb003bd6da.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\de\de7e17ccf54b030468cc4feb003bd6da.info
+    projectPath: Library\metadata\de\de7e17ccf54b030468cc4feb003bd6da.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\ee\ee6c8fe7b56f9e849bea638556f07dda
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\ee\ee6c8fe7b56f9e849bea638556f07dda
+    projectPath: Library\metadata\ee\ee6c8fe7b56f9e849bea638556f07dda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\ee\ee6c8fe7b56f9e849bea638556f07dda.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\ee\ee6c8fe7b56f9e849bea638556f07dda.info
+    projectPath: Library\metadata\ee\ee6c8fe7b56f9e849bea638556f07dda.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\ee\ee84bdfd249062247afaf619b5bcb083.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\ee\ee84bdfd249062247afaf619b5bcb083.info
+    projectPath: Library\metadata\ee\ee84bdfd249062247afaf619b5bcb083.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
+  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Cinemachine.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Cinemachine.dll
+    projectPath: Library\ScriptAssemblies\Cinemachine.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+  - path: Unity_Project\ProjectSettings\InputManager.asset
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
+  - path: Unity_Project\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-0b117c3038fab5441bc36969ec2a5469
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-0b117c3038fab5441bc36969ec2a5469
-    projectPath: Temp\UnityTempFile-0b117c3038fab5441bc36969ec2a5469
+  - path: Unity_Project\Temp\UnityTempFile-016dd093fa5c0e5478fe8b0c3b231bab
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-016dd093fa5c0e5478fe8b0c3b231bab
+    projectPath: Temp\UnityTempFile-016dd093fa5c0e5478fe8b0c3b231bab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-0b8d9e9ee2da75c4a8d15f3ec2a7bf19
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-0b8d9e9ee2da75c4a8d15f3ec2a7bf19
+    projectPath: Temp\UnityTempFile-0b8d9e9ee2da75c4a8d15f3ec2a7bf19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-115972ac960290e47b35a4e0c0502774
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-115972ac960290e47b35a4e0c0502774
+    projectPath: Temp\UnityTempFile-115972ac960290e47b35a4e0c0502774
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-431846d5b7e11284c87a4735956a1516
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-431846d5b7e11284c87a4735956a1516
+    projectPath: Temp\UnityTempFile-431846d5b7e11284c87a4735956a1516
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-478b6a9e3e8f6bd4897e329bfed6f20d
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-478b6a9e3e8f6bd4897e329bfed6f20d
+    projectPath: Temp\UnityTempFile-478b6a9e3e8f6bd4897e329bfed6f20d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-4ec69534ef1c45c4fa4d3c33f7a0e057
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-4ec69534ef1c45c4fa4d3c33f7a0e057
+    projectPath: Temp\UnityTempFile-4ec69534ef1c45c4fa4d3c33f7a0e057
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-5d97faf163f26184bbe72e603dd8c72a
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-5d97faf163f26184bbe72e603dd8c72a
+    projectPath: Temp\UnityTempFile-5d97faf163f26184bbe72e603dd8c72a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-75c60ea896037064ab3285a6906bd1a1
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-75c60ea896037064ab3285a6906bd1a1
+    projectPath: Temp\UnityTempFile-75c60ea896037064ab3285a6906bd1a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-9252cc4b863aacf4fa5fb8bf5d9de17a
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-9252cc4b863aacf4fa5fb8bf5d9de17a
+    projectPath: Temp\UnityTempFile-9252cc4b863aacf4fa5fb8bf5d9de17a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-97fb7de0a1901004ca564bfa96189e83
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-97fb7de0a1901004ca564bfa96189e83
+    projectPath: Temp\UnityTempFile-97fb7de0a1901004ca564bfa96189e83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-a72c9b79bc865aa4488fdc9a34b46c4b
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-a72c9b79bc865aa4488fdc9a34b46c4b
+    projectPath: Temp\UnityTempFile-a72c9b79bc865aa4488fdc9a34b46c4b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-a8ba44f26af279c48b7072bf93b5dfd0
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-a8ba44f26af279c48b7072bf93b5dfd0
+    projectPath: Temp\UnityTempFile-a8ba44f26af279c48b7072bf93b5dfd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-b1edfd39d039d34429439ef598bdb671
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-b1edfd39d039d34429439ef598bdb671
+    projectPath: Temp\UnityTempFile-b1edfd39d039d34429439ef598bdb671
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-b3d6f5db49deb3a42971ae111971198e
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-b3d6f5db49deb3a42971ae111971198e
+    projectPath: Temp\UnityTempFile-b3d6f5db49deb3a42971ae111971198e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-b698306fdc98d2749a6eb35e92412c9b
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-b698306fdc98d2749a6eb35e92412c9b
+    projectPath: Temp\UnityTempFile-b698306fdc98d2749a6eb35e92412c9b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-bc14729833596454c8a937d01bff3b5a
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-bc14729833596454c8a937d01bff3b5a
+    projectPath: Temp\UnityTempFile-bc14729833596454c8a937d01bff3b5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-c43dece10fcbe7d4e9c1505cceda85d3
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-c43dece10fcbe7d4e9c1505cceda85d3
+    projectPath: Temp\UnityTempFile-c43dece10fcbe7d4e9c1505cceda85d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-c8a0858275a786246871e451092e071c
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-c8a0858275a786246871e451092e071c
+    projectPath: Temp\UnityTempFile-c8a0858275a786246871e451092e071c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-d18d14979592d004a830dd44e6e7b22c
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-d18d14979592d004a830dd44e6e7b22c
+    projectPath: Temp\UnityTempFile-d18d14979592d004a830dd44e6e7b22c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-dc7101b4045acfd4ab10de4fee788b1d
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-dc7101b4045acfd4ab10de4fee788b1d
+    projectPath: Temp\UnityTempFile-dc7101b4045acfd4ab10de4fee788b1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-ed7a4493ffef9904a83d3a041be25025
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-ed7a4493ffef9904a83d3a041be25025
+    projectPath: Temp\UnityTempFile-ed7a4493ffef9904a83d3a041be25025
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-f9aac850dfd25e24eb3f08051615efb6
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-f9aac850dfd25e24eb3f08051615efb6
+    projectPath: Temp\UnityTempFile-f9aac850dfd25e24eb3f08051615efb6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Unity_Project.sln
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Unity_Project.sln
+    projectPath: Unity_Project.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

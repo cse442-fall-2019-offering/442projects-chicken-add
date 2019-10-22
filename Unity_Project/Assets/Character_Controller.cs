@@ -23,6 +23,8 @@ public class Character_Controller : MonoBehaviour
     public LayerMask whatIsGround;
     public Animator animator;
 
+    public static GameMaster gm;
+
 
     void Start()
     {
@@ -107,11 +109,15 @@ public class Character_Controller : MonoBehaviour
     void Flip()
     {
         facingRight = !facingRight;
+        transform.Rotate(0f, 180f, 0f);
+        /*
         Vector3 Scaler = transform.localScale;
         Scaler.x *= -1;
         transform.localScale = Scaler;
-
+        */
         //comment boi
     }
+
+    
 
    }

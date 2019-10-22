@@ -1032,6 +1032,9 @@ MonoBehaviour:
   - color: {r: 0, g: 1, b: 0, a: 1}
     prefab: {fileID: 4213108552979410660, guid: 8d482a592af676646b5e175ae43a85eb,
       type: 3}
+  - color: {r: 1, g: 0, b: 0, a: 1}
+    prefab: {fileID: 2872457100502968400, guid: ce08be626c1ddb546a1ec34051818096,
+      type: 3}
 --- !u!4 &1537069526
 Transform:
   m_ObjectHideFlags: 0
