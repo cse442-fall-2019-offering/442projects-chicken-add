@@ -206,7 +206,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerStats:
     Health: 100
-  fallBoundary: 2
+  fallBoundary: -25
 --- !u!1 &4213108553195238362
 GameObject:
   m_ObjectHideFlags: 0
