@@ -48,7 +48,7 @@ public class Character_Controller : MonoBehaviour
     }
     private void Update()
     {
-        Debug.Log(isCrouching);
+        //Debug.Log(isCrouching);
         //Debug.Log(crouch);
       if ((Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S)) && isCrouching == false)
         {
