@@ -13,13 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-<<<<<<< HEAD
-  lastUpdatedAtString: 2019-10-22T18:36:31.104-04:00
-  initializedAtString: 2019-10-22T18:36:31.104-04:00
-=======
-  lastUpdatedAtString: 2019-10-22T15:55:34.740-04:00
-  initializedAtString: 2019-10-22T15:55:34.740-04:00
->>>>>>> Shooting
+  lastUpdatedAtString: 2019-10-22T22:55:55.674-04:00
+  initializedAtString: 2019-10-22T22:55:55.674-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
@@ -29,23 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-<<<<<<< HEAD
     name: Level_Design
     tracking: origin/Level_Design
-=======
-    name: Shooting
-    tracking: origin/Shooting
->>>>>>> Shooting
   currentConfigBranch:
-    name: Shooting
+    name: Level_Design
     remote:
       name: origin
       url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
-<<<<<<< HEAD
     trackingBranch: Level_Design
-=======
-    trackingBranch: Shooting
->>>>>>> Shooting
   currentConfigRemote:
     name: origin
     url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git

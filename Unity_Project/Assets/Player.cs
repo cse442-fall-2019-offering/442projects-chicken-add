@@ -4,6 +4,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [System.Serializable]
+    
     public class PlayerStats
     {
         public int Health = 100;
@@ -15,10 +16,13 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+
         if (transform.position.y <= fallBoundary)
         {
+            Debug.Log("Fell");
             DamagePlayer(9999);
         }
+
     }
 
     public void DamagePlayer (int damage)
@@ -32,9 +36,14 @@ public class Player : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.collider.tag == "Enemy")
+       
+    if (collision.collider.tag == "Enemy")
         {
-            GameMaster.KillPlayer(this);
+        DamagePlayer(9999);
+        Debug.Log("Shot");
+        //GameMaster.KillPlayer(this);
         }
+        
+        
     }
 }

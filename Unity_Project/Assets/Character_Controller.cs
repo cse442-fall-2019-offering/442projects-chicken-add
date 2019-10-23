@@ -110,15 +110,11 @@ public class Character_Controller : MonoBehaviour
     {
         facingRight = !facingRight;
         transform.Rotate(0f, 180f, 0f);
-<<<<<<< HEAD
         /*
         Vector3 Scaler = transform.localScale;
         Scaler.x *= -1;
         transform.localScale = Scaler;
         */
-=======
-
->>>>>>> Shooting
         //comment boi
     }
 
