@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3e7a1321abf573b4ab387218a9e9202c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aura
+  fontNames:
+  - Aura
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1c19cf6dcabfb4d98a87239fc2f67946, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

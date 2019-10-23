@@ -4,6 +4,10 @@ public class Control : MonoBehaviour
 {
     public void NextScene()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("World");
+    }
+    public void EndScene()
+    {
+        SceneManager.LoadScene("EndGame");
     }
 }
