@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -47,6 +48,7 @@ public class Player : MonoBehaviour
         if (collision.collider.tag == "Finish")
         {
             Debug.Log("You Win!");
+            SceneManager.LoadScene("EndGame");
         }
 
     }
