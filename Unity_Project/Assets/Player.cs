@@ -39,6 +39,7 @@ public class Player : MonoBehaviour
        
     if (collision.collider.tag == "Enemy")
         {
+            
         DamagePlayer(9999);
         Debug.Log("Shot");
         //GameMaster.KillPlayer(this);

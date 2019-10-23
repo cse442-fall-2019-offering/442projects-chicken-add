@@ -10,7 +10,8 @@ public class Character_Controller : MonoBehaviour
     private float moveInput;
 
     private Rigidbody2D rb;
-    private BoxCollider2D box;
+    private CapsuleCollider2D box;
+    private CircleCollider2D cir;
     private bool facingRight = true;
 
     private bool isGrounded;
@@ -28,8 +29,10 @@ public class Character_Controller : MonoBehaviour
 
     void Start()
     {
-        box = GetComponent<BoxCollider2D>();
+        box = GetComponent<CapsuleCollider2D>();
+        cir = GetComponent<CircleCollider2D>();
         rb = GetComponent<Rigidbody2D>();
+        cir.enabled = false;
     }
 
     void FixedUpdate()
@@ -55,12 +58,14 @@ public class Character_Controller : MonoBehaviour
       if ((Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S)) && isCrouching == false)
         {
             box.enabled = false;
+            cir.enabled = true;
             isCrouching = true;
             //rb.velocity = new Vector2((moveInput * speed) / 2, rb.velocity.y);
         }
         else if ((Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) && (crouch == false))
         {
             box.enabled = true;
+            cir.enabled = false;
             isCrouching = false;
         }
         if((Input.GetKeyUp(KeyCode.DownArrow) || Input.GetKeyUp(KeyCode.S)) && (crouch == true))
@@ -70,6 +75,7 @@ public class Character_Controller : MonoBehaviour
         if (standUp && (crouch == false))
         {
             box.enabled = true;
+            cir.enabled = false;
             standUp = false;
             isCrouching = false;
         }
