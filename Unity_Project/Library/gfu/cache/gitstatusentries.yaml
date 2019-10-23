@@ -13,15 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
+<<<<<<< HEAD
   lastUpdatedAtString: 2019-10-22T19:21:50.071-04:00
   initializedAtString: 2019-10-22T18:36:38.005-04:00
   entries:
   - path: Unity_Project\Assembly-CSharp.csproj
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assembly-CSharp.csproj
+=======
+  lastUpdatedAtString: 2019-10-22T15:57:32.568-04:00
+  initializedAtString: 2019-10-22T15:55:34.892-04:00
+  entries:
+  - path: Unity_Project/Assembly-CSharp.csproj
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assembly-CSharp.csproj
+>>>>>>> Shooting
     projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+<<<<<<< HEAD
   - path: Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
     projectPath: Assembly-CSharp-Editor-firstpass.csproj
@@ -121,6 +130,23 @@ MonoBehaviour:
   - path: Unity_Project\Assets\Scenes\World.unity
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Scenes\World.unity
     projectPath: Assets\Scenes\World.unity
+=======
+  - path: Unity_Project/Assets/bullet.cs
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/bullet.cs
+    projectPath: Assets/bullet.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Assets/comp.png
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/comp.png
+    projectPath: Assets/comp.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Assets/comp.png.meta
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/comp.png.meta
+    projectPath: Assets/comp.png.meta
+>>>>>>> Shooting
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -130,6 +156,7 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+<<<<<<< HEAD
   - path: Unity_Project\Assets\weapon.cs.meta
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\weapon.cs.meta
     projectPath: Assets\weapon.cs.meta
@@ -163,21 +190,63 @@ MonoBehaviour:
   - path: Unity_Project\Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
+=======
+  - path: Unity_Project/Assets/Enemy.cs
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Enemy.cs
+    projectPath: Assets/Enemy.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Assets/Enemy.cs.meta
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Enemy.cs.meta
+    projectPath: Assets/Enemy.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Assets/Scenes/World.unity
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Scenes/World.unity
+    projectPath: Assets/Scenes/World.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+  - path: Unity_Project/Library/assetDatabase3
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
+  - path: Unity_Project/Library/CurrentLayout-default.dwlt
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project/Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/expandedItems
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/expandedItems
+    projectPath: Library/expandedItems
+>>>>>>> Shooting
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/gfu/cache/branches.yaml
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+<<<<<<< HEAD
   - path: Unity_Project\Library\InspectorExpandedItems.asset
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
@@ -343,21 +412,39 @@ MonoBehaviour:
   - path: Unity_Project\Library\metadata\ee\ee84bdfd249062247afaf619b5bcb083.info
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\ee\ee84bdfd249062247afaf619b5bcb083.info
     projectPath: Library\metadata\ee\ee84bdfd249062247afaf619b5bcb083.info
+=======
+  - path: Unity_Project/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Unity_Project/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+  - path: Unity_Project/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+>>>>>>> Shooting
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/InspectorExpandedItems.asset
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+<<<<<<< HEAD
   - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
@@ -688,3 +775,95 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+=======
+  - path: Unity_Project/Library/metadata/69/69bdc98a6b0d14812b259ba5aef5c0d5
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/69/69bdc98a6b0d14812b259ba5aef5c0d5
+    projectPath: Library/metadata/69/69bdc98a6b0d14812b259ba5aef5c0d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/69/69bdc98a6b0d14812b259ba5aef5c0d5.info
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/69/69bdc98a6b0d14812b259ba5aef5c0d5.info
+    projectPath: Library/metadata/69/69bdc98a6b0d14812b259ba5aef5c0d5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/a7/a72426eb63b7b4520a581edc0191bdbb
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/a7/a72426eb63b7b4520a581edc0191bdbb
+    projectPath: Library/metadata/a7/a72426eb63b7b4520a581edc0191bdbb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/metadata/fd/fda9df9b532d548e699d56094664fb8b
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/fd/fda9df9b532d548e699d56094664fb8b
+    projectPath: Library/metadata/fd/fda9df9b532d548e699d56094664fb8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/fd/fda9df9b532d548e699d56094664fb8b.info
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/fd/fda9df9b532d548e699d56094664fb8b.info
+    projectPath: Library/metadata/fd/fda9df9b532d548e699d56094664fb8b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/ShaderCache/3/340f2d16b45a0d55990ef0e9bed14a58.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/3/340f2d16b45a0d55990ef0e9bed14a58.bin
+    projectPath: Library/ShaderCache/3/340f2d16b45a0d55990ef0e9bed14a58.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/b/b660f1df227eb2bcc00dcbc2fb6e97fe.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/b/b660f1df227eb2bcc00dcbc2fb6e97fe.bin
+    projectPath: Library/ShaderCache/b/b660f1df227eb2bcc00dcbc2fb6e97fe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Temp/__Backupscenes/0.backup
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Temp/UnityTempFile-436268423657b41fc8fa1a039f12ace8
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-436268423657b41fc8fa1a039f12ace8
+    projectPath: Temp/UnityTempFile-436268423657b41fc8fa1a039f12ace8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+>>>>>>> Shooting
