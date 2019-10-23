@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Cinemachine;
+using UnityEngine.SceneManagement;
 
 public class GameMaster : MonoBehaviour
 {
@@ -51,8 +52,12 @@ public class GameMaster : MonoBehaviour
     
     public static void KillPlayer(Player player)
     {
+        Debug.Log("Player Destroyed");
+        SceneManager.LoadScene("World");
+        /*
         Destroy(player.gameObject);
         Debug.Log("Player Destroyed");
         gm.StartCoroutine (gm.RespawnPlayer());
+        */
     }
 }

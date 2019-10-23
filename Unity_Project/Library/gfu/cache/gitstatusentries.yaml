@@ -13,12 +13,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-23T14:31:50.925-04:00
-  initializedAtString: 2019-10-23T14:31:50.925-04:00
+  lastUpdatedAtString: 2019-10-23T14:52:03.486-04:00
+  initializedAtString: 2019-10-23T14:42:02.328-04:00
   entries:
+  - path: Unity_Project\Assets\GameMaster.cs
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\GameMaster.cs
+    projectPath: Assets\GameMaster.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\assetDatabase3
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -28,369 +58,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\07\0740c19e52f95044cb5dce5de67dd324
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\07\0740c19e52f95044cb5dce5de67dd324
-    projectPath: Library\metadata\07\0740c19e52f95044cb5dce5de67dd324
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\8d\8d482a592af676646b5e175ae43a85eb.info
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\8d\8d482a592af676646b5e175ae43a85eb.info
-    projectPath: Library\metadata\8d\8d482a592af676646b5e175ae43a85eb.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b5\b55baf114aa39244d8629e0ec18c15a6.info
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\b5\b55baf114aa39244d8629e0ec18c15a6.info
-    projectPath: Library\metadata\b5\b55baf114aa39244d8629e0ec18c15a6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94
-    projectPath: Library\metadata\c7\c7940b8edd1a5d046ae95371dfd0eb94
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\CHANGELOG.md
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\CHANGELOG.md
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\CHANGELOG.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\com.unity.cinemachine.Editor.asmdef
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\com.unity.cinemachine.Editor.asmdef
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\com.unity.cinemachine.Editor.asmdef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBlenderSettingsEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBlenderSettingsEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBlenderSettingsEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineExternalCameraEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineExternalCameraEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineExternalCameraEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineFreeLookEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineFreeLookEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineFreeLookEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLockToTargetEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLockToTargetEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLockToTargetEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineMixingCameraEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineMixingCameraEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineMixingCameraEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachinePOVEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachinePOVEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachinePOVEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineTargetGroupEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineTargetGroupEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineTargetGroupEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewFreeLookEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewFreeLookEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewFreeLookEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewVirtualCameraEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewVirtualCameraEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewVirtualCameraEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\VcamStageEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\VcamStageEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\VcamStageEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseDefinitionPropertyDrawer.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseDefinitionPropertyDrawer.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseDefinitionPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseListenerEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseListenerEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseListenerEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseSourceEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseSourceEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseSourceEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PostProcessing\CinemachineVolumeSettingsEditor.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PostProcessing\CinemachineVolumeSettingsEditor.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PostProcessing\CinemachineVolumeSettingsEditor.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\AxisStatePropertyDrawer.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\AxisStatePropertyDrawer.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\AxisStatePropertyDrawer.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Timeline.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Timeline.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Timeline.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\BaseEditor.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\BaseEditor.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\BaseEditor.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\InspectorUtility.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\InspectorUtility.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\InspectorUtility.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\ScriptableObjectUtility.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\ScriptableObjectUtility.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\ScriptableObjectUtility.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\SerializedPropertyHelper.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\SerializedPropertyHelper.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\SerializedPropertyHelper.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\AboutWindow.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\AboutWindow.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\AboutWindow.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\CinemachineColliderPrefs.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\CinemachineColliderPrefs.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\CinemachineColliderPrefs.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\WaveformWindow.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\WaveformWindow.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\WaveformWindow.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Extras~\ReleaseNotes.txt
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Extras~\ReleaseNotes.txt
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Extras~\ReleaseNotes.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\LICENSE.md
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\LICENSE.md
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\LICENSE.md
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\license.txt.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\license.txt.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\license.txt.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\AssemblyInfo.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\AssemblyInfo.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\AssemblyInfo.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineCameraOffset.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineCameraOffset.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineCameraOffset.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineExternalCamera.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineExternalCamera.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineExternalCamera.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFollowZoom.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFollowZoom.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFollowZoom.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFreeLook.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFreeLook.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFreeLook.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\com.unity.cinemachine.asmdef
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\com.unity.cinemachine.asmdef
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\com.unity.cinemachine.asmdef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineExtension.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineExtension.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineExtension.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineInputAxisDriver.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineInputAxisDriver.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineInputAxisDriver.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachinePropertyAttribute.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachinePropertyAttribute.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachinePropertyAttribute.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineTouchInputMapper.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineTouchInputMapper.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineTouchInputMapper.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\ICinemachineComponent.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\ICinemachineComponent.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\ICinemachineComponent.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\SignalSourceAsset.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\SignalSourceAsset.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\SignalSourceAsset.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Experimental.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Experimental.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Experimental.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineFixedSignal.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineFixedSignal.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineFixedSignal.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineImpulseSource.cs
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineImpulseSource.cs
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineImpulseSource.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\PostProcessing\CinemachineVolumeSettings.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\PostProcessing\CinemachineVolumeSettings.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\PostProcessing\CinemachineVolumeSettings.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShot.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShot.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShot.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShotPlayable.cs.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShotPlayable.cs.meta
-    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShotPlayable.cs.meta
+  - path: Unity_Project\Library\metadata\eb\eb715a58bf9b1af46a99fbbccba178e2
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\eb\eb715a58bf9b1af46a99fbbccba178e2
+    projectPath: Library\metadata\eb\eb715a58bf9b1af46a99fbbccba178e2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -406,21 +76,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-1a3c0c34161795942a50d4a64dce8f2d
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-1a3c0c34161795942a50d4a64dce8f2d
-    projectPath: Temp\UnityTempFile-1a3c0c34161795942a50d4a64dce8f2d
+  - path: Unity_Project\Temp\UnityTempFile-c00050d95952d624aa4efd7eb96e0e13
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-c00050d95952d624aa4efd7eb96e0e13
+    projectPath: Temp\UnityTempFile-c00050d95952d624aa4efd7eb96e0e13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-cec33fbd0c94d494185bfccab77f4a3e
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-cec33fbd0c94d494185bfccab77f4a3e
+    projectPath: Temp\UnityTempFile-cec33fbd0c94d494185bfccab77f4a3e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
