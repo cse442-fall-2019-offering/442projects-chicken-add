@@ -298,10 +298,12 @@ Assets\Enemy.cs
 Assets\GameMaster.cs
 Assets\Leaderboard.cs
 Assets\LevelGen.cs
+Assets\LivesControl.cs
 Assets\MainMenu.cs
 Assets\Options.cs
 Assets\Pause.cs
 Assets\Player.cs
+Assets\ResetLives.cs
 Assets\SceneOneManage.cs
 Assets\SettingsMenuVol.cs
 Assets\StartMenuVol.cs
