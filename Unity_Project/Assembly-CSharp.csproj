@@ -72,6 +72,7 @@
     <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\Leaderboard.cs" />
     <Compile Include="Assets\LevelGen.cs" />
+    <Compile Include="Assets\LevelScript.cs" />
     <Compile Include="Assets\LivesControl.cs" />
     <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\Options.cs" />
