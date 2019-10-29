@@ -49,6 +49,7 @@ public class Player : MonoBehaviour
         {
             Debug.Log("You Win!");
             GameMaster.levels++;
+            GameMaster.lives = 3;
             SceneManager.LoadScene("EndGame");
         }
 
