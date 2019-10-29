@@ -77,6 +77,7 @@
     <Compile Include="Assets\Options.cs" />
     <Compile Include="Assets\Pause.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\ResetLives.cs" />
     <Compile Include="Assets\SceneOneManage.cs" />
     <Compile Include="Assets\SettingsMenuVol.cs" />
     <Compile Include="Assets\StartMenuVol.cs" />

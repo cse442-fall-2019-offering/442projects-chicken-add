@@ -19,7 +19,7 @@ public class GameMaster : MonoBehaviour
         Hertz1.SetActive(true);
         Hertz2.SetActive(true);
         Hertz3.SetActive(true);
-        lives = 3;
+        lives = LivesControl.Instance.life;
         if (gm == null)
         {
             gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
@@ -30,6 +30,11 @@ public class GameMaster : MonoBehaviour
     public Transform playerPrefab;
     public Transform spawnPoint;
     public int spawnDelay = 1;
+
+    public void SavePlayer()
+    {
+        LivesControl.Instance.life = lives;
+    }
     
     public void RespawnPlayer()
     {
@@ -61,6 +66,8 @@ public class GameMaster : MonoBehaviour
     {
         if (lives == 0)
         {
+            lives = 3;
+            gm.SavePlayer();
             Destroy(this.gameObject);
             SceneManager.LoadScene("GameOver");
 
@@ -79,6 +86,7 @@ public class GameMaster : MonoBehaviour
                     Hertz2.SetActive(false);
                 }
             }
+            gm.SavePlayer();
         }
     }
 
