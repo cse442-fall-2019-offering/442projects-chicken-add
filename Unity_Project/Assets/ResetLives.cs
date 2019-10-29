@@ -4,15 +4,11 @@ using UnityEngine;
 
 public class ResetLives : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // resets lives and level.
     void Start()
     {
         LivesControl.Instance.life = 3;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
+        LivesControl.Instance.level = 1;
         
     }
 }

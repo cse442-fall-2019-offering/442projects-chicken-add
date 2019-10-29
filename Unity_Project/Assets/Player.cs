@@ -48,6 +48,7 @@ public class Player : MonoBehaviour
         if (collision.collider.tag == "Finish")
         {
             Debug.Log("You Win!");
+            GameMaster.levels++;
             SceneManager.LoadScene("EndGame");
         }
 
