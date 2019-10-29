@@ -681,7 +681,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Level
+  m_Text: Fuck
 --- !u!222 &584517571
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1603,7 +1603,7 @@ GameObject:
   - component: {fileID: 1604306319}
   - component: {fileID: 1604306321}
   m_Layer: 0
-  m_Name: image 16
+  m_Name: LazyBoiWin
   m_TagString: Finish
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

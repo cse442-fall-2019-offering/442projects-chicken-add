@@ -13,42 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-29T12:22:05.195-04:00
-  initializedAtString: 2019-10-29T12:20:53.312-04:00
+  lastUpdatedAtString: 2019-10-29T16:11:04.159-04:00
+  initializedAtString: 2019-10-29T15:38:37.178-04:00
   entries:
-  - path: Unity_Project\.vs\Unity_Project\v15\.suo
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\.suo
-    projectPath: .vs\Unity_Project\v15\.suo
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
     fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
     projectPath: .vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-wal
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-wal
-    projectPath: .vs\Unity_Project\v15\Server\sqlite3\storage.ide-wal
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Assets\Player.cs
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\Player.cs
-    projectPath: Assets\Player.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project\Library\assetDatabase3
     fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,27 +52,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
-    projectPath: Library\metadata\31\31958cec507553946927001eb481314a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Unity_Project\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-0b3b33f1aa82d804a83e03bcfcd6a2ca
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-0b3b33f1aa82d804a83e03bcfcd6a2ca
-    projectPath: Temp\UnityTempFile-0b3b33f1aa82d804a83e03bcfcd6a2ca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
