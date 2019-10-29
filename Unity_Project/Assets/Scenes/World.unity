@@ -448,7 +448,7 @@ GameObject:
   m_Component:
   - component: {fileID: 371284521}
   - component: {fileID: 371284522}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Hertz2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -528,7 +528,7 @@ GameObject:
   m_Component:
   - component: {fileID: 531071676}
   - component: {fileID: 531071677}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Hertz3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -927,9 +927,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af489882ed3f1554fad08d80eb1ac562, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Hertz1: {fileID: 1512400711}
-  Hertz2: {fileID: 371284520}
-  Hertz3: {fileID: 531071675}
+  life: 3
 --- !u!4 &859911320
 Transform:
   m_ObjectHideFlags: 0
@@ -1339,7 +1337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1512400712}
   - component: {fileID: 1512400713}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Hertz1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
