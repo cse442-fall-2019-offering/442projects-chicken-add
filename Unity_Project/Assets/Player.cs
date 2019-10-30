@@ -48,9 +48,9 @@ public class Player : MonoBehaviour
         if (collision.collider.tag == "Finish")
         {
             Debug.Log("You Win!");
+            SceneManager.LoadScene("EndGame");
             LivesControl.Instance.life = 3;
             LivesControl.Instance.level++;
-            SceneManager.LoadScene("EndGame");
         }
 
     }

@@ -210,8 +210,10 @@ GameObject:
   m_Component:
   - component: {fileID: 364805247}
   - component: {fileID: 364805246}
+  - component: {fileID: 364805248}
+  - component: {fileID: 364805249}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: GameOverMusic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -226,7 +228,7 @@ AudioSource:
   m_GameObject: {fileID: 364805245}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: -4676028834502463239, guid: 2608aefd889e56c4ea960c96a50e34f3,
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 2608aefd889e56c4ea960c96a50e34f3,
     type: 2}
   m_audioClip: {fileID: 8300000, guid: 9a72e8ad9516195449b81ae802e38cb7, type: 3}
   m_PlayOnAwake: 1
@@ -328,6 +330,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &364805248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364805245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11cca69d6b3b7ed45ad8eecbfefcd2a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &364805249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364805245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee3065cc1c5c18c4ba0fd2027ce9c6a4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &374486039
 GameObject:
   m_ObjectHideFlags: 0
