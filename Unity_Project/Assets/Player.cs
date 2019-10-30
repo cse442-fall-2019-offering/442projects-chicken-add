@@ -15,6 +15,8 @@ public class Player : MonoBehaviour
 
     public int fallBoundary = -25;
 
+    public GameObject ouch;
+
     void Update()
     {
 
@@ -30,7 +32,7 @@ public class Player : MonoBehaviour
     {
         playerStats.Health -= damage;
         if (playerStats.Health <= 0)
-        {
+        { 
             GameMaster.KillPlayer(this);
         }
     }
