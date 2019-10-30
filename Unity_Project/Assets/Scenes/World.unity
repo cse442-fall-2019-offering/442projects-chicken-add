@@ -611,6 +611,7 @@ GameObject:
   - component: {fileID: 584517571}
   - component: {fileID: 584517570}
   - component: {fileID: 584517569}
+  - component: {fileID: 584517572}
   m_Layer: 5
   m_Name: Level
   m_TagString: Untagged
@@ -634,7 +635,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -547, y: 433}
+  m_AnchoredPosition: {x: -522, y: 454}
   m_SizeDelta: {x: 235, y: 142.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &584517569
@@ -663,25 +664,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.94117653, g: 0.8117648, b: 0.0627451, a: 1}
+  m_Color: {r: 1, g: 0.9568628, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: de58dd8c612dabf4f84846172f41ae57, type: 3}
-    m_FontSize: 60
+    m_FontSize: 100
     m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 3
-    m_MaxSize: 60
+    m_BestFit: 1
+    m_MinSize: 1
+    m_MaxSize: 100
     m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Fuck
+  m_Text: '*_*'
 --- !u!222 &584517571
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -690,6 +691,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 584517567}
   m_CullTransparentMesh: 0
+--- !u!114 &584517572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584517567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 1, y: -3}
+  m_UseGraphicAlpha: 1
 --- !u!1 &590822583
 GameObject:
   m_ObjectHideFlags: 0
@@ -700,8 +716,9 @@ GameObject:
   m_Component:
   - component: {fileID: 590822585}
   - component: {fileID: 590822584}
+  - component: {fileID: 590822586}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: GameMusic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -716,7 +733,7 @@ AudioSource:
   m_GameObject: {fileID: 590822583}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 3614748601159319747, guid: 2608aefd889e56c4ea960c96a50e34f3,
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 2608aefd889e56c4ea960c96a50e34f3,
     type: 2}
   m_audioClip: {fileID: 8300000, guid: a1144de63cbaf8e4c9d030e1642f092c, type: 3}
   m_PlayOnAwake: 1
@@ -818,6 +835,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &590822586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 590822583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2933a78c117d803448a29111ea95fd62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &631255491
 GameObject:
   m_ObjectHideFlags: 0

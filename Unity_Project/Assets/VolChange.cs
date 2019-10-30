@@ -4,14 +4,14 @@ using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.UI;
 
-public class SettingsMenuVol : MonoBehaviour
+public class VolChange : MonoBehaviour
 {
     //Mixer and Slider being used to change volume
     public AudioMixer audioMixer;
     public Slider Slide;
 
-    public void SetVolume (float volume)
+    public void SetVolume(float volume)
     {
-        audioMixer.SetFloat("GameVol", volume);
+        audioMixer.SetFloat("Vol", volume);
     }
 }
