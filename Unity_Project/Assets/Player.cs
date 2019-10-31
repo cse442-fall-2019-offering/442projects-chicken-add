@@ -19,7 +19,7 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-
+        ouch = GameObject.Find("Ouchie");
         if (transform.position.y <= fallBoundary)
         {
             Debug.Log("Fell");
@@ -30,9 +30,11 @@ public class Player : MonoBehaviour
 
     public void DamagePlayer (int damage)
     {
+        ScreamSound s = (ScreamSound)ouch.GetComponent<ScreamSound>();
+        s.Scream();
         playerStats.Health -= damage;
         if (playerStats.Health <= 0)
-        { 
+        {
             GameMaster.KillPlayer(this);
         }
     }
