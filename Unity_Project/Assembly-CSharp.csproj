@@ -69,6 +69,7 @@
     <Compile Include="Assets\ColorToPrefab.cs" />
     <Compile Include="Assets\Control.cs" />
     <Compile Include="Assets\DestroyLives.cs" />
+    <Compile Include="Assets\DontDestroy.cs" />
     <Compile Include="Assets\Enemy.cs" />
     <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\Leaderboard.cs" />
@@ -82,6 +83,7 @@
     <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\ResetLives.cs" />
     <Compile Include="Assets\SceneOneManage.cs" />
+    <Compile Include="Assets\ScreamSound.cs" />
     <Compile Include="Assets\StopGameMusic.cs" />
     <Compile Include="Assets\test.cs" />
     <Compile Include="Assets\VolChange.cs" />
