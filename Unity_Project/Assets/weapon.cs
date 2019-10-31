@@ -11,11 +11,11 @@ public class weapon : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            shoot();
+            Shoot();
         }
     }
 
-    void shoot()
+    void Shoot()
     {
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
     }

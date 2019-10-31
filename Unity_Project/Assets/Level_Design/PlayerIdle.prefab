@@ -210,6 +210,7 @@ MonoBehaviour:
   playerStats:
     Health: 100
   fallBoundary: -25
+  ouch: {fileID: 0}
 --- !u!114 &7336242653562991545
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -223,7 +224,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 79339025392369754}
-  bulletPrefab: {fileID: 8257985584814532008, guid: bf2e522d2537fb042b623bc874729017,
+  bulletPrefab: {fileID: 8257985584814532008, guid: 71819a3c96f7a4b82b10dd16264fb517,
     type: 3}
 --- !u!70 &4283887271938499241
 CapsuleCollider2D:
