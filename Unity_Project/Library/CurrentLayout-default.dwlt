@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 522}
+  m_MinSize: {x: 950, y: 544}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1842
     height: 1021
-  m_MinSize: {x: 950, y: 522}
+  m_MinSize: {x: 950, y: 544}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -111,10 +111,10 @@ MonoBehaviour:
     y: 30
     width: 1842
     height: 971
-  m_MinSize: {x: 879, y: 472}
-  m_MaxSize: {x: 14002, y: 14022}
+  m_MinSize: {x: 883, y: 494}
+  m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 124
+  controlID: 119
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 1312
     height: 971
-  m_MinSize: {x: 604, y: 472}
-  m_MaxSize: {x: 10002, y: 14022}
+  m_MinSize: {x: 606, y: 494}
+  m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 54
+  controlID: 33
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,10 +161,10 @@ MonoBehaviour:
     y: 0
     width: 1312
     height: 614
-  m_MinSize: {x: 604, y: 200}
-  m_MaxSize: {x: 6052, y: 4000}
+  m_MinSize: {x: 606, y: 222}
+  m_MaxSize: {x: 6054, y: 4022}
   vertical: 0
-  controlID: 55
+  controlID: 34
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -184,8 +184,8 @@ MonoBehaviour:
     y: 0
     width: 396
     height: 614
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -267,8 +267,8 @@ MonoBehaviour:
     y: 0
     width: 530
     height: 971
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -384,9 +384,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 82420000a8330000dc32000006460000b63f0000a0350000d8360000283400004c38000060440000cc3700005a3f00006c3a00003a380000cc410000644500008e3b0000
+      m_SelectedIDs: 02440000764d0000104800000a5c0000585a000022370000785a000006600000
       m_LastClickedID: 0
-      m_ExpandedIDs: b0f9ffff6cfaffff
+      m_ExpandedIDs: 74fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -638,20 +638,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/PROCJAM2017-DevilsGarage/2D_v01.0.0/View-Front/images
+    - Assets/Level_Design/ForGok
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/PROCJAM2017-DevilsGarage/2D_v01.0.0/View-Front/images
+  - Assets/Level_Design/ForGok
   m_LastFoldersGridSize: 64
   m_LastProjectPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 178}
-    m_SelectedIDs: 788a0000
-    m_LastClickedID: 35448
-    m_ExpandedIDs: 00000000d6310000dc3100003232000016330000203400006e3400001a35000078350000ea35000086360000ac36000094370000403b0000c83b0000643d00007840000098400000e2400000c8420000b243000028450000ce4500004a470000744700009c4700007e4800008848000046490000da7900003c800000b480000000ca9a3b
+    m_SelectedIDs: d25e0000
+    m_LastClickedID: 24274
+    m_ExpandedIDs: 000000001e3100002c310000e83100001034000030360000c6360000c83600009e380000983900007a3a0000d83b0000403c0000423e00007c4600007247000010490000404a0000604b0000fa51000032520000e85200009c560000a8580000c85b0000945d0000a660000012610000686100007c6300008c6300004665000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -679,7 +679,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d6310000dc3100003232000016330000203400001a35000086360000ac36000094370000c83b0000643d0000e2400000c8420000b243000028450000ce4500004a470000744700009c4700007e48000046490000
+    m_ExpandedIDs: 000000001e3100002c310000e83100001034000030360000c6360000c83600009e380000983900007a3a0000d83b0000403c0000423e00007c4600007247000010490000404a0000604b0000fa51000032520000e85200009c560000a8580000c85b0000945d0000a660000012610000686100007c6300008c63000046650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -731,7 +731,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 5092}
+    m_ScrollPosition: {x: 0, y: 463}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 231
