@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-10-23T15:18:48.481-04:00
-  initializedAtString: 2019-10-23T14:59:42.700-04:00
+  lastUpdatedAtString: 2019-11-04T22:09:44.117-05:00
+  initializedAtString: 2019-11-04T19:23:21.985-05:00
   entries:
   - path: Unity_Project\.vs\Unity_Project\v15\.suo
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\.suo
     projectPath: .vs\Unity_Project\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Unity_Project\v15\Server\sqlite3\storage.ide
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -40,45 +46,68 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+  - path: Unity_Project\Assets\BayatGames\Free Platform Game Assets\GUI\png\Empty1024x1024.png.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\BayatGames\Free
+      Platform Game Assets\GUI\png\Empty1024x1024.png.meta
+    projectPath: Assets\BayatGames\Free Platform Game Assets\GUI\png\Empty1024x1024.png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Assets\Control.cs
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Control.cs
-    projectPath: Assets\Control.cs
+  - path: Unity_Project\Assets\BayatGames\Free Platform Game Assets\GUI\png\Empty512x512.png.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\BayatGames\Free
+      Platform Game Assets\GUI\png\Empty512x512.png.meta
+    projectPath: Assets\BayatGames\Free Platform Game Assets\GUI\png\Empty512x512.png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Assets\Player.cs
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Player.cs
-    projectPath: Assets\Player.cs
+  - path: Unity_Project\Assets\BayatGames\Free Platform Game Assets\GUI\png\Iconic1024x1024.png.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\BayatGames\Free
+      Platform Game Assets\GUI\png\Iconic1024x1024.png.meta
+    projectPath: Assets\BayatGames\Free Platform Game Assets\GUI\png\Iconic1024x1024.png.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Assets\Scenes\EndGame.unity
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\EndGame.unity
-    projectPath: Assets\Scenes\EndGame.unity
+  - path: Unity_Project\Assets\DragDrop.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\DragDrop.cs
+    projectPath: Assets\DragDrop.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Assets\Scenes\EndGame.unity.meta
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\EndGame.unity.meta
-    projectPath: Assets\Scenes\EndGame.unity.meta
+  - path: Unity_Project\Assets\DragDrop.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\DragDrop.cs.meta
+    projectPath: Assets\DragDrop.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+  - path: Unity_Project\Assets\Scenes\CodePuzzle.unity
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\CodePuzzle.unity
+    projectPath: Assets\Scenes\CodePuzzle.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Scenes\CodePuzzle.unity.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\CodePuzzle.unity.meta
+    projectPath: Assets\Scenes\CodePuzzle.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Library\assetDatabase3
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -106,36 +135,420 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
-    projectPath: Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
+  - path: Unity_Project\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
-    projectPath: Library\metadata\31\31958cec507553946927001eb481314a
+  - path: Unity_Project\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611
-    projectPath: Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611
+  - path: Unity_Project\Library\metadata\09\090833a680013ed408cfb521abeccd58
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\09\090833a680013ed408cfb521abeccd58
+    projectPath: Library\metadata\09\090833a680013ed408cfb521abeccd58
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611.info
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611.info
-    projectPath: Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611.info
+  - path: Unity_Project\Library\metadata\09\090833a680013ed408cfb521abeccd58.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\09\090833a680013ed408cfb521abeccd58.info
+    projectPath: Library\metadata\09\090833a680013ed408cfb521abeccd58.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\0a\0a64b3faad20d7f49aa605edff512c1e
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\0a\0a64b3faad20d7f49aa605edff512c1e
+    projectPath: Library\metadata\0a\0a64b3faad20d7f49aa605edff512c1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\0a\0a64b3faad20d7f49aa605edff512c1e.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\0a\0a64b3faad20d7f49aa605edff512c1e.info
+    projectPath: Library\metadata\0a\0a64b3faad20d7f49aa605edff512c1e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\3f\3fa4ca1b76c33a1479ef8ff4e578b64f
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\3f\3fa4ca1b76c33a1479ef8ff4e578b64f
+    projectPath: Library\metadata\3f\3fa4ca1b76c33a1479ef8ff4e578b64f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\3f\3fa4ca1b76c33a1479ef8ff4e578b64f.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\3f\3fa4ca1b76c33a1479ef8ff4e578b64f.info
+    projectPath: Library\metadata\3f\3fa4ca1b76c33a1479ef8ff4e578b64f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\61\61ad2efec602ac34eb709c6338e9d84b
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\61\61ad2efec602ac34eb709c6338e9d84b
+    projectPath: Library\metadata\61\61ad2efec602ac34eb709c6338e9d84b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\61\61ad2efec602ac34eb709c6338e9d84b.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\61\61ad2efec602ac34eb709c6338e9d84b.info
+    projectPath: Library\metadata\61\61ad2efec602ac34eb709c6338e9d84b.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\73\73ffbc864fc2d91439b1c6b897f4fee2
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\73\73ffbc864fc2d91439b1c6b897f4fee2
+    projectPath: Library\metadata\73\73ffbc864fc2d91439b1c6b897f4fee2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\73\73ffbc864fc2d91439b1c6b897f4fee2.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\73\73ffbc864fc2d91439b1c6b897f4fee2.info
+    projectPath: Library\metadata\73\73ffbc864fc2d91439b1c6b897f4fee2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee.info
+    projectPath: Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\CHANGELOG.md
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\CHANGELOG.md
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\CHANGELOG.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\com.unity.cinemachine.Editor.asmdef
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\com.unity.cinemachine.Editor.asmdef
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\com.unity.cinemachine.Editor.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBasicMultiChannelPerlinEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBlenderSettingsEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBlenderSettingsEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineBlenderSettingsEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineExternalCameraEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineExternalCameraEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineExternalCameraEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineFreeLookEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineFreeLookEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineFreeLookEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLockToTargetEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLockToTargetEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLockToTargetEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineHardLookAtEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineMixingCameraEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineMixingCameraEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineMixingCameraEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachinePOVEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachinePOVEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachinePOVEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineSameAsFollowTargetEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineTargetGroupEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineTargetGroupEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineTargetGroupEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Editors\CinemachineVirtualCameraEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewFreeLookEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewFreeLookEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewFreeLookEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewVirtualCameraEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewVirtualCameraEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\CinemachineNewVirtualCameraEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\VcamStageEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\VcamStageEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Experimental\VcamStageEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseDefinitionPropertyDrawer.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseDefinitionPropertyDrawer.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseDefinitionPropertyDrawer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseListenerEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseListenerEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseListenerEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseSourceEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseSourceEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Impulse\CinemachineImpulseSourceEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PostProcessing\CinemachineVolumeSettingsEditor.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PostProcessing\CinemachineVolumeSettingsEditor.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PostProcessing\CinemachineVolumeSettingsEditor.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\AxisStatePropertyDrawer.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\AxisStatePropertyDrawer.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\AxisStatePropertyDrawer.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\PropertyDrawers\CinemachineTagFieldPropertyDrawer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Timeline.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Timeline.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Timeline.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\BaseEditor.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\BaseEditor.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\BaseEditor.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\InspectorUtility.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\InspectorUtility.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\InspectorUtility.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\ScriptableObjectUtility.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\ScriptableObjectUtility.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\ScriptableObjectUtility.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\SerializedPropertyHelper.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\SerializedPropertyHelper.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Utility\SerializedPropertyHelper.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\AboutWindow.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\AboutWindow.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\AboutWindow.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\CinemachineColliderPrefs.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\CinemachineColliderPrefs.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\CinemachineColliderPrefs.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\WaveformWindow.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\WaveformWindow.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Editor\Windows\WaveformWindow.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Extras~\ReleaseNotes.txt
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Extras~\ReleaseNotes.txt
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Extras~\ReleaseNotes.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\LICENSE.md
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\LICENSE.md
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\LICENSE.md
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\license.txt.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\license.txt.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\license.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\AssemblyInfo.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\AssemblyInfo.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\AssemblyInfo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineCameraOffset.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineCameraOffset.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineCameraOffset.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineExternalCamera.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineExternalCamera.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineExternalCamera.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFollowZoom.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFollowZoom.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFollowZoom.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFreeLook.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFreeLook.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Behaviours\CinemachineFreeLook.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\com.unity.cinemachine.asmdef
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\com.unity.cinemachine.asmdef
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\com.unity.cinemachine.asmdef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineExtension.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineExtension.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineExtension.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineInputAxisDriver.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineInputAxisDriver.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineInputAxisDriver.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachinePropertyAttribute.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachinePropertyAttribute.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachinePropertyAttribute.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineTouchInputMapper.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineTouchInputMapper.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\CinemachineTouchInputMapper.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\ICinemachineComponent.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\ICinemachineComponent.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\ICinemachineComponent.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\RuntimeUtility.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\SignalSourceAsset.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\SignalSourceAsset.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Core\SignalSourceAsset.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Experimental.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Experimental.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Experimental.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineFixedSignal.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineFixedSignal.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineFixedSignal.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineImpulseSource.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineImpulseSource.cs
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Impulse\CinemachineImpulseSource.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\PostProcessing\CinemachineVolumeSettings.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\PostProcessing\CinemachineVolumeSettings.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\PostProcessing\CinemachineVolumeSettings.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShot.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShot.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShot.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShotPlayable.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShotPlayable.cs.meta
+    projectPath: Library\PackageCache\com.unity.cinemachine@2.3.4\Runtime\Timeline\CinemachineShotPlayable.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\SceneVisibilityState.asset
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -154,189 +567,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: Unity_Project\Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
+    projectPath: Library\ShaderCache\b\bcd154333f04d8aa155b0bb742d0a169.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\ShaderCache\d\d484bb574b00268f9036eac4a5a4346a.bin
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ShaderCache\d\d484bb574b00268f9036eac4a5a4346a.bin
+    projectPath: Library\ShaderCache\d\d484bb574b00268f9036eac4a5a4346a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
+    projectPath: Library\ShaderCache\d\da18eceae08c85a2f3c0a64f8bb35ad4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+  - path: Unity_Project\Library\ShaderCache\f\f1f62faaeafaba5d92e7971798c36c02.bin
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ShaderCache\f\f1f62faaeafaba5d92e7971798c36c02.bin
+    projectPath: Library\ShaderCache\f\f1f62faaeafaba5d92e7971798c36c02.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Cinemachine.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Cinemachine.dll
-    projectPath: Library\ScriptAssemblies\Cinemachine.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-    projectPath: Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -352,21 +621,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
+  - path: Unity_Project\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -376,123 +639,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-0f0de56e333c2e64795fb2b09fa50614
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-0f0de56e333c2e64795fb2b09fa50614
-    projectPath: Temp\UnityTempFile-0f0de56e333c2e64795fb2b09fa50614
+  - path: Unity_Project\Temp\UnityTempFile-39797b90aaa2770469f7f1644b508bb5
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-39797b90aaa2770469f7f1644b508bb5
+    projectPath: Temp\UnityTempFile-39797b90aaa2770469f7f1644b508bb5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-20fa27ac2b723654c8827eb1bf155ae8
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-20fa27ac2b723654c8827eb1bf155ae8
-    projectPath: Temp\UnityTempFile-20fa27ac2b723654c8827eb1bf155ae8
+  - path: Unity_Project\Temp\UnityTempFile-4fbbe54d7c361bc4ebac982c898d78c5
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-4fbbe54d7c361bc4ebac982c898d78c5
+    projectPath: Temp\UnityTempFile-4fbbe54d7c361bc4ebac982c898d78c5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-26942d5ab3111b34c92796f7548b7c2b
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-26942d5ab3111b34c92796f7548b7c2b
-    projectPath: Temp\UnityTempFile-26942d5ab3111b34c92796f7548b7c2b
+  - path: Unity_Project\Temp\UnityTempFile-6e44930745190d94b8338e4644cf4fda
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-6e44930745190d94b8338e4644cf4fda
+    projectPath: Temp\UnityTempFile-6e44930745190d94b8338e4644cf4fda
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-5134302299679f945a2c2f9aa07944ca
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-5134302299679f945a2c2f9aa07944ca
-    projectPath: Temp\UnityTempFile-5134302299679f945a2c2f9aa07944ca
+  - path: Unity_Project\Temp\UnityTempFile-74b09d6e873f4244eb4ea30277aa990e
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-74b09d6e873f4244eb4ea30277aa990e
+    projectPath: Temp\UnityTempFile-74b09d6e873f4244eb4ea30277aa990e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-5df502a2ad393f843865bc4a5152c7fd
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-5df502a2ad393f843865bc4a5152c7fd
-    projectPath: Temp\UnityTempFile-5df502a2ad393f843865bc4a5152c7fd
+  - path: Unity_Project\Temp\UnityTempFile-88ebee16741dd3b4ca2675b80d15cec0
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-88ebee16741dd3b4ca2675b80d15cec0
+    projectPath: Temp\UnityTempFile-88ebee16741dd3b4ca2675b80d15cec0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-5f4cb79e195ca4849a566d18ce6aa074
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-5f4cb79e195ca4849a566d18ce6aa074
-    projectPath: Temp\UnityTempFile-5f4cb79e195ca4849a566d18ce6aa074
+  - path: Unity_Project\Temp\UnityTempFile-e58749130e5fb7f468e76b654e96f982
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-e58749130e5fb7f468e76b654e96f982
+    projectPath: Temp\UnityTempFile-e58749130e5fb7f468e76b654e96f982
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-64eb4a642ec193249bae6575ce61601a
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-64eb4a642ec193249bae6575ce61601a
-    projectPath: Temp\UnityTempFile-64eb4a642ec193249bae6575ce61601a
+  - path: Unity_Project\Temp\UnityTempFile-e60ffe687115a47498eecc509fad8df0
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-e60ffe687115a47498eecc509fad8df0
+    projectPath: Temp\UnityTempFile-e60ffe687115a47498eecc509fad8df0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-6a9a1d8d1889c4941b3be59fe2874820
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-6a9a1d8d1889c4941b3be59fe2874820
-    projectPath: Temp\UnityTempFile-6a9a1d8d1889c4941b3be59fe2874820
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-7767a173a004faa4d8026e3c98222071
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-7767a173a004faa4d8026e3c98222071
-    projectPath: Temp\UnityTempFile-7767a173a004faa4d8026e3c98222071
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-8099499181daaf44dbac8c50adc8dc5a
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-8099499181daaf44dbac8c50adc8dc5a
-    projectPath: Temp\UnityTempFile-8099499181daaf44dbac8c50adc8dc5a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-81f1e47cd1c950e4cb29046c42aac322
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-81f1e47cd1c950e4cb29046c42aac322
-    projectPath: Temp\UnityTempFile-81f1e47cd1c950e4cb29046c42aac322
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-84d39b906affdd146bf40bae79aeff0c
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-84d39b906affdd146bf40bae79aeff0c
-    projectPath: Temp\UnityTempFile-84d39b906affdd146bf40bae79aeff0c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-92b249a0852a1ca4094fd72898065662
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-92b249a0852a1ca4094fd72898065662
-    projectPath: Temp\UnityTempFile-92b249a0852a1ca4094fd72898065662
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-a84b94b3480d42c44928e989e37475e3
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-a84b94b3480d42c44928e989e37475e3
-    projectPath: Temp\UnityTempFile-a84b94b3480d42c44928e989e37475e3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-a88f5038a9f5db24c8b4dd03ea9141c1
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-a88f5038a9f5db24c8b4dd03ea9141c1
-    projectPath: Temp\UnityTempFile-a88f5038a9f5db24c8b4dd03ea9141c1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-e1f393fd0d5b68647942a149baf1f0f0
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-e1f393fd0d5b68647942a149baf1f0f0
-    projectPath: Temp\UnityTempFile-e1f393fd0d5b68647942a149baf1f0f0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-e5e6064a5c7f55d4c8c35d5b04961d60
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-e5e6064a5c7f55d4c8c35d5b04961d60
-    projectPath: Temp\UnityTempFile-e5e6064a5c7f55d4c8c35d5b04961d60
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-f644b84417b704349b2bbeec5c14e41e
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-f644b84417b704349b2bbeec5c14e41e
-    projectPath: Temp\UnityTempFile-f644b84417b704349b2bbeec5c14e41e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Temp\UnityTempFile-fa73b767700c2c7479ab6f1b6ddf367f
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-fa73b767700c2c7479ab6f1b6ddf367f
-    projectPath: Temp\UnityTempFile-fa73b767700c2c7479ab6f1b6ddf367f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Unity_Project.sln
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Unity_Project.sln
-    projectPath: Unity_Project.sln
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3

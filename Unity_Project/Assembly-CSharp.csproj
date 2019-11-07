@@ -68,6 +68,7 @@
     <Compile Include="Assets\Character_Controller.cs" />
     <Compile Include="Assets\ColorToPrefab.cs" />
     <Compile Include="Assets\Control.cs" />
+    <Compile Include="Assets\DragDrop.cs" />
     <Compile Include="Assets\Enemy.cs" />
     <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\Leaderboard.cs" />
