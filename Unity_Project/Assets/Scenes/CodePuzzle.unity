@@ -129,6 +129,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 224451977}
+  - component: {fileID: 224451978}
   m_Layer: 5
   m_Name: Words
   m_TagString: Untagged
@@ -159,6 +160,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &224451978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 224451976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 126a45e5d2d1a1442886f67a1a8bb2a1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &264485618
 GameObject:
   m_ObjectHideFlags: 0
@@ -273,7 +286,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 332047923}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3fa4ca1b76c33a1479ef8ff4e578b64f, type: 3}
+  m_Script: {fileID: 11500000, guid: 5724cc2e3e7ac6c4e9e15ce06ff33ac4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   word: {fileID: 332047923}
@@ -362,7 +375,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 378869561}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3fa4ca1b76c33a1479ef8ff4e578b64f, type: 3}
+  m_Script: {fileID: 11500000, guid: d77194f15ded7ff418009eed6d721365, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   word: {fileID: 378869561}
@@ -1621,7 +1634,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2047567569}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3fa4ca1b76c33a1479ef8ff4e578b64f, type: 3}
+  m_Script: {fileID: 11500000, guid: 930e35c436092f94d872a0368d97b3e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   word: {fileID: 2047567569}
