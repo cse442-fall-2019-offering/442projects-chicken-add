@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-11-08T11:09:48.940-05:00
-  initializedAtString: 2019-11-08T11:09:48.940-05:00
+  lastUpdatedAtString: 2019-11-08T11:19:55.319-05:00
+  initializedAtString: 2019-11-08T11:19:55.319-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: GameSceneBackground
-    tracking: origin/GameSceneBackground
+    name: Sprint3_Dev
+    tracking: origin/Sprint3_Dev
   currentConfigBranch:
-    name: GameSceneBackground
+    name: Sprint3_Dev
     remote:
       name: origin
       url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
-    trackingBranch: GameSceneBackground
+    trackingBranch: Sprint3_Dev
   currentConfigRemote:
     name: origin
     url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
