@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-08T11:04:05.427-05:00
-  initializedAtString: 2019-11-08T11:01:43.246-05:00
+  lastUpdatedAtString: 2019-11-08T11:12:30.764-05:00
+  initializedAtString: 2019-11-08T11:09:49.097-05:00
   entries:
-  - path: Unity_Project\Assets\gunidle.png
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\gunidle.png
-    projectPath: Assets\gunidle.png
+  - path: Unity_Project\Assets\weapon.png
+    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\weapon.png
+    projectPath: Assets\weapon.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Assets\gunidle.png.meta
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\gunidle.png.meta
-    projectPath: Assets\gunidle.png.meta
+  - path: Unity_Project\Assets\weapon.png.meta
+    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\weapon.png.meta
+    projectPath: Assets\weapon.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -58,15 +58,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\10\105ae987843c57d49a4708d99958163e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\10\105ae987843c57d49a4708d99958163e
-    projectPath: Library\metadata\10\105ae987843c57d49a4708d99958163e
+  - path: Unity_Project\Library\metadata\58\58fca4fecd96a764da3252cb398c6fc0
+    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\58\58fca4fecd96a764da3252cb398c6fc0
+    projectPath: Library\metadata\58\58fca4fecd96a764da3252cb398c6fc0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\10\105ae987843c57d49a4708d99958163e.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\10\105ae987843c57d49a4708d99958163e.info
-    projectPath: Library\metadata\10\105ae987843c57d49a4708d99958163e.info
+  - path: Unity_Project\Library\metadata\58\58fca4fecd96a764da3252cb398c6fc0.info
+    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\58\58fca4fecd96a764da3252cb398c6fc0.info
+    projectPath: Library\metadata\58\58fca4fecd96a764da3252cb398c6fc0.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -76,3 +76,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
