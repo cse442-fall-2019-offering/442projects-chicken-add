@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-08T11:19:58.082-05:00
-  initializedAtString: 2019-11-08T11:19:58.082-05:00
+  lastUpdatedAtString: 2019-10-23T15:18:48.481-04:00
+  initializedAtString: 2019-10-23T14:59:42.700-04:00
   entries:
   - path: Unity_Project\Assets\BayatGames\Free Platform Game Assets\Environment\png\All\4x.meta
     fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Assets\BayatGames\Free
@@ -36,9 +36,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\00\00e0737aaf291124cb578555fed5e179
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\00\00e0737aaf291124cb578555fed5e179
-    projectPath: Library\metadata\00\00e0737aaf291124cb578555fed5e179
+  - path: Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\.vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Unity_Project\v15\Server\sqlite3\storage.ide-shm
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -54,39 +54,63 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\04\04412c36113b4bb4ebbb7b7f24bb82a0.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\04\04412c36113b4bb4ebbb7b7f24bb82a0.info
-    projectPath: Library\metadata\04\04412c36113b4bb4ebbb7b7f24bb82a0.info
+  - path: Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\04\04592889c1cb5c748b5a7c79176acece
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\04\04592889c1cb5c748b5a7c79176acece
-    projectPath: Library\metadata\04\04592889c1cb5c748b5a7c79176acece
+  - path: Unity_Project\Assets\Control.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Control.cs
+    projectPath: Assets\Control.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\04\04592889c1cb5c748b5a7c79176acece.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\04\04592889c1cb5c748b5a7c79176acece.info
-    projectPath: Library\metadata\04\04592889c1cb5c748b5a7c79176acece.info
+  - path: Unity_Project\Assets\Player.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Player.cs
+    projectPath: Assets\Player.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\05\05abc5894d994ae45bcce6733b4cb08e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\05\05abc5894d994ae45bcce6733b4cb08e
-    projectPath: Library\metadata\05\05abc5894d994ae45bcce6733b4cb08e
+  - path: Unity_Project\Assets\Scenes\EndGame.unity
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\EndGame.unity
+    projectPath: Assets\Scenes\EndGame.unity
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\07\072a646707611d649841247a0ca7fe43
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\07\072a646707611d649841247a0ca7fe43
-    projectPath: Library\metadata\07\072a646707611d649841247a0ca7fe43
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Scenes\EndGame.unity.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\EndGame.unity.meta
+    projectPath: Assets\Scenes\EndGame.unity.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\08\08af195e35e817942afc4ce784d267aa
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\08\08af195e35e817942afc4ce784d267aa
-    projectPath: Library\metadata\08\08af195e35e817942afc4ce784d267aa
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\DragDrop4.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\DragDrop4.cs.meta
+    projectPath: Assets\DragDrop4.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\DragDropWin.cs
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\DragDropWin.cs
+    projectPath: Assets\DragDropWin.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\DragDropWin.cs.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\DragDropWin.cs.meta
+    projectPath: Assets\DragDropWin.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Assets\Scenes\CodePuzzle.unity
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\CodePuzzle.unity
+    projectPath: Assets\Scenes\CodePuzzle.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -132,45 +156,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\15\156efe3f4b3518a4b955e1cd207ae126
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\15\156efe3f4b3518a4b955e1cd207ae126
-    projectPath: Library\metadata\15\156efe3f4b3518a4b955e1cd207ae126
+  - path: Unity_Project\Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
+    projectPath: Library\metadata\02\02d12d9ce7d764747a072adfdbdbeca7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\15\156efe3f4b3518a4b955e1cd207ae126.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\15\156efe3f4b3518a4b955e1cd207ae126.info
-    projectPath: Library\metadata\15\156efe3f4b3518a4b955e1cd207ae126.info
+  - path: Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\31\31958cec507553946927001eb481314a
+    projectPath: Library\metadata\31\31958cec507553946927001eb481314a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\15\159bf4da0ecc73c429101e4b1603ce0f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\15\159bf4da0ecc73c429101e4b1603ce0f
-    projectPath: Library\metadata\15\159bf4da0ecc73c429101e4b1603ce0f
+  - path: Unity_Project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\17\17132a3f230334e4d9ed7347f4447645
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\17\17132a3f230334e4d9ed7347f4447645
-    projectPath: Library\metadata\17\17132a3f230334e4d9ed7347f4447645
+  - path: Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611
+    projectPath: Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611.info
+    projectPath: Library\metadata\d7\d768f9e5a7cf6fe4787ca2d88e596611.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\18\18ed58ea4c01b3c4f994940e63df1281
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\18\18ed58ea4c01b3c4f994940e63df1281
-    projectPath: Library\metadata\18\18ed58ea4c01b3c4f994940e63df1281
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\18\18ed58ea4c01b3c4f994940e63df1281.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\18\18ed58ea4c01b3c4f994940e63df1281.info
-    projectPath: Library\metadata\18\18ed58ea4c01b3c4f994940e63df1281.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\19\19324b2039641234ea84ab9b872d96aa
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\19\19324b2039641234ea84ab9b872d96aa
-    projectPath: Library\metadata\19\19324b2039641234ea84ab9b872d96aa
+  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -186,15 +210,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\1a\1ab3241c3d51d074080f350befff2013.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\1a\1ab3241c3d51d074080f350befff2013.info
-    projectPath: Library\metadata\1a\1ab3241c3d51d074080f350befff2013.info
+  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\1e\1eb49c6af18e7f44a87eee98580317a9
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\1e\1eb49c6af18e7f44a87eee98580317a9
-    projectPath: Library\metadata\1e\1eb49c6af18e7f44a87eee98580317a9
+  - path: Unity_Project\Library\ScriptAssemblies\Cinemachine.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Cinemachine.dll
+    projectPath: Library\ScriptAssemblies\Cinemachine.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -210,51 +234,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\1f\1f491007950e2834187871edaacfbb92.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\1f\1f491007950e2834187871edaacfbb92.info
-    projectPath: Library\metadata\1f\1f491007950e2834187871edaacfbb92.info
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\1f\1ff8da78851f3dc4da889d28de1abc67
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\1f\1ff8da78851f3dc4da889d28de1abc67
-    projectPath: Library\metadata\1f\1ff8da78851f3dc4da889d28de1abc67
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\1f\1ff8da78851f3dc4da889d28de1abc67.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\1f\1ff8da78851f3dc4da889d28de1abc67.info
-    projectPath: Library\metadata\1f\1ff8da78851f3dc4da889d28de1abc67.info
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\20\20ecb7b07cce9304fb453c23e300bbe6
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\20\20ecb7b07cce9304fb453c23e300bbe6
-    projectPath: Library\metadata\20\20ecb7b07cce9304fb453c23e300bbe6
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\21\211914a5bf9409342aaa2cd9901ce2ce
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\21\211914a5bf9409342aaa2cd9901ce2ce
-    projectPath: Library\metadata\21\211914a5bf9409342aaa2cd9901ce2ce
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\21\211914a5bf9409342aaa2cd9901ce2ce.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\21\211914a5bf9409342aaa2cd9901ce2ce.info
-    projectPath: Library\metadata\21\211914a5bf9409342aaa2cd9901ce2ce.info
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\22\2204f62aa71b3c243b43365a2112b1cb
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\22\2204f62aa71b3c243b43365a2112b1cb
-    projectPath: Library\metadata\22\2204f62aa71b3c243b43365a2112b1cb
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\23\23e65d19d405a09409a2a662a782cf81
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\23\23e65d19d405a09409a2a662a782cf81
-    projectPath: Library\metadata\23\23e65d19d405a09409a2a662a782cf81
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -264,21 +288,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\24\2431aa9210bf01840977a547c93c80bb
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\24\2431aa9210bf01840977a547c93c80bb
-    projectPath: Library\metadata\24\2431aa9210bf01840977a547c93c80bb
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\24\24b8b631a8385f84e9274fbda650971b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\24\24b8b631a8385f84e9274fbda650971b
-    projectPath: Library\metadata\24\24b8b631a8385f84e9274fbda650971b
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\24\24b8b631a8385f84e9274fbda650971b.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\24\24b8b631a8385f84e9274fbda650971b.info
-    projectPath: Library\metadata\24\24b8b631a8385f84e9274fbda650971b.info
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -288,81 +312,81 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\26\2627404d67a213d4da67c97ccacffa87
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\26\2627404d67a213d4da67c97ccacffa87
-    projectPath: Library\metadata\26\2627404d67a213d4da67c97ccacffa87
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\26\2627404d67a213d4da67c97ccacffa87.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\26\2627404d67a213d4da67c97ccacffa87.info
-    projectPath: Library\metadata\26\2627404d67a213d4da67c97ccacffa87.info
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\27\27a47460a2272ff41a221cb8e815a2c1
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\27\27a47460a2272ff41a221cb8e815a2c1
-    projectPath: Library\metadata\27\27a47460a2272ff41a221cb8e815a2c1
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\27\27c3c38991a616c44a24f8d974ba50b4
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\27\27c3c38991a616c44a24f8d974ba50b4
-    projectPath: Library\metadata\27\27c3c38991a616c44a24f8d974ba50b4
+  - path: Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\28\2874934ce4be34d46be831eacfd48f6f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\28\2874934ce4be34d46be831eacfd48f6f
-    projectPath: Library\metadata\28\2874934ce4be34d46be831eacfd48f6f
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2b\2bf84fe4af5357f41809176956fc5386
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2b\2bf84fe4af5357f41809176956fc5386
-    projectPath: Library\metadata\2b\2bf84fe4af5357f41809176956fc5386
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2b\2bf84fe4af5357f41809176956fc5386.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2b\2bf84fe4af5357f41809176956fc5386.info
-    projectPath: Library\metadata\2b\2bf84fe4af5357f41809176956fc5386.info
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2d\2d470685a6c4b9c488e7e672b89006fd
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2d\2d470685a6c4b9c488e7e672b89006fd
-    projectPath: Library\metadata\2d\2d470685a6c4b9c488e7e672b89006fd
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2e\2ef74d64d25b3b24da664f056458dea5
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2e\2ef74d64d25b3b24da664f056458dea5
-    projectPath: Library\metadata\2e\2ef74d64d25b3b24da664f056458dea5
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2e\2ef74d64d25b3b24da664f056458dea5.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2e\2ef74d64d25b3b24da664f056458dea5.info
-    projectPath: Library\metadata\2e\2ef74d64d25b3b24da664f056458dea5.info
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2f\2f36a9f4f952916468e89d9da7cbd194
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2f\2f36a9f4f952916468e89d9da7cbd194
-    projectPath: Library\metadata\2f\2f36a9f4f952916468e89d9da7cbd194
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2f\2fba9a31cabc6784493ddee0628c6068
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2f\2fba9a31cabc6784493ddee0628c6068
-    projectPath: Library\metadata\2f\2fba9a31cabc6784493ddee0628c6068
+  - path: Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2f\2fba9a31cabc6784493ddee0628c6068.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\2f\2fba9a31cabc6784493ddee0628c6068.info
-    projectPath: Library\metadata\2f\2fba9a31cabc6784493ddee0628c6068.info
+  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -372,1563 +396,153 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\36\36daaadf46dc90c4690385be2910a5d5
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\36\36daaadf46dc90c4690385be2910a5d5
-    projectPath: Library\metadata\36\36daaadf46dc90c4690385be2910a5d5
+  - path: Unity_Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\36\36e191d12b06b894e87ae743ed5dda6a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\36\36e191d12b06b894e87ae743ed5dda6a
-    projectPath: Library\metadata\36\36e191d12b06b894e87ae743ed5dda6a
+  - path: Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\36\36e191d12b06b894e87ae743ed5dda6a.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\36\36e191d12b06b894e87ae743ed5dda6a.info
-    projectPath: Library\metadata\36\36e191d12b06b894e87ae743ed5dda6a.info
+  - path: Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\37\372450b0f3c62c341ac18c98be4c6590
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\37\372450b0f3c62c341ac18c98be4c6590
-    projectPath: Library\metadata\37\372450b0f3c62c341ac18c98be4c6590
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\37\372450b0f3c62c341ac18c98be4c6590.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\37\372450b0f3c62c341ac18c98be4c6590.info
-    projectPath: Library\metadata\37\372450b0f3c62c341ac18c98be4c6590.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\39\3996cec759f3b064394db592e9aa735e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\39\3996cec759f3b064394db592e9aa735e
-    projectPath: Library\metadata\39\3996cec759f3b064394db592e9aa735e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\39\3996cec759f3b064394db592e9aa735e.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\39\3996cec759f3b064394db592e9aa735e.info
-    projectPath: Library\metadata\39\3996cec759f3b064394db592e9aa735e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\3e\3e2a0b195c5bf094e9529d95d4978189
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\3e\3e2a0b195c5bf094e9529d95d4978189
-    projectPath: Library\metadata\3e\3e2a0b195c5bf094e9529d95d4978189
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\3e\3e652a597824bd44d91fd93f87e3857d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\3e\3e652a597824bd44d91fd93f87e3857d
-    projectPath: Library\metadata\3e\3e652a597824bd44d91fd93f87e3857d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\3e\3e652a597824bd44d91fd93f87e3857d.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\3e\3e652a597824bd44d91fd93f87e3857d.info
-    projectPath: Library\metadata\3e\3e652a597824bd44d91fd93f87e3857d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\41\4168fa3984ad9774792de9b4168f0f5e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\41\4168fa3984ad9774792de9b4168f0f5e
-    projectPath: Library\metadata\41\4168fa3984ad9774792de9b4168f0f5e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\41\4168fa3984ad9774792de9b4168f0f5e.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\41\4168fa3984ad9774792de9b4168f0f5e.info
-    projectPath: Library\metadata\41\4168fa3984ad9774792de9b4168f0f5e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\41\417bd5d4978d11540b2daf341b68f73d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\41\417bd5d4978d11540b2daf341b68f73d
-    projectPath: Library\metadata\41\417bd5d4978d11540b2daf341b68f73d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\41\417bd5d4978d11540b2daf341b68f73d.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\41\417bd5d4978d11540b2daf341b68f73d.info
-    projectPath: Library\metadata\41\417bd5d4978d11540b2daf341b68f73d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\43\435162b240322574d9bc8dc990f7e0c6
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\43\435162b240322574d9bc8dc990f7e0c6
-    projectPath: Library\metadata\43\435162b240322574d9bc8dc990f7e0c6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\43\435162b240322574d9bc8dc990f7e0c6.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\43\435162b240322574d9bc8dc990f7e0c6.info
-    projectPath: Library\metadata\43\435162b240322574d9bc8dc990f7e0c6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\46\46de8ceaade6a244ebedd97ff8862bca
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\46\46de8ceaade6a244ebedd97ff8862bca
-    projectPath: Library\metadata\46\46de8ceaade6a244ebedd97ff8862bca
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\47\47e39e310fe60644a8440ea1fa8a40b6
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\47\47e39e310fe60644a8440ea1fa8a40b6
-    projectPath: Library\metadata\47\47e39e310fe60644a8440ea1fa8a40b6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\47\47e39e310fe60644a8440ea1fa8a40b6.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\47\47e39e310fe60644a8440ea1fa8a40b6.info
-    projectPath: Library\metadata\47\47e39e310fe60644a8440ea1fa8a40b6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4c\4c2fd24f2b00f124d91b4865c526743c
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4c\4c2fd24f2b00f124d91b4865c526743c
-    projectPath: Library\metadata\4c\4c2fd24f2b00f124d91b4865c526743c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4c\4c2fd24f2b00f124d91b4865c526743c.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4c\4c2fd24f2b00f124d91b4865c526743c.info
-    projectPath: Library\metadata\4c\4c2fd24f2b00f124d91b4865c526743c.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4d\4d142ce2fe9556145ab120cd70d4334f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4d\4d142ce2fe9556145ab120cd70d4334f
-    projectPath: Library\metadata\4d\4d142ce2fe9556145ab120cd70d4334f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4d\4d142ce2fe9556145ab120cd70d4334f.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4d\4d142ce2fe9556145ab120cd70d4334f.info
-    projectPath: Library\metadata\4d\4d142ce2fe9556145ab120cd70d4334f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4d\4d40e8b2d5a4e274d95e2bae5b8c0e9d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4d\4d40e8b2d5a4e274d95e2bae5b8c0e9d
-    projectPath: Library\metadata\4d\4d40e8b2d5a4e274d95e2bae5b8c0e9d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Library\metadata\4d\4d40e8b2d5a4e274d95e2bae5b8c0e9d.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4d\4d40e8b2d5a4e274d95e2bae5b8c0e9d.info
-    projectPath: Library\metadata\4d\4d40e8b2d5a4e274d95e2bae5b8c0e9d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Library\metadata\4d\4d786b751bc0cf1499c407e485746881
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4d\4d786b751bc0cf1499c407e485746881
-    projectPath: Library\metadata\4d\4d786b751bc0cf1499c407e485746881
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4d\4d9fbdc0ddbcdc045803a514f782e13b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4d\4d9fbdc0ddbcdc045803a514f782e13b
-    projectPath: Library\metadata\4d\4d9fbdc0ddbcdc045803a514f782e13b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4e\4e0d7cfb02ad9cc4baac46dc75cbebae
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4e\4e0d7cfb02ad9cc4baac46dc75cbebae
-    projectPath: Library\metadata\4e\4e0d7cfb02ad9cc4baac46dc75cbebae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4e\4e0d7cfb02ad9cc4baac46dc75cbebae.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4e\4e0d7cfb02ad9cc4baac46dc75cbebae.info
-    projectPath: Library\metadata\4e\4e0d7cfb02ad9cc4baac46dc75cbebae.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4f\4f754ba583b120e44a65c73340fd2c42
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4f\4f754ba583b120e44a65c73340fd2c42
-    projectPath: Library\metadata\4f\4f754ba583b120e44a65c73340fd2c42
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4f\4f754ba583b120e44a65c73340fd2c42.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4f\4f754ba583b120e44a65c73340fd2c42.info
-    projectPath: Library\metadata\4f\4f754ba583b120e44a65c73340fd2c42.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4f\4fcb9320ee83ed449922f66fe3e8514a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4f\4fcb9320ee83ed449922f66fe3e8514a
-    projectPath: Library\metadata\4f\4fcb9320ee83ed449922f66fe3e8514a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4f\4fe66581a7168c6438c90af0d77355fe
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4f\4fe66581a7168c6438c90af0d77355fe
-    projectPath: Library\metadata\4f\4fe66581a7168c6438c90af0d77355fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\4f\4fe66581a7168c6438c90af0d77355fe.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\4f\4fe66581a7168c6438c90af0d77355fe.info
-    projectPath: Library\metadata\4f\4fe66581a7168c6438c90af0d77355fe.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\50\503c879f32d292940adb582bfa10794e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\50\503c879f32d292940adb582bfa10794e
-    projectPath: Library\metadata\50\503c879f32d292940adb582bfa10794e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\52\520e9614abcde074f8a7a3191ad25da1
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\52\520e9614abcde074f8a7a3191ad25da1
-    projectPath: Library\metadata\52\520e9614abcde074f8a7a3191ad25da1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\52\525cc6c62a8ac0740b2880fd3b43cc73
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\52\525cc6c62a8ac0740b2880fd3b43cc73
-    projectPath: Library\metadata\52\525cc6c62a8ac0740b2880fd3b43cc73
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\52\525cc6c62a8ac0740b2880fd3b43cc73.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\52\525cc6c62a8ac0740b2880fd3b43cc73.info
-    projectPath: Library\metadata\52\525cc6c62a8ac0740b2880fd3b43cc73.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\52\529a244519badc5458c9623b07bce431
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\52\529a244519badc5458c9623b07bce431
-    projectPath: Library\metadata\52\529a244519badc5458c9623b07bce431
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\54\5405384b23a22f64090e8c141ab3698e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\54\5405384b23a22f64090e8c141ab3698e
-    projectPath: Library\metadata\54\5405384b23a22f64090e8c141ab3698e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\54\5405384b23a22f64090e8c141ab3698e.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\54\5405384b23a22f64090e8c141ab3698e.info
-    projectPath: Library\metadata\54\5405384b23a22f64090e8c141ab3698e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\56\5666b20591851c8479c9cd578645719b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\56\5666b20591851c8479c9cd578645719b
-    projectPath: Library\metadata\56\5666b20591851c8479c9cd578645719b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\56\56b82115665fbe7498c2dc7295acd058
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\56\56b82115665fbe7498c2dc7295acd058
-    projectPath: Library\metadata\56\56b82115665fbe7498c2dc7295acd058
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\56\56efc9ce7e187074dae1f873e91e47cd
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\56\56efc9ce7e187074dae1f873e91e47cd
-    projectPath: Library\metadata\56\56efc9ce7e187074dae1f873e91e47cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\56\56fac8498a7dc464d8fc64d7635cac60
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\56\56fac8498a7dc464d8fc64d7635cac60
-    projectPath: Library\metadata\56\56fac8498a7dc464d8fc64d7635cac60
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\56\56fac8498a7dc464d8fc64d7635cac60.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\56\56fac8498a7dc464d8fc64d7635cac60.info
-    projectPath: Library\metadata\56\56fac8498a7dc464d8fc64d7635cac60.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\57\57364fe29bf30f24191234cbcc890cd4
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\57\57364fe29bf30f24191234cbcc890cd4
-    projectPath: Library\metadata\57\57364fe29bf30f24191234cbcc890cd4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\57\57364fe29bf30f24191234cbcc890cd4.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\57\57364fe29bf30f24191234cbcc890cd4.info
-    projectPath: Library\metadata\57\57364fe29bf30f24191234cbcc890cd4.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\59\59ff7ccd9fc1d9245a9eafed3ac13efd
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\59\59ff7ccd9fc1d9245a9eafed3ac13efd
-    projectPath: Library\metadata\59\59ff7ccd9fc1d9245a9eafed3ac13efd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\59\59ff7ccd9fc1d9245a9eafed3ac13efd.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\59\59ff7ccd9fc1d9245a9eafed3ac13efd.info
-    projectPath: Library\metadata\59\59ff7ccd9fc1d9245a9eafed3ac13efd.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\5b\5b0a335a2125a984894a8785c6d3c740
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\5b\5b0a335a2125a984894a8785c6d3c740
-    projectPath: Library\metadata\5b\5b0a335a2125a984894a8785c6d3c740
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\5d\5dd3ba05e3623a745ad9f4b80c28236c
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\5d\5dd3ba05e3623a745ad9f4b80c28236c
-    projectPath: Library\metadata\5d\5dd3ba05e3623a745ad9f4b80c28236c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\5e\5eda4c5f925f77f4791f000be2035357
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\5e\5eda4c5f925f77f4791f000be2035357
-    projectPath: Library\metadata\5e\5eda4c5f925f77f4791f000be2035357
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\5f\5ff7d903b44049d48a5442976b54a9d9
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\5f\5ff7d903b44049d48a5442976b54a9d9
-    projectPath: Library\metadata\5f\5ff7d903b44049d48a5442976b54a9d9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\5f\5ff7f4e6fb851b2468784494b777107b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\5f\5ff7f4e6fb851b2468784494b777107b
-    projectPath: Library\metadata\5f\5ff7f4e6fb851b2468784494b777107b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\61\6181216537131fd40b247fe3ba637213
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\61\6181216537131fd40b247fe3ba637213
-    projectPath: Library\metadata\61\6181216537131fd40b247fe3ba637213
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\61\6181216537131fd40b247fe3ba637213.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\61\6181216537131fd40b247fe3ba637213.info
-    projectPath: Library\metadata\61\6181216537131fd40b247fe3ba637213.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\61\61fb958456d81b5498658dc429021ac3
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\61\61fb958456d81b5498658dc429021ac3
-    projectPath: Library\metadata\61\61fb958456d81b5498658dc429021ac3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\62\6296256a10858114389e0c49cdb054f8
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\62\6296256a10858114389e0c49cdb054f8
-    projectPath: Library\metadata\62\6296256a10858114389e0c49cdb054f8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\62\6296256a10858114389e0c49cdb054f8.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\62\6296256a10858114389e0c49cdb054f8.info
-    projectPath: Library\metadata\62\6296256a10858114389e0c49cdb054f8.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\62\629f2bd9f6300cb4fb0919c180f7b50a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\62\629f2bd9f6300cb4fb0919c180f7b50a
-    projectPath: Library\metadata\62\629f2bd9f6300cb4fb0919c180f7b50a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\62\629f2bd9f6300cb4fb0919c180f7b50a.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\62\629f2bd9f6300cb4fb0919c180f7b50a.info
-    projectPath: Library\metadata\62\629f2bd9f6300cb4fb0919c180f7b50a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\62\62ef8fce19befd34093001f867b8c9f7
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\62\62ef8fce19befd34093001f867b8c9f7
-    projectPath: Library\metadata\62\62ef8fce19befd34093001f867b8c9f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\63\63ac8a19f93ebb54285031321b07a086
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\63\63ac8a19f93ebb54285031321b07a086
-    projectPath: Library\metadata\63\63ac8a19f93ebb54285031321b07a086
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\66\66bdd65ed22b7d14788b9b99c49f4277
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\66\66bdd65ed22b7d14788b9b99c49f4277
-    projectPath: Library\metadata\66\66bdd65ed22b7d14788b9b99c49f4277
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\66\66bdd65ed22b7d14788b9b99c49f4277.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\66\66bdd65ed22b7d14788b9b99c49f4277.info
-    projectPath: Library\metadata\66\66bdd65ed22b7d14788b9b99c49f4277.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\67\67dab62cec9088d48b3806cd123275f3
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\67\67dab62cec9088d48b3806cd123275f3
-    projectPath: Library\metadata\67\67dab62cec9088d48b3806cd123275f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\67\67dab62cec9088d48b3806cd123275f3.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\67\67dab62cec9088d48b3806cd123275f3.info
-    projectPath: Library\metadata\67\67dab62cec9088d48b3806cd123275f3.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\6a\6a61ce26e058766489fbf1c716c66276
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\6a\6a61ce26e058766489fbf1c716c66276
-    projectPath: Library\metadata\6a\6a61ce26e058766489fbf1c716c66276
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\6a\6ab95cfe90001ee448d71e9b5f2c563c
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\6a\6ab95cfe90001ee448d71e9b5f2c563c
-    projectPath: Library\metadata\6a\6ab95cfe90001ee448d71e9b5f2c563c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\6a\6aef4f6fb49762f4c81b1f5ee5e08256
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\6a\6aef4f6fb49762f4c81b1f5ee5e08256
-    projectPath: Library\metadata\6a\6aef4f6fb49762f4c81b1f5ee5e08256
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\6d\6dacb1007f0f0d6448f57687ab56568c
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\6d\6dacb1007f0f0d6448f57687ab56568c
-    projectPath: Library\metadata\6d\6dacb1007f0f0d6448f57687ab56568c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\75\754decd8b29ff2d4887438010d34b179
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\75\754decd8b29ff2d4887438010d34b179
-    projectPath: Library\metadata\75\754decd8b29ff2d4887438010d34b179
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\75\754decd8b29ff2d4887438010d34b179.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\75\754decd8b29ff2d4887438010d34b179.info
-    projectPath: Library\metadata\75\754decd8b29ff2d4887438010d34b179.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\75\7556769843641db40b3020bf63e729a0
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\75\7556769843641db40b3020bf63e729a0
-    projectPath: Library\metadata\75\7556769843641db40b3020bf63e729a0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\75\75a22685575d59e41b5840b2fed2d52a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\75\75a22685575d59e41b5840b2fed2d52a
-    projectPath: Library\metadata\75\75a22685575d59e41b5840b2fed2d52a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\75\75a22685575d59e41b5840b2fed2d52a.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\75\75a22685575d59e41b5840b2fed2d52a.info
-    projectPath: Library\metadata\75\75a22685575d59e41b5840b2fed2d52a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\76\76ce1040161f27e48b3daea406482984
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\76\76ce1040161f27e48b3daea406482984
-    projectPath: Library\metadata\76\76ce1040161f27e48b3daea406482984
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\76\76ce1040161f27e48b3daea406482984.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\76\76ce1040161f27e48b3daea406482984.info
-    projectPath: Library\metadata\76\76ce1040161f27e48b3daea406482984.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\77\77b2d28a343dcdb49a084bf35337b87f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\77\77b2d28a343dcdb49a084bf35337b87f
-    projectPath: Library\metadata\77\77b2d28a343dcdb49a084bf35337b87f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\77\77e522fcd5c2f7149b46aaa16b2d810b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\77\77e522fcd5c2f7149b46aaa16b2d810b
-    projectPath: Library\metadata\77\77e522fcd5c2f7149b46aaa16b2d810b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\78\7811b463dba7cb14592ff99da4f63713
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\78\7811b463dba7cb14592ff99da4f63713
-    projectPath: Library\metadata\78\7811b463dba7cb14592ff99da4f63713
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\78\7811b463dba7cb14592ff99da4f63713.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\78\7811b463dba7cb14592ff99da4f63713.info
-    projectPath: Library\metadata\78\7811b463dba7cb14592ff99da4f63713.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\78\7858c47f7bbd4014aa85532563853bc8
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\78\7858c47f7bbd4014aa85532563853bc8
-    projectPath: Library\metadata\78\7858c47f7bbd4014aa85532563853bc8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\79\7953e77d0b8ccfa419adc762dcfed12f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\79\7953e77d0b8ccfa419adc762dcfed12f
-    projectPath: Library\metadata\79\7953e77d0b8ccfa419adc762dcfed12f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\79\7953e77d0b8ccfa419adc762dcfed12f.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\79\7953e77d0b8ccfa419adc762dcfed12f.info
-    projectPath: Library\metadata\79\7953e77d0b8ccfa419adc762dcfed12f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7a\7a944e30516d2ff4e8c251dbade8d235
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7a\7a944e30516d2ff4e8c251dbade8d235
-    projectPath: Library\metadata\7a\7a944e30516d2ff4e8c251dbade8d235
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7a\7a944e30516d2ff4e8c251dbade8d235.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7a\7a944e30516d2ff4e8c251dbade8d235.info
-    projectPath: Library\metadata\7a\7a944e30516d2ff4e8c251dbade8d235.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7a\7af97be9424338c40b40ccd69c025caf
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7a\7af97be9424338c40b40ccd69c025caf
-    projectPath: Library\metadata\7a\7af97be9424338c40b40ccd69c025caf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7a\7af97be9424338c40b40ccd69c025caf.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7a\7af97be9424338c40b40ccd69c025caf.info
-    projectPath: Library\metadata\7a\7af97be9424338c40b40ccd69c025caf.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7b\7bcda614d8752d1499c03215a67fd73b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7b\7bcda614d8752d1499c03215a67fd73b
-    projectPath: Library\metadata\7b\7bcda614d8752d1499c03215a67fd73b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7b\7bcda614d8752d1499c03215a67fd73b.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7b\7bcda614d8752d1499c03215a67fd73b.info
-    projectPath: Library\metadata\7b\7bcda614d8752d1499c03215a67fd73b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7e\7ea87bfe76af1d2488d8678f4f30f547
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7e\7ea87bfe76af1d2488d8678f4f30f547
-    projectPath: Library\metadata\7e\7ea87bfe76af1d2488d8678f4f30f547
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7f\7fa560ab619b16744ad87e258a3d33d1
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7f\7fa560ab619b16744ad87e258a3d33d1
-    projectPath: Library\metadata\7f\7fa560ab619b16744ad87e258a3d33d1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\7f\7fa560ab619b16744ad87e258a3d33d1.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\7f\7fa560ab619b16744ad87e258a3d33d1.info
-    projectPath: Library\metadata\7f\7fa560ab619b16744ad87e258a3d33d1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\81\819d6d4c164c1e548a77d71d7ba86dd6
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\81\819d6d4c164c1e548a77d71d7ba86dd6
-    projectPath: Library\metadata\81\819d6d4c164c1e548a77d71d7ba86dd6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\82\826c10892a7abf74bb74f676fcae89ec
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\82\826c10892a7abf74bb74f676fcae89ec
-    projectPath: Library\metadata\82\826c10892a7abf74bb74f676fcae89ec
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\85\8592418d84109d74a91e4a8c328f3093
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\85\8592418d84109d74a91e4a8c328f3093
-    projectPath: Library\metadata\85\8592418d84109d74a91e4a8c328f3093
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\86\86f4bec6613f9c544b4c39904ceca92d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\86\86f4bec6613f9c544b4c39904ceca92d
-    projectPath: Library\metadata\86\86f4bec6613f9c544b4c39904ceca92d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\87\873145f2d765540468f3454b1bdc2cba
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\87\873145f2d765540468f3454b1bdc2cba
-    projectPath: Library\metadata\87\873145f2d765540468f3454b1bdc2cba
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\87\873145f2d765540468f3454b1bdc2cba.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\87\873145f2d765540468f3454b1bdc2cba.info
-    projectPath: Library\metadata\87\873145f2d765540468f3454b1bdc2cba.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\87\87c074d12cecddf4383d2fbc19e5258a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\87\87c074d12cecddf4383d2fbc19e5258a
-    projectPath: Library\metadata\87\87c074d12cecddf4383d2fbc19e5258a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\87\87c074d12cecddf4383d2fbc19e5258a.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\87\87c074d12cecddf4383d2fbc19e5258a.info
-    projectPath: Library\metadata\87\87c074d12cecddf4383d2fbc19e5258a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\8a\8add2a113a31fdb42b9c2f8fa5bbf1e9
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\8a\8add2a113a31fdb42b9c2f8fa5bbf1e9
-    projectPath: Library\metadata\8a\8add2a113a31fdb42b9c2f8fa5bbf1e9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\8d\8d1141f76d50f82438f15c3d6772b30e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\8d\8d1141f76d50f82438f15c3d6772b30e
-    projectPath: Library\metadata\8d\8d1141f76d50f82438f15c3d6772b30e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\8d\8d7a8d548bbbf024f8ac858fcbd9dbce
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\8d\8d7a8d548bbbf024f8ac858fcbd9dbce
-    projectPath: Library\metadata\8d\8d7a8d548bbbf024f8ac858fcbd9dbce
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\90\906686ad555b58c4f80bedb5554a1106
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\90\906686ad555b58c4f80bedb5554a1106
-    projectPath: Library\metadata\90\906686ad555b58c4f80bedb5554a1106
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\90\90af7d4ed63ddbf439bad8a0bd776fac
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\90\90af7d4ed63ddbf439bad8a0bd776fac
-    projectPath: Library\metadata\90\90af7d4ed63ddbf439bad8a0bd776fac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\90\90af7d4ed63ddbf439bad8a0bd776fac.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\90\90af7d4ed63ddbf439bad8a0bd776fac.info
-    projectPath: Library\metadata\90\90af7d4ed63ddbf439bad8a0bd776fac.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\91\9181aa0a35cbb4a45ba428a06ce30339
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\91\9181aa0a35cbb4a45ba428a06ce30339
-    projectPath: Library\metadata\91\9181aa0a35cbb4a45ba428a06ce30339
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\91\9181aa0a35cbb4a45ba428a06ce30339.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\91\9181aa0a35cbb4a45ba428a06ce30339.info
-    projectPath: Library\metadata\91\9181aa0a35cbb4a45ba428a06ce30339.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\94\948549599d74aa04383e9b5a18c6449e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\94\948549599d74aa04383e9b5a18c6449e
-    projectPath: Library\metadata\94\948549599d74aa04383e9b5a18c6449e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\94\948549599d74aa04383e9b5a18c6449e.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\94\948549599d74aa04383e9b5a18c6449e.info
-    projectPath: Library\metadata\94\948549599d74aa04383e9b5a18c6449e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\95\9568369dac691f347be5fef27811a067
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\95\9568369dac691f347be5fef27811a067
-    projectPath: Library\metadata\95\9568369dac691f347be5fef27811a067
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\95\9568369dac691f347be5fef27811a067.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\95\9568369dac691f347be5fef27811a067.info
-    projectPath: Library\metadata\95\9568369dac691f347be5fef27811a067.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\96\9614b9840196ec043b76de85d5e254a7
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\96\9614b9840196ec043b76de85d5e254a7
-    projectPath: Library\metadata\96\9614b9840196ec043b76de85d5e254a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\96\9614b9840196ec043b76de85d5e254a7.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\96\9614b9840196ec043b76de85d5e254a7.info
-    projectPath: Library\metadata\96\9614b9840196ec043b76de85d5e254a7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\98\98144dc9a56636e4ab260fad95ea0509
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\98\98144dc9a56636e4ab260fad95ea0509
-    projectPath: Library\metadata\98\98144dc9a56636e4ab260fad95ea0509
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\99\9974daca20338734893687c284eefb96
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\99\9974daca20338734893687c284eefb96
-    projectPath: Library\metadata\99\9974daca20338734893687c284eefb96
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\99\9974daca20338734893687c284eefb96.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\99\9974daca20338734893687c284eefb96.info
-    projectPath: Library\metadata\99\9974daca20338734893687c284eefb96.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9a\9a20cc2938ac8bc4ca1108d55ee45c4d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9a\9a20cc2938ac8bc4ca1108d55ee45c4d
-    projectPath: Library\metadata\9a\9a20cc2938ac8bc4ca1108d55ee45c4d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9a\9af9c088a60eac543b3a874095b19f9f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9a\9af9c088a60eac543b3a874095b19f9f
-    projectPath: Library\metadata\9a\9af9c088a60eac543b3a874095b19f9f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9a\9af9c088a60eac543b3a874095b19f9f.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9a\9af9c088a60eac543b3a874095b19f9f.info
-    projectPath: Library\metadata\9a\9af9c088a60eac543b3a874095b19f9f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9c\9c36bc37470e1d04ab410c08b5412b2a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9c\9c36bc37470e1d04ab410c08b5412b2a
-    projectPath: Library\metadata\9c\9c36bc37470e1d04ab410c08b5412b2a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9c\9c36bc37470e1d04ab410c08b5412b2a.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9c\9c36bc37470e1d04ab410c08b5412b2a.info
-    projectPath: Library\metadata\9c\9c36bc37470e1d04ab410c08b5412b2a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9d\9d65efc5c6f0b8f4bbe0cdffedc4ba9f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9d\9d65efc5c6f0b8f4bbe0cdffedc4ba9f
-    projectPath: Library\metadata\9d\9d65efc5c6f0b8f4bbe0cdffedc4ba9f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9d\9d65efc5c6f0b8f4bbe0cdffedc4ba9f.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9d\9d65efc5c6f0b8f4bbe0cdffedc4ba9f.info
-    projectPath: Library\metadata\9d\9d65efc5c6f0b8f4bbe0cdffedc4ba9f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9e\9efdaa7f893c19e4099eaf5a71b42f50
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9e\9efdaa7f893c19e4099eaf5a71b42f50
-    projectPath: Library\metadata\9e\9efdaa7f893c19e4099eaf5a71b42f50
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9f\9fea703df90e92946b29fff1d2009493
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9f\9fea703df90e92946b29fff1d2009493
-    projectPath: Library\metadata\9f\9fea703df90e92946b29fff1d2009493
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\9f\9fea703df90e92946b29fff1d2009493.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\9f\9fea703df90e92946b29fff1d2009493.info
-    projectPath: Library\metadata\9f\9fea703df90e92946b29fff1d2009493.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a0\a00a949593ca02b42950ad16d99e811b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a0\a00a949593ca02b42950ad16d99e811b
-    projectPath: Library\metadata\a0\a00a949593ca02b42950ad16d99e811b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a0\a00a949593ca02b42950ad16d99e811b.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a0\a00a949593ca02b42950ad16d99e811b.info
-    projectPath: Library\metadata\a0\a00a949593ca02b42950ad16d99e811b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a0\a056b226bc88ee142b71dd8b28fbf5f7
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a0\a056b226bc88ee142b71dd8b28fbf5f7
-    projectPath: Library\metadata\a0\a056b226bc88ee142b71dd8b28fbf5f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a0\a0bd96937f45a754e80223c775bc7c43
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a0\a0bd96937f45a754e80223c775bc7c43
-    projectPath: Library\metadata\a0\a0bd96937f45a754e80223c775bc7c43
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a0\a0ffb0670bc97ab4c879e830866784c7
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a0\a0ffb0670bc97ab4c879e830866784c7
-    projectPath: Library\metadata\a0\a0ffb0670bc97ab4c879e830866784c7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a0\a0ffb0670bc97ab4c879e830866784c7.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a0\a0ffb0670bc97ab4c879e830866784c7.info
-    projectPath: Library\metadata\a0\a0ffb0670bc97ab4c879e830866784c7.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a1\a103900552dfb1a45ac3a5dea437236f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a1\a103900552dfb1a45ac3a5dea437236f
-    projectPath: Library\metadata\a1\a103900552dfb1a45ac3a5dea437236f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a1\a103900552dfb1a45ac3a5dea437236f.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a1\a103900552dfb1a45ac3a5dea437236f.info
-    projectPath: Library\metadata\a1\a103900552dfb1a45ac3a5dea437236f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a2\a28d6c259b02d72419103b0753750c66
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a2\a28d6c259b02d72419103b0753750c66
-    projectPath: Library\metadata\a2\a28d6c259b02d72419103b0753750c66
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a2\a28d6c259b02d72419103b0753750c66.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a2\a28d6c259b02d72419103b0753750c66.info
-    projectPath: Library\metadata\a2\a28d6c259b02d72419103b0753750c66.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a4\a472e6acb854f8445a222ab16d99ccb9
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a4\a472e6acb854f8445a222ab16d99ccb9
-    projectPath: Library\metadata\a4\a472e6acb854f8445a222ab16d99ccb9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a4\a472e6acb854f8445a222ab16d99ccb9.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a4\a472e6acb854f8445a222ab16d99ccb9.info
-    projectPath: Library\metadata\a4\a472e6acb854f8445a222ab16d99ccb9.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a4\a4b73cfa2bcd5d24a9d8a507aafd04c1
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a4\a4b73cfa2bcd5d24a9d8a507aafd04c1
-    projectPath: Library\metadata\a4\a4b73cfa2bcd5d24a9d8a507aafd04c1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a4\a4b73cfa2bcd5d24a9d8a507aafd04c1.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a4\a4b73cfa2bcd5d24a9d8a507aafd04c1.info
-    projectPath: Library\metadata\a4\a4b73cfa2bcd5d24a9d8a507aafd04c1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a5\a508e82cef1ee3c4cb95bbd9493a2322
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a5\a508e82cef1ee3c4cb95bbd9493a2322
-    projectPath: Library\metadata\a5\a508e82cef1ee3c4cb95bbd9493a2322
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a6\a6daec745a28cfd4793b73870b4afd58
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a6\a6daec745a28cfd4793b73870b4afd58
-    projectPath: Library\metadata\a6\a6daec745a28cfd4793b73870b4afd58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a6\a6daec745a28cfd4793b73870b4afd58.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a6\a6daec745a28cfd4793b73870b4afd58.info
-    projectPath: Library\metadata\a6\a6daec745a28cfd4793b73870b4afd58.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a7\a792664673f2e8a40a1c452f4484a235
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a7\a792664673f2e8a40a1c452f4484a235
-    projectPath: Library\metadata\a7\a792664673f2e8a40a1c452f4484a235
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\a8\a8ce2497cb3c0c24894c71d7f36baf93
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\a8\a8ce2497cb3c0c24894c71d7f36baf93
-    projectPath: Library\metadata\a8\a8ce2497cb3c0c24894c71d7f36baf93
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ad\ad54c303d3e410147b74e9c6f3f28d80
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ad\ad54c303d3e410147b74e9c6f3f28d80
-    projectPath: Library\metadata\ad\ad54c303d3e410147b74e9c6f3f28d80
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ad\ad8f1fa460300ca4c980b26b7ab341cb
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ad\ad8f1fa460300ca4c980b26b7ab341cb
-    projectPath: Library\metadata\ad\ad8f1fa460300ca4c980b26b7ab341cb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ad\ade60353a52617a49ac2db0fc46fe43f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ad\ade60353a52617a49ac2db0fc46fe43f
-    projectPath: Library\metadata\ad\ade60353a52617a49ac2db0fc46fe43f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ae\ae2b32788c2a2fe4d83b674703c86855
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ae\ae2b32788c2a2fe4d83b674703c86855
-    projectPath: Library\metadata\ae\ae2b32788c2a2fe4d83b674703c86855
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ae\ae2b32788c2a2fe4d83b674703c86855.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ae\ae2b32788c2a2fe4d83b674703c86855.info
-    projectPath: Library\metadata\ae\ae2b32788c2a2fe4d83b674703c86855.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\af\af540e63ff0b19644a10a52c4ae42285
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\af\af540e63ff0b19644a10a52c4ae42285
-    projectPath: Library\metadata\af\af540e63ff0b19644a10a52c4ae42285
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b1\b18ed917eddbb6246bca063d88ee9165
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\b1\b18ed917eddbb6246bca063d88ee9165
-    projectPath: Library\metadata\b1\b18ed917eddbb6246bca063d88ee9165
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b1\b18ed917eddbb6246bca063d88ee9165.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\b1\b18ed917eddbb6246bca063d88ee9165.info
-    projectPath: Library\metadata\b1\b18ed917eddbb6246bca063d88ee9165.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b4\b49d90688e6ba7e4495f9d41d23e3f25
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\b4\b49d90688e6ba7e4495f9d41d23e3f25
-    projectPath: Library\metadata\b4\b49d90688e6ba7e4495f9d41d23e3f25
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b5\b5ab6ab397073a1469135c236b6e700b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\b5\b5ab6ab397073a1469135c236b6e700b
-    projectPath: Library\metadata\b5\b5ab6ab397073a1469135c236b6e700b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b5\b5ab6ab397073a1469135c236b6e700b.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\b5\b5ab6ab397073a1469135c236b6e700b.info
-    projectPath: Library\metadata\b5\b5ab6ab397073a1469135c236b6e700b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b7\b76f9a56997bcdb459001bce2fe1ff55
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\b7\b76f9a56997bcdb459001bce2fe1ff55
-    projectPath: Library\metadata\b7\b76f9a56997bcdb459001bce2fe1ff55
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\b8\b82dab40fba180a43b6bb6a9de79d783
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\b8\b82dab40fba180a43b6bb6a9de79d783
-    projectPath: Library\metadata\b8\b82dab40fba180a43b6bb6a9de79d783
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ba\baddd58a6e1f2c5448b75fda8f5c1717
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ba\baddd58a6e1f2c5448b75fda8f5c1717
-    projectPath: Library\metadata\ba\baddd58a6e1f2c5448b75fda8f5c1717
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ba\baddd58a6e1f2c5448b75fda8f5c1717.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ba\baddd58a6e1f2c5448b75fda8f5c1717.info
-    projectPath: Library\metadata\ba\baddd58a6e1f2c5448b75fda8f5c1717.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\bc\bcf72c0b0351bcd4a96d2e77efe97054
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\bc\bcf72c0b0351bcd4a96d2e77efe97054
-    projectPath: Library\metadata\bc\bcf72c0b0351bcd4a96d2e77efe97054
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c0\c05db38c24a73ef469d410c63b44cac2
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c0\c05db38c24a73ef469d410c63b44cac2
-    projectPath: Library\metadata\c0\c05db38c24a73ef469d410c63b44cac2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c0\c05db38c24a73ef469d410c63b44cac2.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c0\c05db38c24a73ef469d410c63b44cac2.info
-    projectPath: Library\metadata\c0\c05db38c24a73ef469d410c63b44cac2.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c0\c0e37648e92994946b8494e79d62d97a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c0\c0e37648e92994946b8494e79d62d97a
-    projectPath: Library\metadata\c0\c0e37648e92994946b8494e79d62d97a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c1\c14dd928d0795234bb98771034a9596f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c1\c14dd928d0795234bb98771034a9596f
-    projectPath: Library\metadata\c1\c14dd928d0795234bb98771034a9596f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c1\c1cff0d61d8f7f341b2d68f326c93842
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c1\c1cff0d61d8f7f341b2d68f326c93842
-    projectPath: Library\metadata\c1\c1cff0d61d8f7f341b2d68f326c93842
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c1\c1cff0d61d8f7f341b2d68f326c93842.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c1\c1cff0d61d8f7f341b2d68f326c93842.info
-    projectPath: Library\metadata\c1\c1cff0d61d8f7f341b2d68f326c93842.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c2\c213f0d1775eaf8458c5ef6eb8ebf1d3
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c2\c213f0d1775eaf8458c5ef6eb8ebf1d3
-    projectPath: Library\metadata\c2\c213f0d1775eaf8458c5ef6eb8ebf1d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c2\c22dbd1b065b1624591257a03780b3ab
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c2\c22dbd1b065b1624591257a03780b3ab
-    projectPath: Library\metadata\c2\c22dbd1b065b1624591257a03780b3ab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c2\c298bde2c6c8bef4390e271c5fdd8e27
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c2\c298bde2c6c8bef4390e271c5fdd8e27
-    projectPath: Library\metadata\c2\c298bde2c6c8bef4390e271c5fdd8e27
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c2\c2ab13c6c2d531c4593e1d22f7202745
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c2\c2ab13c6c2d531c4593e1d22f7202745
-    projectPath: Library\metadata\c2\c2ab13c6c2d531c4593e1d22f7202745
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c2\c2ab13c6c2d531c4593e1d22f7202745.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c2\c2ab13c6c2d531c4593e1d22f7202745.info
-    projectPath: Library\metadata\c2\c2ab13c6c2d531c4593e1d22f7202745.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c2\c2ad0e59d4021894892edfdec063f85b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c2\c2ad0e59d4021894892edfdec063f85b
-    projectPath: Library\metadata\c2\c2ad0e59d4021894892edfdec063f85b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c2\c2ad0e59d4021894892edfdec063f85b.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c2\c2ad0e59d4021894892edfdec063f85b.info
-    projectPath: Library\metadata\c2\c2ad0e59d4021894892edfdec063f85b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c4\c48a6b50a6423d044bb16e05ef123f55
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c4\c48a6b50a6423d044bb16e05ef123f55
-    projectPath: Library\metadata\c4\c48a6b50a6423d044bb16e05ef123f55
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c4\c48a6b50a6423d044bb16e05ef123f55.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c4\c48a6b50a6423d044bb16e05ef123f55.info
-    projectPath: Library\metadata\c4\c48a6b50a6423d044bb16e05ef123f55.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c4\c49ac6ae05ffc2d4ea6bbe781df545e4
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c4\c49ac6ae05ffc2d4ea6bbe781df545e4
-    projectPath: Library\metadata\c4\c49ac6ae05ffc2d4ea6bbe781df545e4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c5\c5d02143fdb24254d832bcfb7f63b02f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c5\c5d02143fdb24254d832bcfb7f63b02f
-    projectPath: Library\metadata\c5\c5d02143fdb24254d832bcfb7f63b02f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c7\c7e31af86c8db374988fb54b17bcaa54
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c7\c7e31af86c8db374988fb54b17bcaa54
-    projectPath: Library\metadata\c7\c7e31af86c8db374988fb54b17bcaa54
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c7\c7e31af86c8db374988fb54b17bcaa54.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c7\c7e31af86c8db374988fb54b17bcaa54.info
-    projectPath: Library\metadata\c7\c7e31af86c8db374988fb54b17bcaa54.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c9\c9a4428656c48ce4b8a8b4f2767dae6d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c9\c9a4428656c48ce4b8a8b4f2767dae6d
-    projectPath: Library\metadata\c9\c9a4428656c48ce4b8a8b4f2767dae6d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\c9\c9a4428656c48ce4b8a8b4f2767dae6d.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\c9\c9a4428656c48ce4b8a8b4f2767dae6d.info
-    projectPath: Library\metadata\c9\c9a4428656c48ce4b8a8b4f2767dae6d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ca\ca553ffcc505e6a4abaf532aa05b4508
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ca\ca553ffcc505e6a4abaf532aa05b4508
-    projectPath: Library\metadata\ca\ca553ffcc505e6a4abaf532aa05b4508
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ca\caad36bed2785f545b653dc46cd8298d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ca\caad36bed2785f545b653dc46cd8298d
-    projectPath: Library\metadata\ca\caad36bed2785f545b653dc46cd8298d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ca\caad36bed2785f545b653dc46cd8298d.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ca\caad36bed2785f545b653dc46cd8298d.info
-    projectPath: Library\metadata\ca\caad36bed2785f545b653dc46cd8298d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cb\cb182e2c5c1acf446aa81cb40a311b1a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cb\cb182e2c5c1acf446aa81cb40a311b1a
-    projectPath: Library\metadata\cb\cb182e2c5c1acf446aa81cb40a311b1a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cb\cb182e2c5c1acf446aa81cb40a311b1a.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cb\cb182e2c5c1acf446aa81cb40a311b1a.info
-    projectPath: Library\metadata\cb\cb182e2c5c1acf446aa81cb40a311b1a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cb\cbb306edcfa3dea4288918022b01772e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cb\cbb306edcfa3dea4288918022b01772e
-    projectPath: Library\metadata\cb\cbb306edcfa3dea4288918022b01772e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cb\cbb306edcfa3dea4288918022b01772e.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cb\cbb306edcfa3dea4288918022b01772e.info
-    projectPath: Library\metadata\cb\cbb306edcfa3dea4288918022b01772e.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cb\cbc314ee855d0df40995dd7015aa59af
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cb\cbc314ee855d0df40995dd7015aa59af
-    projectPath: Library\metadata\cb\cbc314ee855d0df40995dd7015aa59af
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cd\cd125750b91e00e4c901ac1cf0572aa3
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cd\cd125750b91e00e4c901ac1cf0572aa3
-    projectPath: Library\metadata\cd\cd125750b91e00e4c901ac1cf0572aa3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cd\cdd24b95a32e1b44289c7f51ab33f9d5
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cd\cdd24b95a32e1b44289c7f51ab33f9d5
-    projectPath: Library\metadata\cd\cdd24b95a32e1b44289c7f51ab33f9d5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cd\cdd24b95a32e1b44289c7f51ab33f9d5.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cd\cdd24b95a32e1b44289c7f51ab33f9d5.info
-    projectPath: Library\metadata\cd\cdd24b95a32e1b44289c7f51ab33f9d5.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cf\cf138d887cfa40241b4649828fd25bfc
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cf\cf138d887cfa40241b4649828fd25bfc
-    projectPath: Library\metadata\cf\cf138d887cfa40241b4649828fd25bfc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cf\cf7d7ebcdac85f441accaa7cea56a2aa
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cf\cf7d7ebcdac85f441accaa7cea56a2aa
-    projectPath: Library\metadata\cf\cf7d7ebcdac85f441accaa7cea56a2aa
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cf\cf7d7ebcdac85f441accaa7cea56a2aa.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cf\cf7d7ebcdac85f441accaa7cea56a2aa.info
-    projectPath: Library\metadata\cf\cf7d7ebcdac85f441accaa7cea56a2aa.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cf\cfe77ede0ea778f41b7cee17ca65fd4b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cf\cfe77ede0ea778f41b7cee17ca65fd4b
-    projectPath: Library\metadata\cf\cfe77ede0ea778f41b7cee17ca65fd4b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\cf\cfe77ede0ea778f41b7cee17ca65fd4b.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\cf\cfe77ede0ea778f41b7cee17ca65fd4b.info
-    projectPath: Library\metadata\cf\cfe77ede0ea778f41b7cee17ca65fd4b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d0\d007ed6149a661043a87cf0eccdf9d94
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d0\d007ed6149a661043a87cf0eccdf9d94
-    projectPath: Library\metadata\d0\d007ed6149a661043a87cf0eccdf9d94
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d3\d35d5e5d90b6d564ca118fbeda3fcb0e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d3\d35d5e5d90b6d564ca118fbeda3fcb0e
-    projectPath: Library\metadata\d3\d35d5e5d90b6d564ca118fbeda3fcb0e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d4\d41912ecb7dd51e4887f83401170fece
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d4\d41912ecb7dd51e4887f83401170fece
-    projectPath: Library\metadata\d4\d41912ecb7dd51e4887f83401170fece
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d4\d41912ecb7dd51e4887f83401170fece.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d4\d41912ecb7dd51e4887f83401170fece.info
-    projectPath: Library\metadata\d4\d41912ecb7dd51e4887f83401170fece.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d6\d6f3308726058454f9ea79b4c0e9bc6b
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d6\d6f3308726058454f9ea79b4c0e9bc6b
-    projectPath: Library\metadata\d6\d6f3308726058454f9ea79b4c0e9bc6b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d6\d6f3308726058454f9ea79b4c0e9bc6b.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d6\d6f3308726058454f9ea79b4c0e9bc6b.info
-    projectPath: Library\metadata\d6\d6f3308726058454f9ea79b4c0e9bc6b.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d7\d785dd28b0a1f234c896bc5a44ff9fb2
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d7\d785dd28b0a1f234c896bc5a44ff9fb2
-    projectPath: Library\metadata\d7\d785dd28b0a1f234c896bc5a44ff9fb2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\d7\d785dd28b0a1f234c896bc5a44ff9fb2.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\d7\d785dd28b0a1f234c896bc5a44ff9fb2.info
-    projectPath: Library\metadata\d7\d785dd28b0a1f234c896bc5a44ff9fb2.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\da\da57a2648819f7342891f6e21f6223e0
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\da\da57a2648819f7342891f6e21f6223e0
-    projectPath: Library\metadata\da\da57a2648819f7342891f6e21f6223e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\da\da57a2648819f7342891f6e21f6223e0.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\da\da57a2648819f7342891f6e21f6223e0.info
-    projectPath: Library\metadata\da\da57a2648819f7342891f6e21f6223e0.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\dd\dd492a42466feb84fa56987a99fa0bab
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\dd\dd492a42466feb84fa56987a99fa0bab
-    projectPath: Library\metadata\dd\dd492a42466feb84fa56987a99fa0bab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\de\de6d00c121355fd45b7c42ebe5198108
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\de\de6d00c121355fd45b7c42ebe5198108
-    projectPath: Library\metadata\de\de6d00c121355fd45b7c42ebe5198108
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\de\de73f933724afe5449ee6f518b506444
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\de\de73f933724afe5449ee6f518b506444
-    projectPath: Library\metadata\de\de73f933724afe5449ee6f518b506444
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\de\debe6c9e26b4e7b4a8ea5bf3f20819e4
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\de\debe6c9e26b4e7b4a8ea5bf3f20819e4
-    projectPath: Library\metadata\de\debe6c9e26b4e7b4a8ea5bf3f20819e4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\df\df1374a1fce3e9f4b8d26b25c5b449d6
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\df\df1374a1fce3e9f4b8d26b25c5b449d6
-    projectPath: Library\metadata\df\df1374a1fce3e9f4b8d26b25c5b449d6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\df\df6ae8143c3055149bd7c7242347bcbe
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\df\df6ae8143c3055149bd7c7242347bcbe
-    projectPath: Library\metadata\df\df6ae8143c3055149bd7c7242347bcbe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e3\e3fbc143f50ef5349ad54b13cdc1a317
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e3\e3fbc143f50ef5349ad54b13cdc1a317
-    projectPath: Library\metadata\e3\e3fbc143f50ef5349ad54b13cdc1a317
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e3\e3fbc143f50ef5349ad54b13cdc1a317.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e3\e3fbc143f50ef5349ad54b13cdc1a317.info
-    projectPath: Library\metadata\e3\e3fbc143f50ef5349ad54b13cdc1a317.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e5\e5654d4427fcf9f4baa26bd49884d0f7
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e5\e5654d4427fcf9f4baa26bd49884d0f7
-    projectPath: Library\metadata\e5\e5654d4427fcf9f4baa26bd49884d0f7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e6\e6df27bf3ebcf52438aad7f7738d5907
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e6\e6df27bf3ebcf52438aad7f7738d5907
-    projectPath: Library\metadata\e6\e6df27bf3ebcf52438aad7f7738d5907
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e6\e6df27bf3ebcf52438aad7f7738d5907.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e6\e6df27bf3ebcf52438aad7f7738d5907.info
-    projectPath: Library\metadata\e6\e6df27bf3ebcf52438aad7f7738d5907.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e7\e725f7d12bf71e844ab4e6918506bd2a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e7\e725f7d12bf71e844ab4e6918506bd2a
-    projectPath: Library\metadata\e7\e725f7d12bf71e844ab4e6918506bd2a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e7\e725f7d12bf71e844ab4e6918506bd2a.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e7\e725f7d12bf71e844ab4e6918506bd2a.info
-    projectPath: Library\metadata\e7\e725f7d12bf71e844ab4e6918506bd2a.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\e9\e9d931164cc828f48aa3ef1ef63433bc
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\e9\e9d931164cc828f48aa3ef1ef63433bc
-    projectPath: Library\metadata\e9\e9d931164cc828f48aa3ef1ef63433bc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ea\ea70b84d4ada29243b085d33891ddfb3
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ea\ea70b84d4ada29243b085d33891ddfb3
-    projectPath: Library\metadata\ea\ea70b84d4ada29243b085d33891ddfb3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ea\ea70b84d4ada29243b085d33891ddfb3.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ea\ea70b84d4ada29243b085d33891ddfb3.info
-    projectPath: Library\metadata\ea\ea70b84d4ada29243b085d33891ddfb3.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ea\eafead0b0f8c64940b6d63740ffb5d7d
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ea\eafead0b0f8c64940b6d63740ffb5d7d
-    projectPath: Library\metadata\ea\eafead0b0f8c64940b6d63740ffb5d7d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\eb\eb10ebb0043954046abc71ca5c8f3e50
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\eb\eb10ebb0043954046abc71ca5c8f3e50
-    projectPath: Library\metadata\eb\eb10ebb0043954046abc71ca5c8f3e50
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\eb\eb10ebb0043954046abc71ca5c8f3e50.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\eb\eb10ebb0043954046abc71ca5c8f3e50.info
-    projectPath: Library\metadata\eb\eb10ebb0043954046abc71ca5c8f3e50.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\eb\ebbfaada2ecf372468d4aa1527b1809a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\eb\ebbfaada2ecf372468d4aa1527b1809a
-    projectPath: Library\metadata\eb\ebbfaada2ecf372468d4aa1527b1809a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ed\ed137f30aaaf2f040888727f2eea558a
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\ed\ed137f30aaaf2f040888727f2eea558a
-    projectPath: Library\metadata\ed\ed137f30aaaf2f040888727f2eea558a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f0\f0897c8285133604c9a1de0f5137797c
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f0\f0897c8285133604c9a1de0f5137797c
-    projectPath: Library\metadata\f0\f0897c8285133604c9a1de0f5137797c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f1\f137266b5f36f8649bb3841bf2b65327
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f1\f137266b5f36f8649bb3841bf2b65327
-    projectPath: Library\metadata\f1\f137266b5f36f8649bb3841bf2b65327
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f2\f2a691ec6720d6c4eba939bb8f3241b1
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f2\f2a691ec6720d6c4eba939bb8f3241b1
-    projectPath: Library\metadata\f2\f2a691ec6720d6c4eba939bb8f3241b1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f5\f56ca6bacc2b7bf438eb40d0376983e1
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f5\f56ca6bacc2b7bf438eb40d0376983e1
-    projectPath: Library\metadata\f5\f56ca6bacc2b7bf438eb40d0376983e1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f5\f56ca6bacc2b7bf438eb40d0376983e1.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f5\f56ca6bacc2b7bf438eb40d0376983e1.info
-    projectPath: Library\metadata\f5\f56ca6bacc2b7bf438eb40d0376983e1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f6\f6ce07379230d2a469110273491cf29e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f6\f6ce07379230d2a469110273491cf29e
-    projectPath: Library\metadata\f6\f6ce07379230d2a469110273491cf29e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f6\f6ef0bdbdf49e04469d7df6c5b40e286
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f6\f6ef0bdbdf49e04469d7df6c5b40e286
-    projectPath: Library\metadata\f6\f6ef0bdbdf49e04469d7df6c5b40e286
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f6\f6ef0bdbdf49e04469d7df6c5b40e286.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f6\f6ef0bdbdf49e04469d7df6c5b40e286.info
-    projectPath: Library\metadata\f6\f6ef0bdbdf49e04469d7df6c5b40e286.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f7\f75ade985d403494a9d0ed86ededf82e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f7\f75ade985d403494a9d0ed86ededf82e
-    projectPath: Library\metadata\f7\f75ade985d403494a9d0ed86ededf82e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f9\f91ed7409bc185544a594d68ba44eb76
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f9\f91ed7409bc185544a594d68ba44eb76
-    projectPath: Library\metadata\f9\f91ed7409bc185544a594d68ba44eb76
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f9\f91ed7409bc185544a594d68ba44eb76.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f9\f91ed7409bc185544a594d68ba44eb76.info
-    projectPath: Library\metadata\f9\f91ed7409bc185544a594d68ba44eb76.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f9\f9ef5564f0d0774479fe4c48f4dcb594
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f9\f9ef5564f0d0774479fe4c48f4dcb594
-    projectPath: Library\metadata\f9\f9ef5564f0d0774479fe4c48f4dcb594
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\f9\f9ef5564f0d0774479fe4c48f4dcb594.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\f9\f9ef5564f0d0774479fe4c48f4dcb594.info
-    projectPath: Library\metadata\f9\f9ef5564f0d0774479fe4c48f4dcb594.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fc\fc9f9e9b4b672264f955fa0f28ddbe5e
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fc\fc9f9e9b4b672264f955fa0f28ddbe5e
-    projectPath: Library\metadata\fc\fc9f9e9b4b672264f955fa0f28ddbe5e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fc\fce0d12c674e3be49bf7f51ee664e975
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fc\fce0d12c674e3be49bf7f51ee664e975
-    projectPath: Library\metadata\fc\fce0d12c674e3be49bf7f51ee664e975
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fd\fddcf0af0ae764442aebd2d1cc3eccfd
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fd\fddcf0af0ae764442aebd2d1cc3eccfd
-    projectPath: Library\metadata\fd\fddcf0af0ae764442aebd2d1cc3eccfd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fd\fddcf0af0ae764442aebd2d1cc3eccfd.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fd\fddcf0af0ae764442aebd2d1cc3eccfd.info
-    projectPath: Library\metadata\fd\fddcf0af0ae764442aebd2d1cc3eccfd.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fd\fde5b7993f723b143920acc497510e76
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fd\fde5b7993f723b143920acc497510e76
-    projectPath: Library\metadata\fd\fde5b7993f723b143920acc497510e76
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fd\fde5b7993f723b143920acc497510e76.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fd\fde5b7993f723b143920acc497510e76.info
-    projectPath: Library\metadata\fd\fde5b7993f723b143920acc497510e76.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fe\fe50071fafd08ff4ebe6af7d2960561f
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fe\fe50071fafd08ff4ebe6af7d2960561f
-    projectPath: Library\metadata\fe\fe50071fafd08ff4ebe6af7d2960561f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\fe\fe50071fafd08ff4ebe6af7d2960561f.info
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\metadata\fe\fe50071fafd08ff4ebe6af7d2960561f.info
-    projectPath: Library\metadata\fe\fe50071fafd08ff4ebe6af7d2960561f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: Unity_Project\ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project\Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Temp\UnityTempFile-8d6072a07b4a9824f9d562d0077486e3
-    fullPath: C:\Users\BrianBrown\Documents\GitHub\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-8d6072a07b4a9824f9d562d0077486e3
-    projectPath: Temp\UnityTempFile-8d6072a07b4a9824f9d562d0077486e3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-0f0de56e333c2e64795fb2b09fa50614
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-0f0de56e333c2e64795fb2b09fa50614
+    projectPath: Temp\UnityTempFile-0f0de56e333c2e64795fb2b09fa50614
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-20fa27ac2b723654c8827eb1bf155ae8
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-20fa27ac2b723654c8827eb1bf155ae8
+    projectPath: Temp\UnityTempFile-20fa27ac2b723654c8827eb1bf155ae8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-26942d5ab3111b34c92796f7548b7c2b
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-26942d5ab3111b34c92796f7548b7c2b
+    projectPath: Temp\UnityTempFile-26942d5ab3111b34c92796f7548b7c2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-5134302299679f945a2c2f9aa07944ca
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-5134302299679f945a2c2f9aa07944ca
+    projectPath: Temp\UnityTempFile-5134302299679f945a2c2f9aa07944ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-5df502a2ad393f843865bc4a5152c7fd
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-5df502a2ad393f843865bc4a5152c7fd
+    projectPath: Temp\UnityTempFile-5df502a2ad393f843865bc4a5152c7fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-5f4cb79e195ca4849a566d18ce6aa074
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-5f4cb79e195ca4849a566d18ce6aa074
+    projectPath: Temp\UnityTempFile-5f4cb79e195ca4849a566d18ce6aa074
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-64eb4a642ec193249bae6575ce61601a
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-64eb4a642ec193249bae6575ce61601a
+    projectPath: Temp\UnityTempFile-64eb4a642ec193249bae6575ce61601a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-6a9a1d8d1889c4941b3be59fe2874820
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-6a9a1d8d1889c4941b3be59fe2874820
+    projectPath: Temp\UnityTempFile-6a9a1d8d1889c4941b3be59fe2874820
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-7767a173a004faa4d8026e3c98222071
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-7767a173a004faa4d8026e3c98222071
+    projectPath: Temp\UnityTempFile-7767a173a004faa4d8026e3c98222071
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-8099499181daaf44dbac8c50adc8dc5a
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-8099499181daaf44dbac8c50adc8dc5a
+    projectPath: Temp\UnityTempFile-8099499181daaf44dbac8c50adc8dc5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-81f1e47cd1c950e4cb29046c42aac322
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-81f1e47cd1c950e4cb29046c42aac322
+    projectPath: Temp\UnityTempFile-81f1e47cd1c950e4cb29046c42aac322
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-84d39b906affdd146bf40bae79aeff0c
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-84d39b906affdd146bf40bae79aeff0c
+    projectPath: Temp\UnityTempFile-84d39b906affdd146bf40bae79aeff0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-92b249a0852a1ca4094fd72898065662
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-92b249a0852a1ca4094fd72898065662
+    projectPath: Temp\UnityTempFile-92b249a0852a1ca4094fd72898065662
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-a84b94b3480d42c44928e989e37475e3
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-a84b94b3480d42c44928e989e37475e3
+    projectPath: Temp\UnityTempFile-a84b94b3480d42c44928e989e37475e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-a88f5038a9f5db24c8b4dd03ea9141c1
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-a88f5038a9f5db24c8b4dd03ea9141c1
+    projectPath: Temp\UnityTempFile-a88f5038a9f5db24c8b4dd03ea9141c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-e1f393fd0d5b68647942a149baf1f0f0
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-e1f393fd0d5b68647942a149baf1f0f0
+    projectPath: Temp\UnityTempFile-e1f393fd0d5b68647942a149baf1f0f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-e5e6064a5c7f55d4c8c35d5b04961d60
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-e5e6064a5c7f55d4c8c35d5b04961d60
+    projectPath: Temp\UnityTempFile-e5e6064a5c7f55d4c8c35d5b04961d60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-f644b84417b704349b2bbeec5c14e41e
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-f644b84417b704349b2bbeec5c14e41e
+    projectPath: Temp\UnityTempFile-f644b84417b704349b2bbeec5c14e41e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-fa73b767700c2c7479ab6f1b6ddf367f
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-fa73b767700c2c7479ab6f1b6ddf367f
+    projectPath: Temp\UnityTempFile-fa73b767700c2c7479ab6f1b6ddf367f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Unity_Project.sln
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Unity_Project.sln
+    projectPath: Unity_Project.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

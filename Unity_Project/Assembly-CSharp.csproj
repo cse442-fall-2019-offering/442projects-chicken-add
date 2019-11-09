@@ -70,6 +70,11 @@
     <Compile Include="Assets\Control.cs" />
     <Compile Include="Assets\DestroyLives.cs" />
     <Compile Include="Assets\DontDestroy.cs" />
+    <Compile Include="Assets\DragDrop.cs" />
+    <Compile Include="Assets\DragDrop2.cs" />
+    <Compile Include="Assets\DragDrop3.cs" />
+    <Compile Include="Assets\DragDrop4.cs" />
+    <Compile Include="Assets\DragDropWin.cs" />
     <Compile Include="Assets\Enemy.cs" />
     <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\Leaderboard.cs" />
