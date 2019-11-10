@@ -13,27 +13,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-09T20:32:56.639-05:00
-  initializedAtString: 2019-11-08T18:45:29.360-05:00
+  lastUpdatedAtString: 2019-11-10T17:38:07.903-05:00
+  initializedAtString: 2019-11-10T16:46:44.831-05:00
   entries:
+  - path: Unity_Project/.DS_Store
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Assets/.DS_Store
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Assets/Animation/Gun_idle.anim
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_idle.anim
+    projectPath: Assets/Animation/Gun_idle.anim
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Assets/Animation/Gun_idle.anim.meta
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_idle.anim.meta
+    projectPath: Assets/Animation/Gun_idle.anim.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Unity_Project/Assets/Animation/Idle_with_gun.anim
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Idle_with_gun.anim
     projectPath: Assets/Animation/Idle_with_gun.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Unity_Project/Assets/Animation/Idle_with_gun.anim.meta
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Idle_with_gun.anim.meta
     projectPath: Assets/Animation/Idle_with_gun.anim.meta
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity_Project/Assets/Animation/Sprite.controller
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Sprite.controller
+    projectPath: Assets/Animation/Sprite.controller
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/PlayerIdle.controller
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/PlayerIdle.controller
-    projectPath: Assets/Animation/PlayerIdle.controller
+  - path: Unity_Project/Assets/Animation/Sprite.controller.meta
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Sprite.controller.meta
+    projectPath: Assets/Animation/Sprite.controller.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Unity_Project/Assets/BayatGames/.DS_Store
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/BayatGames/.DS_Store
     projectPath: Assets/BayatGames/.DS_Store
@@ -81,12 +111,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Assets/Sprite.psb.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Sprite.psb.meta
-    projectPath: Assets/Sprite.psb.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project/Library/assetDatabase3
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/assetDatabase3
     projectPath: Library/assetDatabase3
@@ -105,21 +129,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/gfu/cache/branches.yaml
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/gfu/cache/gitlog.yaml
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/gitlog.yaml
-    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -141,33 +153,278 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/7b/7b1350804295c4b02a3b657fe3728918
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/7b/7b1350804295c4b02a3b657fe3728918
-    projectPath: Library/metadata/7b/7b1350804295c4b02a3b657fe3728918
+  - path: Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1
+    projectPath: Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/7b/7b1350804295c4b02a3b657fe3728918.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/7b/7b1350804295c4b02a3b657fe3728918.info
-    projectPath: Library/metadata/7b/7b1350804295c4b02a3b657fe3728918.info
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1.info
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1.info
+    projectPath: Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42
+    projectPath: Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42.info
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42.info
+    projectPath: Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f
     projectPath: Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f.info
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f.info
     projectPath: Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Dropdown Icon.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Gizmos/TMP - Dropdown Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Dropdown Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Font Asset Icon.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Gizmos/TMP - Font Asset Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Font Asset Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Input Field Icon.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Gizmos/TMP - Input Field Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Input Field Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Sprite Asset Icon.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Gizmos/TMP - Sprite Asset Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Sprite Asset Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Text Component Icon.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Gizmos/TMP - Text Component Icon.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
+      - Text Component Icon.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBaseLine.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignBaseLine.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBaseLine.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignBaseLine_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBottom.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignBottom.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBottom.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBottom_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignBottom_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignBottom_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCapLine.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignCapLine.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCapLine.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignCapLine_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenter.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignCenter.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenter.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenter_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignCenter_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenter_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenterGeo.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignCenterGeo.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenterGeo.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignCenterGeo_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignFlush.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignFlush.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignFlush.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignFlush_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignFlush_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignFlush_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignJustified.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignJustified_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignJustified_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignLeft.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignLeft.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignLeft.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignLeft_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignLeft_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignLeft_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMiddle.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignMiddle.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMiddle.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignMiddle_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMidLine.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignMidLine.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMidLine.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMidline_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignMidline_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignMidline_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignRight.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignRight.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignRight.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignRight_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignRight_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignRight_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignTop.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignTop.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignTop.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignTop_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/btn_AlignTop_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/btn_AlignTop_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/SectionHeader_Dark.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/SectionHeader_Dark.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/SectionHeader_Dark.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/SectionHeader_Light.psd
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
+      Resources/Textures/SectionHeader_Light.psd
+    projectPath: Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Textures/SectionHeader_Light.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project/Temp/__Backupscenes/0.backup
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
