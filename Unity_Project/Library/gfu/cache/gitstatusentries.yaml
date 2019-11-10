@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-10T17:53:05.966-05:00
+  lastUpdatedAtString: 2019-11-10T18:31:07.477-05:00
   initializedAtString: 2019-11-10T16:46:44.831-05:00
   entries:
-  - path: Unity_Project/Assets/Animation/Gun_jump.anim
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_jump.anim
-    projectPath: Assets/Animation/Gun_jump.anim
+  - path: Unity_Project/Assets/Animation/Gun_run.anim
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_run.anim
+    projectPath: Assets/Animation/Gun_run.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_jump.anim.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_jump.anim.meta
-    projectPath: Assets/Animation/Gun_jump.anim.meta
+  - path: Unity_Project/Assets/Animation/Gun_run.anim.meta
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_run.anim.meta
+    projectPath: Assets/Animation/Gun_run.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -123,15 +123,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f
-    projectPath: Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f
+  - path: Unity_Project/Library/metadata/6d/6de6bb4feec62467fa0110ee8dbf3a97
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/6d/6de6bb4feec62467fa0110ee8dbf3a97
+    projectPath: Library/metadata/6d/6de6bb4feec62467fa0110ee8dbf3a97
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f.info
-    projectPath: Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f.info
+  - path: Unity_Project/Library/metadata/6d/6de6bb4feec62467fa0110ee8dbf3a97.info
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/6d/6de6bb4feec62467fa0110ee8dbf3a97.info
+    projectPath: Library/metadata/6d/6de6bb4feec62467fa0110ee8dbf3a97.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
