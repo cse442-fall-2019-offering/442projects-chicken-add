@@ -13,57 +13,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-10T17:38:07.903-05:00
+  lastUpdatedAtString: 2019-11-10T17:53:05.966-05:00
   initializedAtString: 2019-11-10T16:46:44.831-05:00
   entries:
-  - path: Unity_Project/.DS_Store
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/.DS_Store
-    projectPath: .DS_Store
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Assets/.DS_Store
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/.DS_Store
-    projectPath: Assets/.DS_Store
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Assets/Animation/Gun_idle.anim
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_idle.anim
-    projectPath: Assets/Animation/Gun_idle.anim
+  - path: Unity_Project/Assets/Animation/Gun_jump.anim
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_jump.anim
+    projectPath: Assets/Animation/Gun_jump.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_idle.anim.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_idle.anim.meta
-    projectPath: Assets/Animation/Gun_idle.anim.meta
+  - path: Unity_Project/Assets/Animation/Gun_jump.anim.meta
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_jump.anim.meta
+    projectPath: Assets/Animation/Gun_jump.anim.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Idle_with_gun.anim
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Idle_with_gun.anim
-    projectPath: Assets/Animation/Idle_with_gun.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project/Assets/Animation/Idle_with_gun.anim.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Idle_with_gun.anim.meta
-    projectPath: Assets/Animation/Idle_with_gun.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Unity_Project/Assets/Animation/Sprite.controller
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Sprite.controller
     projectPath: Assets/Animation/Sprite.controller
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Sprite.controller.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Sprite.controller.meta
-    projectPath: Assets/Animation/Sprite.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project/Assets/BayatGames/.DS_Store
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/BayatGames/.DS_Store
     projectPath: Assets/BayatGames/.DS_Store
@@ -123,15 +93,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Library/CurrentMaximizeLayout.dwlt
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/CurrentMaximizeLayout.dwlt
-    projectPath: Library/CurrentMaximizeLayout.dwlt
+  - path: Unity_Project/Library/gfu/cache/branches.yaml
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Unity_Project/Library/gfu/cache/gitlocks.yaml
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/gitlocks.yaml
     projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -147,48 +123,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1
-    projectPath: Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1
+  - path: Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f
+    projectPath: Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1.info
-    projectPath: Library/metadata/3a/3a38bd6b3e18f4851879e06b37de19b1.info
+  - path: Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f.info
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f.info
+    projectPath: Library/metadata/9a/9a0e1f68a4bcf4c63a533137b937018f.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42
-    projectPath: Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42.info
-    projectPath: Library/metadata/a1/a15b37c65ff3942d5bffbeea3204ea42.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f
-    projectPath: Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f.info
-    projectPath: Library/metadata/ee/eeabf2e2df9fa44c49beaba1fefe709f.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
       - Dropdown Icon.psd
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
@@ -416,15 +362,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler0.log
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler0.log
-    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Temp/__Backupscenes/0.backup
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Temp/__Backupscenes/0.backup
-    projectPath: Temp/__Backupscenes/0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1

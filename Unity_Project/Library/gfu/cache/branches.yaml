@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-11-09T19:30:19.123-05:00
-  initializedAtString: 2019-11-09T15:09:01.346-05:00
+  lastUpdatedAtString: 2019-11-10T17:45:44.167-05:00
+  initializedAtString: 2019-11-10T17:43:44.031-05:00
   localBranches:
   - name: Background
     tracking: origin/Background
@@ -49,6 +49,8 @@ MonoBehaviour:
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/AI
+    tracking: '[None]'
   - name: origin/Background
     tracking: '[None]'
   - name: origin/Character_Animations
@@ -193,6 +195,7 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - AI
       - Background
       - Character_Animations
       - Character_Move
@@ -211,6 +214,11 @@ MonoBehaviour:
       - master
     subKeyValues:
     - Values:
+      - name: AI
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
       - name: Background
         remote:
           name: origin
