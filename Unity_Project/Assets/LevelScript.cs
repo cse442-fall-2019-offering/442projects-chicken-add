@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class LevelScript : MonoBehaviour
 {
-    public Text variableText;
+    public Text variableText = null;
     int levels;
 
     //gets the text component from the UI and the global level variable.
