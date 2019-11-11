@@ -66,6 +66,7 @@
     <Compile Include="Assets\2d_sci-fi_game_art\Techno Blue UI\Demo_Assets\scripts\GUI_Demo.cs" />
     <Compile Include="Assets\bullet.cs" />
     <Compile Include="Assets\bullet0.cs" />
+    <Compile Include="Assets\bullet1.cs" />
     <Compile Include="Assets\CameraScript.cs" />
     <Compile Include="Assets\Character_Controller.cs" />
     <Compile Include="Assets\ColorToPrefab.cs" />
@@ -89,6 +90,7 @@
     <Compile Include="Assets\Options.cs" />
     <Compile Include="Assets\Pause.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\playerbullet0.cs" />
     <Compile Include="Assets\ResetLives.cs" />
     <Compile Include="Assets\SceneOneManage.cs" />
     <Compile Include="Assets\ScreamSound.cs" />

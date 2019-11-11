@@ -224,8 +224,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 79339025392369754}
-  bulletPrefab: {fileID: 8257985584814532008, guid: 71819a3c96f7a4b82b10dd16264fb517,
-    type: 3}
+  bullet0: {fileID: 7345109387914119775, guid: a49d5bcaa5051443bbf6c1c716fc8db3, type: 3}
+  bullet1: {fileID: 8055834230390787005, guid: ede03e038a3cf46febfbb7cd9a391aa6, type: 3}
 --- !u!70 &4283887271938499241
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -326,7 +326,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5833279698732125565}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1, y: 0, z: 0}
+  m_LocalPosition: {x: 1.1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4213108552979410664}
