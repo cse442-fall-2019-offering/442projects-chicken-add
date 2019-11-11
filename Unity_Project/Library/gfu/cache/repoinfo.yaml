@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-11-08T11:19:55.319-05:00
-  initializedAtString: 2019-11-08T11:19:55.319-05:00
+  lastUpdatedAtString: 2019-11-10T15:18:14.344-05:00
+  initializedAtString: 2019-11-10T15:18:14.344-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git

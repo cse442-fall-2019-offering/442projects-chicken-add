@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-10-29T17:25:30.661-04:00
-  initializedAtString: 2019-10-29T17:25:30.582-04:00
+  lastUpdatedAtString: 2019-11-10T19:15:44.840-05:00
+  initializedAtString: 2019-11-10T19:15:44.687-05:00
   localBranches:
   - name: GameSceneBackground
     tracking: origin/GameSceneBackground
@@ -24,20 +24,28 @@ MonoBehaviour:
     tracking: origin/Level_Design
   - name: master
     tracking: origin/master
+  - name: Sprint3_Dev
+    tracking: origin/Sprint3_Dev
   - name: Sprint_2_Dev
     tracking: origin/Sprint_2_Dev
   remoteBranches:
+  - name: origin/AI
+    tracking: '[None]'
   - name: origin/Background
     tracking: '[None]'
   - name: origin/Character_Animations
     tracking: '[None]'
   - name: origin/Character_Move
     tracking: '[None]'
+  - name: origin/DragDropPuzzle
+    tracking: '[None]'
   - name: origin/Font
     tracking: '[None]'
   - name: origin/GameScene
     tracking: '[None]'
   - name: origin/GameSceneBackground
+    tracking: '[None]'
+  - name: origin/GunAnimations
     tracking: '[None]'
   - name: origin/Health
     tracking: '[None]'
@@ -69,6 +77,7 @@ MonoBehaviour:
     - Health
     - Level_Design
     - master
+    - Sprint3_Dev
     - Sprint_2_Dev
     values:
     - name: GameSceneBackground
@@ -91,6 +100,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
       trackingBranch: master
+    - name: Sprint3_Dev
+      remote:
+        name: origin
+        url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+      trackingBranch: Sprint3_Dev
     - name: Sprint_2_Dev
       remote:
         name: origin
@@ -101,12 +115,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - AI
       - Background
       - Character_Animations
       - Character_Move
+      - DragDropPuzzle
       - Font
       - GameScene
       - GameSceneBackground
+      - GunAnimations
       - Health
       - Leaderboard
       - Level_Design
@@ -117,6 +134,11 @@ MonoBehaviour:
       - Ui_Dev
     subKeyValues:
     - Values:
+      - name: AI
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
       - name: Background
         remote:
           name: origin
@@ -132,6 +154,11 @@ MonoBehaviour:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
+      - name: DragDropPuzzle
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
       - name: Font
         remote:
           name: origin
@@ -143,6 +170,11 @@ MonoBehaviour:
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
       - name: GameSceneBackground
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
+      - name: GunAnimations
         remote:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
