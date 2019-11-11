@@ -13,36 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-11T12:15:42.809-05:00
-  initializedAtString: 2019-11-11T12:15:42.809-05:00
+  lastUpdatedAtString: 2019-11-11T12:22:48.063-05:00
+  initializedAtString: 2019-11-11T12:22:48.063-05:00
   entries:
-  - path: Unity_Project\Library\assetDatabase3
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075
-    projectPath: Library\metadata\3d\3d602718419f1f44c91c05ef6512b075
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075.info
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075.info
-    projectPath: Library\metadata\3d\3d602718419f1f44c91c05ef6512b075.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
