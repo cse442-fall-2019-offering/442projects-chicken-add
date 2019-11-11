@@ -13,87 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-10T19:44:48.452-05:00
-  initializedAtString: 2019-11-10T19:23:09.551-05:00
+  lastUpdatedAtString: 2019-11-10T20:03:17.984-05:00
+  initializedAtString: 2019-11-10T19:54:16.241-05:00
   entries:
-  - path: Unity_Project\Assembly-CSharp.csproj
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Assets\Level_Design\Level01.png
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\Level01.png
-    projectPath: Assets\Level_Design\Level01.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Assets\Level_Design\Level01.png.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\Level01.png.meta
-    projectPath: Assets\Level_Design\Level01.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Assets\Level_Design\Level01_v2.png
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\Level01_v2.png
-    projectPath: Assets\Level_Design\Level01_v2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Assets\Level_Design\Level01_v2.png.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\Level01_v2.png.meta
-    projectPath: Assets\Level_Design\Level01_v2.png.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Assets\Level_Design\LevelMaps.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps.meta
-    projectPath: Assets\Level_Design\LevelMaps.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level01_v1.png
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level01_v1.png
-    projectPath: Assets\Level_Design\LevelMaps\Level01_v1.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level01_v1.png.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level01_v1.png.meta
-    projectPath: Assets\Level_Design\LevelMaps\Level01_v1.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level01_v2.png
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level01_v2.png
-    projectPath: Assets\Level_Design\LevelMaps\Level01_v2.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level01_v2.png.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level01_v2.png.meta
-    projectPath: Assets\Level_Design\LevelMaps\Level01_v2.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level01_v3.png
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level01_v3.png
-    projectPath: Assets\Level_Design\LevelMaps\Level01_v3.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Unity_Project\Assets\Level_Design\LevelMaps\Level01_v3.png.meta
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level01_v3.png.meta
     projectPath: Assets\Level_Design\LevelMaps\Level01_v3.png.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\assetDatabase3
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -130,51 +58,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca
-    projectPath: Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca.info
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca.info
-    projectPath: Library\metadata\0f\0f5ba9009400f7b4daf7d1ad39c206ca.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\2e\2e2bc92339328a6448716e3ad3445485
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\2e\2e2bc92339328a6448716e3ad3445485
-    projectPath: Library\metadata\2e\2e2bc92339328a6448716e3ad3445485
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\2e\2e2bc92339328a6448716e3ad3445485.info
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\2e\2e2bc92339328a6448716e3ad3445485.info
-    projectPath: Library\metadata\2e\2e2bc92339328a6448716e3ad3445485.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075
     projectPath: Library\metadata\3d\3d602718419f1f44c91c05ef6512b075
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075.info
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\3d\3d602718419f1f44c91c05ef6512b075.info
     projectPath: Library\metadata\3d\3d602718419f1f44c91c05ef6512b075.info
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\fe\fede8b7da22120f48879271919d58b3e
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\fe\fede8b7da22120f48879271919d58b3e
-    projectPath: Library\metadata\fe\fede8b7da22120f48879271919d58b3e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project\Unity_Project.sln
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Unity_Project.sln
-    projectPath: Unity_Project.sln
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
