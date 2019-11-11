@@ -146,6 +146,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   timeLeft: 4
+  deathEffect: {fileID: 6357363409296203263, guid: 50ff7f1793c5648e39913eb912bbf343,
+    type: 3}
 --- !u!114 &6863497578636773645
 MonoBehaviour:
   m_ObjectHideFlags: 0

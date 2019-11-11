@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-10T22:07:03.611-05:00
-  initializedAtString: 2019-11-10T20:45:39.344-05:00
+  lastUpdatedAtString: 2019-11-11T02:22:40.881-05:00
+  initializedAtString: 2019-11-10T22:24:14.335-05:00
   entries:
   - path: Unity_Project/Assembly-CSharp.csproj
     fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assembly-CSharp.csproj
@@ -22,102 +22,36 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Assets/bullet.cs
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/bullet.cs
-    projectPath: Assets/bullet.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Assets/bullet0.cs
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/bullet0.cs
-    projectPath: Assets/bullet0.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Assets/bullet1.cs
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/bullet1.cs
-    projectPath: Assets/bullet1.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project/Assets/bullet1.cs.meta
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/bullet1.cs.meta
-    projectPath: Assets/bullet1.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Unity_Project/Assets/Enemy.cs
     fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Enemy.cs
     projectPath: Assets/Enemy.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Assets/EnemyWeapon.cs
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/EnemyWeapon.cs
-    projectPath: Assets/EnemyWeapon.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Assets/Level_Design/bullet0.prefab
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/bullet0.prefab
-    projectPath: Assets/Level_Design/bullet0.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Assets/Level_Design/bullet1.prefab
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/bullet1.prefab
-    projectPath: Assets/Level_Design/bullet1.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project/Assets/Level_Design/bullet1.prefab.meta
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/bullet1.prefab.meta
-    projectPath: Assets/Level_Design/bullet1.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Unity_Project/Assets/Level_Design/comp.prefab
     fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/comp.prefab
     projectPath: Assets/Level_Design/comp.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Assets/Level_Design/playerbullet0.prefab
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/playerbullet0.prefab
-    projectPath: Assets/Level_Design/playerbullet0.prefab
+  - path: Unity_Project/Assets/Level_Design/DeathEffect.prefab
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/DeathEffect.prefab
+    projectPath: Assets/Level_Design/DeathEffect.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Assets/Level_Design/DeathEffect.prefab.meta
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/DeathEffect.prefab.meta
+    projectPath: Assets/Level_Design/DeathEffect.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Assets/Scenes/StartMenu.unity
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Scenes/StartMenu.unity
+    projectPath: Assets/Scenes/StartMenu.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Assets/Level_Design/playerbullet1.prefab
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/playerbullet1.prefab
-    projectPath: Assets/Level_Design/playerbullet1.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Level_Design/playerbullet1.prefab.meta
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/Level_Design/playerbullet1.prefab.meta
-    projectPath: Assets/Level_Design/playerbullet1.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/playerbullet0.cs
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/playerbullet0.cs
-    projectPath: Assets/playerbullet0.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Assets/playerbullet1.cs
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/playerbullet1.cs
-    projectPath: Assets/playerbullet1.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/playerbullet1.cs.meta
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Assets/playerbullet1.cs.meta
-    projectPath: Assets/playerbullet1.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Unity_Project/Library/assetDatabase3
     fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/assetDatabase3
     projectPath: Library/assetDatabase3
@@ -160,51 +94,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/05/05545c26265974706ab59bfeecd3569e
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/05/05545c26265974706ab59bfeecd3569e
-    projectPath: Library/metadata/05/05545c26265974706ab59bfeecd3569e
+  - path: Unity_Project/Library/metadata/50/50ff7f1793c5648e39913eb912bbf343
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/50/50ff7f1793c5648e39913eb912bbf343
+    projectPath: Library/metadata/50/50ff7f1793c5648e39913eb912bbf343
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/05/05545c26265974706ab59bfeecd3569e.info
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/05/05545c26265974706ab59bfeecd3569e.info
-    projectPath: Library/metadata/05/05545c26265974706ab59bfeecd3569e.info
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/50/50ff7f1793c5648e39913eb912bbf343.info
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/50/50ff7f1793c5648e39913eb912bbf343.info
+    projectPath: Library/metadata/50/50ff7f1793c5648e39913eb912bbf343.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/07/0740c19e52f95044cb5dce5de67dd324
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/07/0740c19e52f95044cb5dce5de67dd324
-    projectPath: Library/metadata/07/0740c19e52f95044cb5dce5de67dd324
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/46/461241daef86f41578cb172db451c96e
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/46/461241daef86f41578cb172db451c96e
-    projectPath: Library/metadata/46/461241daef86f41578cb172db451c96e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/5d/5d86a440e2d59428c888fa701f437965
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/5d/5d86a440e2d59428c888fa701f437965
-    projectPath: Library/metadata/5d/5d86a440e2d59428c888fa701f437965
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/a4/a49d5bcaa5051443bbf6c1c716fc8db3
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/a4/a49d5bcaa5051443bbf6c1c716fc8db3
-    projectPath: Library/metadata/a4/a49d5bcaa5051443bbf6c1c716fc8db3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/a4/a49d5bcaa5051443bbf6c1c716fc8db3.info
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/a4/a49d5bcaa5051443bbf6c1c716fc8db3.info
-    projectPath: Library/metadata/a4/a49d5bcaa5051443bbf6c1c716fc8db3.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/af/af9e799d5f5734aa58d1e70a981ee2c3
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/af/af9e799d5f5734aa58d1e70a981ee2c3
-    projectPath: Library/metadata/af/af9e799d5f5734aa58d1e70a981ee2c3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/metadata/8d/8d482a592af676646b5e175ae43a85eb.info
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/8d/8d482a592af676646b5e175ae43a85eb.info
+    projectPath: Library/metadata/8d/8d482a592af676646b5e175ae43a85eb.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -226,30 +130,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/ed/ede03e038a3cf46febfbb7cd9a391aa6
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/ed/ede03e038a3cf46febfbb7cd9a391aa6
-    projectPath: Library/metadata/ed/ede03e038a3cf46febfbb7cd9a391aa6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/ed/ede03e038a3cf46febfbb7cd9a391aa6.info
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/ed/ede03e038a3cf46febfbb7cd9a391aa6.info
-    projectPath: Library/metadata/ed/ede03e038a3cf46febfbb7cd9a391aa6.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/f6/f64c6513e54bb414d99dc1e421a7527d
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/f6/f64c6513e54bb414d99dc1e421a7527d
-    projectPath: Library/metadata/f6/f64c6513e54bb414d99dc1e421a7527d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/f6/f64c6513e54bb414d99dc1e421a7527d.info
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/metadata/f6/f64c6513e54bb414d99dc1e421a7527d.info
-    projectPath: Library/metadata/f6/f64c6513e54bb414d99dc1e421a7527d.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project/Library/SceneVisibilityState.asset
     fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
@@ -268,21 +148,111 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity_Project/Library/ShaderCache/0/09913413bfcb4759c12c9651afb353ee.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/0/09913413bfcb4759c12c9651afb353ee.bin
+    projectPath: Library/ShaderCache/0/09913413bfcb4759c12c9651afb353ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/2/23bc9cf392fc95ec7382c5f2e67b4553.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/2/23bc9cf392fc95ec7382c5f2e67b4553.bin
+    projectPath: Library/ShaderCache/2/23bc9cf392fc95ec7382c5f2e67b4553.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/3/39333c210bae64631409f6ae38667d67.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/3/39333c210bae64631409f6ae38667d67.bin
+    projectPath: Library/ShaderCache/3/39333c210bae64631409f6ae38667d67.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/4/488f47f965a5d5b54db524c7eadd271c.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/4/488f47f965a5d5b54db524c7eadd271c.bin
+    projectPath: Library/ShaderCache/4/488f47f965a5d5b54db524c7eadd271c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/8/8dd3ca0839c29768bea7009c63ac9adf.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/8/8dd3ca0839c29768bea7009c63ac9adf.bin
+    projectPath: Library/ShaderCache/8/8dd3ca0839c29768bea7009c63ac9adf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/a/a74729f7fff04ad072e800d7c9aa9969.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/a/a74729f7fff04ad072e800d7c9aa9969.bin
+    projectPath: Library/ShaderCache/a/a74729f7fff04ad072e800d7c9aa9969.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/b/b30b0a7aeed6fdec57cf15eac7ca40c9.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/b/b30b0a7aeed6fdec57cf15eac7ca40c9.bin
+    projectPath: Library/ShaderCache/b/b30b0a7aeed6fdec57cf15eac7ca40c9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/e/e48a835f107f069a852fd091c0adc444.bin
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/e/e48a835f107f069a852fd091c0adc444.bin
+    projectPath: Library/ShaderCache/e/e48a835f107f069a852fd091c0adc444.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler4.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler4.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler5.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler5.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/shadercompiler-UnityShaderCompiler6.log
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Library/shadercompiler-UnityShaderCompiler6.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/ProjectSettings/TagManager.asset
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/ProjectSettings/TagManager.asset
-    projectPath: ProjectSettings/TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -292,195 +262,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-049c7e05d713f44faa68d74cba799a9b
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-049c7e05d713f44faa68d74cba799a9b
-    projectPath: Temp/UnityTempFile-049c7e05d713f44faa68d74cba799a9b
+  - path: Unity_Project/Temp/UnityTempFile-1b8860d9ddf8b4d48ab83500f6d23487
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-1b8860d9ddf8b4d48ab83500f6d23487
+    projectPath: Temp/UnityTempFile-1b8860d9ddf8b4d48ab83500f6d23487
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-0e5ea5a7214b84f549b2f029ad03847d
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-0e5ea5a7214b84f549b2f029ad03847d
-    projectPath: Temp/UnityTempFile-0e5ea5a7214b84f549b2f029ad03847d
+  - path: Unity_Project/Temp/UnityTempFile-2d314cd0f2609440189ec439c9c00c97
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-2d314cd0f2609440189ec439c9c00c97
+    projectPath: Temp/UnityTempFile-2d314cd0f2609440189ec439c9c00c97
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-2219951578f854ba58460350105d588e
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-2219951578f854ba58460350105d588e
-    projectPath: Temp/UnityTempFile-2219951578f854ba58460350105d588e
+  - path: Unity_Project/Temp/UnityTempFile-391d9cf2022954be2b30fa36de01b46b
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-391d9cf2022954be2b30fa36de01b46b
+    projectPath: Temp/UnityTempFile-391d9cf2022954be2b30fa36de01b46b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-2d754a5ebbce54a4a8dff34ff74f0428
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-2d754a5ebbce54a4a8dff34ff74f0428
-    projectPath: Temp/UnityTempFile-2d754a5ebbce54a4a8dff34ff74f0428
+  - path: Unity_Project/Temp/UnityTempFile-40931d6381acc4088864aacebfec9502
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-40931d6381acc4088864aacebfec9502
+    projectPath: Temp/UnityTempFile-40931d6381acc4088864aacebfec9502
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-417c5b518130a483bb25c7be20d291e4
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-417c5b518130a483bb25c7be20d291e4
-    projectPath: Temp/UnityTempFile-417c5b518130a483bb25c7be20d291e4
+  - path: Unity_Project/Temp/UnityTempFile-661c548995c9b4a33b014d2be7f29f03
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-661c548995c9b4a33b014d2be7f29f03
+    projectPath: Temp/UnityTempFile-661c548995c9b4a33b014d2be7f29f03
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-43f057086a20a4fee8269e59cf8afd8e
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-43f057086a20a4fee8269e59cf8afd8e
-    projectPath: Temp/UnityTempFile-43f057086a20a4fee8269e59cf8afd8e
+  - path: Unity_Project/Temp/UnityTempFile-7ef5a0279701749d5a81133c51f619c1
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-7ef5a0279701749d5a81133c51f619c1
+    projectPath: Temp/UnityTempFile-7ef5a0279701749d5a81133c51f619c1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-49198fd9e8d6d4a86842a448c65f5f93
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-49198fd9e8d6d4a86842a448c65f5f93
-    projectPath: Temp/UnityTempFile-49198fd9e8d6d4a86842a448c65f5f93
+  - path: Unity_Project/Temp/UnityTempFile-8869d6a2c17ec4081a35d9ba9747cdae
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-8869d6a2c17ec4081a35d9ba9747cdae
+    projectPath: Temp/UnityTempFile-8869d6a2c17ec4081a35d9ba9747cdae
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-5ef53f667f6634740aa19f44d95962ae
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-5ef53f667f6634740aa19f44d95962ae
-    projectPath: Temp/UnityTempFile-5ef53f667f6634740aa19f44d95962ae
+  - path: Unity_Project/Temp/UnityTempFile-8f94271342c5e42818ecdad030280d2c
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-8f94271342c5e42818ecdad030280d2c
+    projectPath: Temp/UnityTempFile-8f94271342c5e42818ecdad030280d2c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-60305990873c9478191e881f71a7e5da
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-60305990873c9478191e881f71a7e5da
-    projectPath: Temp/UnityTempFile-60305990873c9478191e881f71a7e5da
+  - path: Unity_Project/Temp/UnityTempFile-8fe45f2f729d64bc4836213cd23a69f6
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-8fe45f2f729d64bc4836213cd23a69f6
+    projectPath: Temp/UnityTempFile-8fe45f2f729d64bc4836213cd23a69f6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-67366a7f3a75f4b4288e982e80f56bc0
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-67366a7f3a75f4b4288e982e80f56bc0
-    projectPath: Temp/UnityTempFile-67366a7f3a75f4b4288e982e80f56bc0
+  - path: Unity_Project/Temp/UnityTempFile-a1415c27ad03149edb4d32b6f0571da3
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-a1415c27ad03149edb4d32b6f0571da3
+    projectPath: Temp/UnityTempFile-a1415c27ad03149edb4d32b6f0571da3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-6d20f1345ed47495283eaf08f41f848a
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-6d20f1345ed47495283eaf08f41f848a
-    projectPath: Temp/UnityTempFile-6d20f1345ed47495283eaf08f41f848a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-6f6876a7ca84a44c8a839b56d7021d9a
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-6f6876a7ca84a44c8a839b56d7021d9a
-    projectPath: Temp/UnityTempFile-6f6876a7ca84a44c8a839b56d7021d9a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-703845da382224f129fae9e2fe4a6771
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-703845da382224f129fae9e2fe4a6771
-    projectPath: Temp/UnityTempFile-703845da382224f129fae9e2fe4a6771
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-7b69e74f2a6b7425da28c4802c2c82ec
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-7b69e74f2a6b7425da28c4802c2c82ec
-    projectPath: Temp/UnityTempFile-7b69e74f2a6b7425da28c4802c2c82ec
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-92ec65b59ee804cae8bbbf16a0864651
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-92ec65b59ee804cae8bbbf16a0864651
-    projectPath: Temp/UnityTempFile-92ec65b59ee804cae8bbbf16a0864651
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-968c0b3b95f7a4974a4d9875a9e0f832
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-968c0b3b95f7a4974a4d9875a9e0f832
-    projectPath: Temp/UnityTempFile-968c0b3b95f7a4974a4d9875a9e0f832
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-973a827e67fe3400d9f2020888b6b0f9
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-973a827e67fe3400d9f2020888b6b0f9
-    projectPath: Temp/UnityTempFile-973a827e67fe3400d9f2020888b6b0f9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-983b2d56e4d2e4251982efc1f84c10cf
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-983b2d56e4d2e4251982efc1f84c10cf
-    projectPath: Temp/UnityTempFile-983b2d56e4d2e4251982efc1f84c10cf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-99aa26780b36b4e018dfe51406eac8a7
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-99aa26780b36b4e018dfe51406eac8a7
-    projectPath: Temp/UnityTempFile-99aa26780b36b4e018dfe51406eac8a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-9d9a377d0a31e471e87f0d7076097472
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-9d9a377d0a31e471e87f0d7076097472
-    projectPath: Temp/UnityTempFile-9d9a377d0a31e471e87f0d7076097472
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-b4f9f02690c7f4e3bb91408f225495be
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-b4f9f02690c7f4e3bb91408f225495be
-    projectPath: Temp/UnityTempFile-b4f9f02690c7f4e3bb91408f225495be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-bd9523c861588454a9db38e55ff7cf66
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-bd9523c861588454a9db38e55ff7cf66
-    projectPath: Temp/UnityTempFile-bd9523c861588454a9db38e55ff7cf66
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-c7ee9f98abc5d462c8b2356589d726d9
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-c7ee9f98abc5d462c8b2356589d726d9
-    projectPath: Temp/UnityTempFile-c7ee9f98abc5d462c8b2356589d726d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-cc2c9ffa596294c31a13b4c266f4c579
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-cc2c9ffa596294c31a13b4c266f4c579
-    projectPath: Temp/UnityTempFile-cc2c9ffa596294c31a13b4c266f4c579
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-d0f4c1d67df0d431e98c63ce461de04a
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-d0f4c1d67df0d431e98c63ce461de04a
-    projectPath: Temp/UnityTempFile-d0f4c1d67df0d431e98c63ce461de04a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-d974123c6e162434daee7eb64bea1f82
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-d974123c6e162434daee7eb64bea1f82
-    projectPath: Temp/UnityTempFile-d974123c6e162434daee7eb64bea1f82
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-db1b72c24a16449ec89ad6899b563924
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-db1b72c24a16449ec89ad6899b563924
-    projectPath: Temp/UnityTempFile-db1b72c24a16449ec89ad6899b563924
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-db9a29b0a9abb4e4688a79cd1ee6553c
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-db9a29b0a9abb4e4688a79cd1ee6553c
-    projectPath: Temp/UnityTempFile-db9a29b0a9abb4e4688a79cd1ee6553c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-e6c14b32a5b7545e6afcc7f9051f207e
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-e6c14b32a5b7545e6afcc7f9051f207e
-    projectPath: Temp/UnityTempFile-e6c14b32a5b7545e6afcc7f9051f207e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-f3e7a8d42870f4e59a30aded78336862
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-f3e7a8d42870f4e59a30aded78336862
-    projectPath: Temp/UnityTempFile-f3e7a8d42870f4e59a30aded78336862
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-f727b8d67b59c4de4a1f857d56933c30
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-f727b8d67b59c4de4a1f857d56933c30
-    projectPath: Temp/UnityTempFile-f727b8d67b59c4de4a1f857d56933c30
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Temp/UnityTempFile-f7479dc4d28d34021bc2f557d56626fe
-    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-f7479dc4d28d34021bc2f557d56626fe
-    projectPath: Temp/UnityTempFile-f7479dc4d28d34021bc2f557d56626fe
+  - path: Unity_Project/Temp/UnityTempFile-b9b2656a558fd4c6aa29ec0c405bc585
+    fullPath: /Users/mike/Documents/442projects-chicken-add/442projects-chicken-add/Unity_Project/Temp/UnityTempFile-b9b2656a558fd4c6aa29ec0c405bc585
+    projectPath: Temp/UnityTempFile-b9b2656a558fd4c6aa29ec0c405bc585
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
