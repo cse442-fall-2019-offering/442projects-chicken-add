@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public int health = 100;
     public float timeLeft = 4.0f;
+    public GameObject deathEffect;
     Vector2 v = Vector2.right;
     
     void Update()
@@ -22,6 +23,7 @@ public class Enemy : MonoBehaviour
 
     public void takeDamage(int damage)
     {
+
         health -= damage;
 
         if (health <= 0)
@@ -33,6 +35,8 @@ public class Enemy : MonoBehaviour
     public void Die()
     {
         Destroy(gameObject);
+        Destroy(Instantiate(deathEffect, new Vector3(gameObject.transform.position.x,
+            gameObject.transform.position.y, -5), Quaternion.identity), 2);
     }
 
 }

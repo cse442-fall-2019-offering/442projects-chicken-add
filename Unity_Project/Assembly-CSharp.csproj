@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\2d_sci-fi_game_art\Techno Blue UI\Demo_Assets\scripts\GUI_Demo.cs" />
+    <Compile Include="Assets\BirthdaySound.cs" />
     <Compile Include="Assets\bullet.cs" />
     <Compile Include="Assets\bullet0.cs" />
     <Compile Include="Assets\CameraScript.cs" />
