@@ -10,12 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 3466766236494520227}
   - component: {fileID: 2373438240944259890}
-  - component: {fileID: 9112255224786477553}
   - component: {fileID: 7290084764054874129}
   - component: {fileID: -3663028721114966176}
+  - component: {fileID: -4210273365962177197}
   m_Layer: 0
   m_Name: playerbullet0
-  m_TagString: Untagged
+  m_TagString: PlayerBullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,8 +28,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7345109387914119775}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 838.8746, y: 439.6329, z: -981.5785}
-  m_LocalScale: {x: 0.664433, y: 0.6813939, z: 1}
+  m_LocalPosition: {x: 838.8391, y: 439.5385, z: -981.5785}
+  m_LocalScale: {x: 0.58742523, y: 0.5424577, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -83,22 +83,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!58 &9112255224786477553
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7345109387914119775}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 0.67999995
 --- !u!50 &7290084764054874129
 Rigidbody2D:
   serializedVersion: 4
@@ -134,3 +118,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 20
   rb: {fileID: 7290084764054874129}
+--- !u!70 &-4210273365962177197
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7345109387914119775}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.92003757, y: 1.36}
+  m_Direction: 0

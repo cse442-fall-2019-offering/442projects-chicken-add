@@ -36,7 +36,7 @@ public class EnemyWeapon : MonoBehaviour
         Instantiate(bulletPrefab, firepoint.position, firepoint.rotation);
     }
 
-    float findDistance(GameObject go1, GameObject go2)
+    public float findDistance(GameObject go1, GameObject go2)
     {
         if(go1 == null || go2 == null)
         {

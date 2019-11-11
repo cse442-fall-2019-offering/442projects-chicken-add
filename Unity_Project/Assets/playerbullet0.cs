@@ -14,12 +14,31 @@ public class playerbullet0 : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        float dist = findDistance(gameObject, GameObject.FindGameObjectWithTag("Player"));
         Enemy enemy = collision.GetComponent<Enemy>();
-        if (enemy != null)
+        bullet0 b = collision.GetComponent<bullet0>();
+        if (b != null)
         {
-            enemy.takeDamage(25);
+            return;
+        }
+        if (enemy != null && dist < 20)
+        {
+            enemy.takeDamage(10);
         }
         Destroy(gameObject);
+    }
+
+    public float findDistance(GameObject go1, GameObject go2)
+    {
+        if (go1 == null || go2 == null)
+        {
+            return -1;
+        }
+        else
+        {
+            return Vector2.Distance(go1.transform.position, go2.transform.position);
+        }
+
     }
 
 }
