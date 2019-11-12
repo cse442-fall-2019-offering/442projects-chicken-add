@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-11-10T18:00:48.711-05:00
-  initializedAtString: 2019-11-10T17:43:44.031-05:00
+  lastUpdatedAtString: 2019-11-11T19:37:13.350-05:00
+  initializedAtString: 2019-11-11T19:37:13.340-05:00
   localBranches:
   - name: Background
     tracking: origin/Background
@@ -70,6 +70,8 @@ MonoBehaviour:
   - name: origin/Health
     tracking: '[None]'
   - name: origin/Leaderboard
+    tracking: '[None]'
+  - name: origin/Level01
     tracking: '[None]'
   - name: origin/Level_Design
     tracking: '[None]'
@@ -206,6 +208,7 @@ MonoBehaviour:
       - GunAnimations
       - Health
       - Leaderboard
+      - Level01
       - Level_Design
       - Shooting
       - Sprint3_Dev
@@ -265,6 +268,11 @@ MonoBehaviour:
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
         trackingBranch: 
       - name: Leaderboard
+        remote:
+          name: origin
+          url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
+        trackingBranch: 
+      - name: Level01
         remote:
           name: origin
           url: https://github.com/cse442-fall-2019-offering/442projects-chicken-add.git
