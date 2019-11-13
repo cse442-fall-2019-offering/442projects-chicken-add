@@ -49,7 +49,7 @@ public class Player : MonoBehaviour
         Debug.Log("Shot");
         //GameMaster.KillPlayer(this);
         }
-        if (collision.collider.tag == "Finish")
+    if (collision.collider.tag == "Finish")
         {
             Debug.Log("You Win!");
             SceneManager.LoadScene("EndGame");
