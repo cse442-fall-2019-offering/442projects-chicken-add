@@ -13,90 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-12T16:39:10.054-05:00
-  initializedAtString: 2019-11-12T16:39:10.054-05:00
+  lastUpdatedAtString: 2019-11-13T02:04:33.637-05:00
+  initializedAtString: 2019-11-13T01:03:46.631-05:00
   entries:
-  - path: Unity_Project/Assets/.DS_Store
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/.DS_Store
-    projectPath: Assets/.DS_Store
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project/Assets/Animation/.DS_Store
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/.DS_Store
     projectPath: Assets/Animation/.DS_Store
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Final_gun_run.anim
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Final_gun_run.anim
-    projectPath: Assets/Animation/Final_gun_run.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project/Assets/Animation/Gun_crouch_final.anim
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_crouch_final.anim
     projectPath: Assets/Animation/Gun_crouch_final.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_crouch_final.anim.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_crouch_final.anim.meta
-    projectPath: Assets/Animation/Gun_crouch_final.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project/Assets/Animation/Gun_idle_final.anim
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_idle_final.anim
     projectPath: Assets/Animation/Gun_idle_final.anim
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_idle_final.anim.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_idle_final.anim.meta
-    projectPath: Assets/Animation/Gun_idle_final.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_jump_final.anim
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_jump_final.anim
-    projectPath: Assets/Animation/Gun_jump_final.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_jump_final.anim.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_jump_final.anim.meta
-    projectPath: Assets/Animation/Gun_jump_final.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_run_final.anim
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_run_final.anim
-    projectPath: Assets/Animation/Gun_run_final.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/Gun_run_final.anim.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/Gun_run_final.anim.meta
-    projectPath: Assets/Animation/Gun_run_final.anim.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project/Assets/Animation/PlayerGun.controller
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/PlayerGun.controller
     projectPath: Assets/Animation/PlayerGun.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/PlayerGun.controller.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/PlayerGun.controller.meta
-    projectPath: Assets/Animation/PlayerGun.controller.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Animation/PlayerIdle.controller
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Animation/PlayerIdle.controller
-    projectPath: Assets/Animation/PlayerIdle.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -141,27 +81,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project/Assets/Level_Design/PlayerGun.prefab
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Level_Design/PlayerGun.prefab
-    projectPath: Assets/Level_Design/PlayerGun.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Level_Design/PlayerGun.prefab.meta
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Level_Design/PlayerGun.prefab.meta
-    projectPath: Assets/Level_Design/PlayerGun.prefab.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Assets/Level_Design/PlayerIdle.prefab
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Level_Design/PlayerIdle.prefab
-    projectPath: Assets/Level_Design/PlayerIdle.prefab
+  - path: Unity_Project/Assets/Level_Design/PlayerEmpty.prefab
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Level_Design/PlayerEmpty.prefab
+    projectPath: Assets/Level_Design/PlayerEmpty.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Assets/Scenes/World.unity
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Scenes/World.unity
-    projectPath: Assets/Scenes/World.unity
+  - path: Unity_Project/Assets/Level_Design/PlayerGun.prefab
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Assets/Level_Design/PlayerGun.prefab
+    projectPath: Assets/Level_Design/PlayerGun.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -171,15 +99,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/CurrentLayout-default.dwlt
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/CurrentLayout-default.dwlt
-    projectPath: Library/CurrentLayout-default.dwlt
+  - path: Unity_Project/Library/CrashedAssetImports.txt
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/CrashedAssetImports.txt
+    projectPath: Library/CrashedAssetImports.txt
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/gfu/cache/branches.yaml
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/gfu/cache/branches.yaml
-    projectPath: Library/gfu/cache/branches.yaml
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project/Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -207,66 +135,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/InspectorExpandedItems.asset
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Unity_Project/Library/LastSceneManagerSetup.txt
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/LastSceneManagerSetup.txt
-    projectPath: Library/LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Unity_Project/Library/metadata/10/10b5d31d1181247a89d51c9e37e5c746
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/10/10b5d31d1181247a89d51c9e37e5c746
     projectPath: Library/metadata/10/10b5d31d1181247a89d51c9e37e5c746
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project/Library/metadata/10/10b5d31d1181247a89d51c9e37e5c746.info
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/10/10b5d31d1181247a89d51c9e37e5c746.info
     projectPath: Library/metadata/10/10b5d31d1181247a89d51c9e37e5c746.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/1b/1b112a53efd7c4e5286c3ee7806146ba
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/1b/1b112a53efd7c4e5286c3ee7806146ba
-    projectPath: Library/metadata/1b/1b112a53efd7c4e5286c3ee7806146ba
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project/Library/metadata/8d/8d482a592af676646b5e175ae43a85eb
+    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/8d/8d482a592af676646b5e175ae43a85eb
+    projectPath: Library/metadata/8d/8d482a592af676646b5e175ae43a85eb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/1b/1b112a53efd7c4e5286c3ee7806146ba.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/1b/1b112a53efd7c4e5286c3ee7806146ba.info
-    projectPath: Library/metadata/1b/1b112a53efd7c4e5286c3ee7806146ba.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/21/21d3d9ab42c814cf4b1375a794ae7edc
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/21/21d3d9ab42c814cf4b1375a794ae7edc
-    projectPath: Library/metadata/21/21d3d9ab42c814cf4b1375a794ae7edc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/21/21d3d9ab42c814cf4b1375a794ae7edc.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/21/21d3d9ab42c814cf4b1375a794ae7edc.info
-    projectPath: Library/metadata/21/21d3d9ab42c814cf4b1375a794ae7edc.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/52/523c09b6469f6494db474afdf827f779
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/52/523c09b6469f6494db474afdf827f779
-    projectPath: Library/metadata/52/523c09b6469f6494db474afdf827f779
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/52/523c09b6469f6494db474afdf827f779.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/52/523c09b6469f6494db474afdf827f779.info
-    projectPath: Library/metadata/52/523c09b6469f6494db474afdf827f779.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project/Library/metadata/9e/9e22747a1964b4ca78747e27ca97e044
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/9e/9e22747a1964b4ca78747e27ca97e044
     projectPath: Library/metadata/9e/9e22747a1964b4ca78747e27ca97e044
@@ -279,30 +165,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project/Library/metadata/d6/d620da6bad5ef45759f5060359a8d7e7
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/d6/d620da6bad5ef45759f5060359a8d7e7
-    projectPath: Library/metadata/d6/d620da6bad5ef45759f5060359a8d7e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/d6/d620da6bad5ef45759f5060359a8d7e7.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/d6/d620da6bad5ef45759f5060359a8d7e7.info
-    projectPath: Library/metadata/d6/d620da6bad5ef45759f5060359a8d7e7.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/e5/e526b9b3c4b264b8e9f94c27980c4629
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/e5/e526b9b3c4b264b8e9f94c27980c4629
-    projectPath: Library/metadata/e5/e526b9b3c4b264b8e9f94c27980c4629
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project/Library/metadata/e5/e526b9b3c4b264b8e9f94c27980c4629.info
-    fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/metadata/e5/e526b9b3c4b264b8e9f94c27980c4629.info
-    projectPath: Library/metadata/e5/e526b9b3c4b264b8e9f94c27980c4629.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor Resources/Gizmos/TMP
       - Dropdown Icon.psd
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Library/PackageCache/com.unity.textmeshpro@2.0.1/Editor
@@ -540,5 +402,5 @@ MonoBehaviour:
     fullPath: /Users/ZachTenenbaum/git/442projects-chicken-add/Unity_Project/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
