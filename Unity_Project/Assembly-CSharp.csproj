@@ -47,9 +47,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\2019.2.5f1\Editor\Data\Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -60,6 +57,7 @@
   <ItemGroup>
      <Compile Include="Assets\2d_sci-fi_game_art\Techno Blue UI\Demo_Assets\scripts\GUI_Demo.cs" />
      <Compile Include="Assets\bullet.cs" />
+     <Compile Include="Assets\bullet0.cs" />
      <Compile Include="Assets\CameraScript.cs" />
      <Compile Include="Assets\Character_Controller.cs" />
      <Compile Include="Assets\ColorToPrefab.cs" />
@@ -72,6 +70,7 @@
      <Compile Include="Assets\DragDrop4.cs" />
      <Compile Include="Assets\DragDropWin.cs" />
      <Compile Include="Assets\Enemy.cs" />
+     <Compile Include="Assets\EnemyWeapon.cs" />
      <Compile Include="Assets\GameMaster.cs" />
      <Compile Include="Assets\Leaderboard.cs" />
      <Compile Include="Assets\LevelGen.cs" />
@@ -82,6 +81,8 @@
      <Compile Include="Assets\Options.cs" />
      <Compile Include="Assets\Pause.cs" />
      <Compile Include="Assets\Player.cs" />
+     <Compile Include="Assets\playerbullet0.cs" />
+     <Compile Include="Assets\playerbullet1.cs" />
      <Compile Include="Assets\ResetLives.cs" />
      <Compile Include="Assets\SceneOneManage.cs" />
      <Compile Include="Assets\ScreamSound.cs" />
