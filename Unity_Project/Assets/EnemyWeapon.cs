@@ -18,7 +18,7 @@ public class EnemyWeapon : MonoBehaviour
         if(GameObject.FindGameObjectWithTag("Enemy") != null && GameObject.FindGameObjectWithTag("Player") != null)
         {
             float dist = findDistance(GameObject.FindGameObjectWithTag("Enemy"), GameObject.FindGameObjectWithTag("Player"));
-            Debug.Log(dist);
+           // Debug.Log(dist);
             timeLeft -= Time.deltaTime;
 
             if (timeLeft < 0 && dist < 18.0f)

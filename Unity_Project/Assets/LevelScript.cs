@@ -10,14 +10,14 @@ public class LevelScript : MonoBehaviour
     //gets the text component from the UI and the global level variable.
     void Start()
     {
-        variableText = GetComponent<Text>();
+        //variableText = GetComponent<Text>();
     }
 
     //constantly updates the current level displayed.
     private void Update()
     {
-        levels = LivesControl.Instance.level;
-        variableText.text = levels.ToString();
+       // levels = LivesControl.Instance.level;
+       // variableText.text = levels.ToString();
     }
 
 }
