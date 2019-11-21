@@ -1586,8 +1586,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b0378180ae6c3a48b77394857c7e819, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  map1: {fileID: 2800000, guid: fede8b7da22120f48879271919d58b3e, type: 3}
+  map1: {fileID: 2800000, guid: ca1cabcc3ae3766498cf52097c22dbbe, type: 3}
   map2: {fileID: 2800000, guid: a03476de79899c64aaf611a49f70a918, type: 3}
+  map3: {fileID: 2800000, guid: cdba85cbbaa8f564ab8565f8e5adf5e3, type: 3}
   colorMappings:
   - color: {r: 0, g: 0, b: 0, a: 1}
     prefab: {fileID: 7153807998419961856, guid: ee84bdfd249062247afaf619b5bcb083,
