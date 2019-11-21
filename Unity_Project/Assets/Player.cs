@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
     if (collision.collider.tag == "Finish")
         {
             Debug.Log("You Win!");
-            SceneManager.LoadScene("EndGame");
+            SceneManager.LoadScene("CodePuzzle");
             LivesControl.Instance.life = 3;
             LivesControl.Instance.level++;
         }
