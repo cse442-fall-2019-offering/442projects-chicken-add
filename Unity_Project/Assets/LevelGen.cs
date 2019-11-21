@@ -5,6 +5,7 @@ public class LevelGen : MonoBehaviour
 
     public Texture2D map1;
     public Texture2D map2;
+    public Texture2D map3;
     private Texture2D map;
 
     public ColorToPrefab[] colorMappings;
@@ -17,7 +18,12 @@ public class LevelGen : MonoBehaviour
         }else if(LivesControl.Instance.level == 2){
             map = map2;
         }
-        else{
+        else if (LivesControl.Instance.level == 3)
+        {
+            map = map3;
+        }
+        else
+        {
             map = map1;
         }
         GenerateLevel();

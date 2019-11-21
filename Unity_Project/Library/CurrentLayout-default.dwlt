@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 14
+  controlID: 13
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 312
     height: 741
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 303
     height: 448
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 112
+  controlID: 14
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 113
+  controlID: 15
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,21 +337,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Level_Design/LevelMaps
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Level_Design/LevelMaps
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE
     442\442projects-chicken-add\Unity_Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: f4390000
-    m_LastClickedID: 14836
-    m_ExpandedIDs: 00000000f4390000043a0000c63a00001e3d00003c3d0000683f0000084000000a400000ec4100000e430000fc4300006c450000905000008e5100004a5300006e550000e8550000f6580000fe5c0000245d0000625d0000205e00001a620000fc6200005264000098670000b4690000e86c0000586d0000ae6d0000e26f0000f26f0000d471000000ca9a3b
+    scrollPos: {x: 0, y: 878}
+    m_SelectedIDs: 42450000
+    m_LastClickedID: 17730
+    m_ExpandedIDs: 00000000f4390000043a0000c63a00001e3d00003c3d0000683f0000084000000a400000ec4100000e430000fc4300006c450000905000008e5100004a5300006e550000e8550000f6580000fe5c0000245d0000625d0000205e00001a620000fc620000526400009c670000b8690000ec6c00005c6d0000b26d0000e66f0000f66f0000d871000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f4390000043a0000c63a00001e3d00003c3d0000683f0000084000000a400000ec4100000e4300006c450000905000008e5100004a5300006e550000e8550000f6580000fe5c0000245d0000625d0000205e00001a620000fc6200005264000098670000b4690000e86c0000586d0000ae6d0000e26f0000f26f0000d4710000
+    m_ExpandedIDs: 00000000f4390000043a0000c63a00001e3d00003c3d0000683f0000084000000a400000ec4100000e4300006c450000905000008e5100004a5300006e550000e8550000f6580000fe5c0000245d0000625d0000205e00001a620000fc620000526400009c670000b8690000ec6c00005c6d0000b26d0000e66f0000f66f0000d8710000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -431,7 +431,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 217}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 115
@@ -500,9 +500,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 34760000
-      m_LastClickedID: 30260
-      m_ExpandedIDs: 6afbffff0c76000034760000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
