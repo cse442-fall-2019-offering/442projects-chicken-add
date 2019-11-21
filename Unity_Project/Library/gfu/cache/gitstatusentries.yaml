@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-20T20:17:41.829-05:00
-  initializedAtString: 2019-11-20T20:16:31.914-05:00
+  lastUpdatedAtString: 2019-11-20T21:30:23.771-05:00
+  initializedAtString: 2019-11-20T21:19:29.318-05:00
   entries:
+  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level04_v1.png.meta
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level04_v1.png.meta
+    projectPath: Assets\Level_Design\LevelMaps\Level04_v1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Unity_Project\Assets\LevelGen.cs
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\LevelGen.cs
     projectPath: Assets\LevelGen.cs
@@ -52,27 +58,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\6f\6fd944207e1dadb44ac0f25bc3ea5c14
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\6f\6fd944207e1dadb44ac0f25bc3ea5c14
+    projectPath: Library\metadata\6f\6fd944207e1dadb44ac0f25bc3ea5c14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Library\metadata\6f\6fd944207e1dadb44ac0f25bc3ea5c14.info
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\6f\6fd944207e1dadb44ac0f25bc3ea5c14.info
+    projectPath: Library\metadata\6f\6fd944207e1dadb44ac0f25bc3ea5c14.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Unity_Project\Library\metadata\9b\9b0378180ae6c3a48b77394857c7e819
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\9b\9b0378180ae6c3a48b77394857c7e819
     projectPath: Library\metadata\9b\9b0378180ae6c3a48b77394857c7e819
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+  - path: Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Unity_Project\Temp\UnityTempFile-82854c82c245c9847b8f8405a6b05ee2
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-82854c82c245c9847b8f8405a6b05ee2
-    projectPath: Temp\UnityTempFile-82854c82c245c9847b8f8405a6b05ee2
+    workTreeStatus: 3
+  - path: Unity_Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity_Project\Temp\UnityTempFile-f17dcad9bec006d498997c93dd5d4cb9
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\UnityTempFile-f17dcad9bec006d498997c93dd5d4cb9
+    projectPath: Temp\UnityTempFile-f17dcad9bec006d498997c93dd5d4cb9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
