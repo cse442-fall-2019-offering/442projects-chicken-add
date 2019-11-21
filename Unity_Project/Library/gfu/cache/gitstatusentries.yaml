@@ -13,45 +13,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-21T16:13:23.495-05:00
-  initializedAtString: 2019-11-21T16:12:08.761-05:00
+  lastUpdatedAtString: 2019-11-21T16:29:24.522-05:00
+  initializedAtString: 2019-11-21T16:26:36.408-05:00
   entries:
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level02_v4.png.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level02_v4.png.meta
-    projectPath: Assets\Level_Design\LevelMaps\Level02_v4.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level03_v4.png.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level03_v4.png.meta
-    projectPath: Assets\Level_Design\LevelMaps\Level03_v4.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Unity_Project\Assets\Level_Design\LevelMaps\Level04_v3.png
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level04_v3.png
     projectPath: Assets\Level_Design\LevelMaps\Level04_v3.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Assets\Level_Design\LevelMaps\Level04_v3.png.meta
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Assets\Level_Design\LevelMaps\Level04_v3.png.meta
-    projectPath: Assets\Level_Design\LevelMaps\Level04_v3.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\assetDatabase3
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\CrashedAssetImports.txt
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
+  - path: Unity_Project\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -76,45 +58,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\0b\0bd7e0d144050804fb0b03f7d50094a3
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\0b\0bd7e0d144050804fb0b03f7d50094a3
-    projectPath: Library\metadata\0b\0bd7e0d144050804fb0b03f7d50094a3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\0b\0bd7e0d144050804fb0b03f7d50094a3.info
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\0b\0bd7e0d144050804fb0b03f7d50094a3.info
-    projectPath: Library\metadata\0b\0bd7e0d144050804fb0b03f7d50094a3.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\5f\5f7d963581c0b16489c38bb6961e8181
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\5f\5f7d963581c0b16489c38bb6961e8181
-    projectPath: Library\metadata\5f\5f7d963581c0b16489c38bb6961e8181
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\5f\5f7d963581c0b16489c38bb6961e8181.info
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\5f\5f7d963581c0b16489c38bb6961e8181.info
-    projectPath: Library\metadata\5f\5f7d963581c0b16489c38bb6961e8181.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Unity_Project\Library\metadata\e2\e2b90c5870df6784d82d9bdf4d85327a
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\e2\e2b90c5870df6784d82d9bdf4d85327a
     projectPath: Library\metadata\e2\e2b90c5870df6784d82d9bdf4d85327a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\metadata\e2\e2b90c5870df6784d82d9bdf4d85327a.info
     fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\metadata\e2\e2b90c5870df6784d82d9bdf4d85327a.info
     projectPath: Library\metadata\e2\e2b90c5870df6784d82d9bdf4d85327a.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Unity_Project\Library\SceneVisibilityState.asset
-    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Unity_Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Goktug\Desktop\Work\School Work College\Fall 2019\CSE 442\442projects-chicken-add\Unity_Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
