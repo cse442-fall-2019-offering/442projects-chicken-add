@@ -1587,7 +1587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b0378180ae6c3a48b77394857c7e819, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  map1: {fileID: 2800000, guid: 14c26aad96a36c04eb9eddad79ff93df, type: 3}
+  map1: {fileID: 2800000, guid: 63ac9546de9e9844fa8bf027c6ff5ba7, type: 3}
   map2: {fileID: 2800000, guid: d5a78653cbcf5c241a07ba13f3a006f3, type: 3}
   map3: {fileID: 2800000, guid: 8f0158beb9c26e749815038ce1f333e6, type: 3}
   map4: {fileID: 2800000, guid: 2ab6de7e0a147824587b25459857b066, type: 3}
@@ -1609,6 +1609,21 @@ MonoBehaviour:
       type: 3}
   - color: {r: 1, g: 1, b: 0, a: 1}
     prefab: {fileID: 9212766527729329497, guid: 266241920b6d36b43a9f10f32f871586,
+      type: 3}
+  - color: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    prefab: {fileID: 8145938309590699285, guid: f0e09550360b22748b3034044439fc8d,
+      type: 3}
+  - color: {r: 0.7882353, g: 0.78431374, b: 0.78431374, a: 1}
+    prefab: {fileID: 5624463843276613837, guid: bc05fa4847802f844b57801b658259d0,
+      type: 3}
+  - color: {r: 0.7921569, g: 0.78431374, b: 0.78431374, a: 1}
+    prefab: {fileID: 8359530364343455013, guid: a602545199d3aad449cc4a23912ed835,
+      type: 3}
+  - color: {r: 0.79607844, g: 0.78431374, b: 0.78431374, a: 1}
+    prefab: {fileID: 5690614081365513413, guid: c11ce6100c826bf4fb48b297cafcd55f,
+      type: 3}
+  - color: {r: 0.8, g: 0.78431374, b: 0.78431374, a: 1}
+    prefab: {fileID: 4156293230314610235, guid: 110359aef5e9a594a84ab5e1478bd0d5,
       type: 3}
 --- !u!4 &1537069526
 Transform:
