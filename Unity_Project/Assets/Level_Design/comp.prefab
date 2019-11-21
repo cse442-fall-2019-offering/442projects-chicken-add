@@ -148,6 +148,7 @@ MonoBehaviour:
   timeLeft: 4
   deathEffect: {fileID: 6357363409296203263, guid: 50ff7f1793c5648e39913eb912bbf343,
     type: 3}
+  yay: {fileID: 1728166253598559795, guid: 5559f214282fb45d08da326d3f325020, type: 3}
 --- !u!114 &6863497578636773645
 MonoBehaviour:
   m_ObjectHideFlags: 0
