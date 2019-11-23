@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-22T00:28:07.977-05:00
-  initializedAtString: 2019-11-22T00:20:17.717-05:00
+  lastUpdatedAtString: 2019-11-23T15:29:39.289-05:00
+  initializedAtString: 2019-11-23T14:57:04.058-05:00
   entries:
-  - path: Unity_Project\Assets\Scenes\CodePuzzle3.unity
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\CodePuzzle3.unity
-    projectPath: Assets\Scenes\CodePuzzle3.unity
+  - path: Unity_Project\Assets\Scenes\CodePuzzle4.unity
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\CodePuzzle4.unity
+    projectPath: Assets\Scenes\CodePuzzle4.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Assets\Scenes\CodePuzzle3.unity.meta
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\CodePuzzle3.unity.meta
-    projectPath: Assets\Scenes\CodePuzzle3.unity.meta
+  - path: Unity_Project\Assets\Scenes\CodePuzzle4.unity.meta
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Assets\Scenes\CodePuzzle4.unity.meta
+    projectPath: Assets\Scenes\CodePuzzle4.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -34,15 +34,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\CrashedAssetImports.txt
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
+  - path: Unity_Project\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Unity_Project\Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\expandedItems
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -70,15 +76,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Unity_Project\Library\metadata\ea\ea8f6deed8464d14f907c6cc8fbdf82a
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\ea\ea8f6deed8464d14f907c6cc8fbdf82a
-    projectPath: Library\metadata\ea\ea8f6deed8464d14f907c6cc8fbdf82a
+  - path: Unity_Project\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity_Project\Library\metadata\41\41639d2bfd784bb4bac56dde544ad7e8
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\41\41639d2bfd784bb4bac56dde544ad7e8
+    projectPath: Library\metadata\41\41639d2bfd784bb4bac56dde544ad7e8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Unity_Project\Library\metadata\ea\ea8f6deed8464d14f907c6cc8fbdf82a.info
-    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\ea\ea8f6deed8464d14f907c6cc8fbdf82a.info
-    projectPath: Library\metadata\ea\ea8f6deed8464d14f907c6cc8fbdf82a.info
+  - path: Unity_Project\Library\metadata\41\41639d2bfd784bb4bac56dde544ad7e8.info
+    fullPath: C:\Users\Tom\Documents\Unity Project\442projects-chicken-add\Unity_Project\Library\metadata\41\41639d2bfd784bb4bac56dde544ad7e8.info
+    projectPath: Library\metadata\41\41639d2bfd784bb4bac56dde544ad7e8.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
