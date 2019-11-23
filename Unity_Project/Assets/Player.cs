@@ -51,10 +51,44 @@ public class Player : MonoBehaviour
         }
     if (collision.collider.tag == "Finish")
         {
-            Debug.Log("You Win!");
+            Debug.Log("Level: " + LivesControl.Instance.level);
+            if (LivesControl.Instance.level == 1)
+            {
+                Debug.Log("You Win!");
+                SceneManager.LoadScene("CodePuzzle");
+                LivesControl.Instance.life = 3;
+                LivesControl.Instance.level++;
+            }
+            else if (LivesControl.Instance.level == 2)
+            {
+                Debug.Log("You Win!");
+                SceneManager.LoadScene("CodePuzzle2");
+                LivesControl.Instance.life = 3;
+                LivesControl.Instance.level++;
+            }
+            else if (LivesControl.Instance.level == 3)
+            {
+                Debug.Log("You Win!");
+                SceneManager.LoadScene("CodePuzzle3");
+                LivesControl.Instance.life = 3;
+                LivesControl.Instance.level++;
+            }
+            else if (LivesControl.Instance.level == 4)
+            {
+                Debug.Log("You Win!");
+                SceneManager.LoadScene("CodePuzzle4");
+                LivesControl.Instance.life = 3;
+                LivesControl.Instance.level++;
+            }
+            else
+            {
+                Debug.Log("Level Error");
+            }
+            /*Debug.Log("You Win!");
             SceneManager.LoadScene("CodePuzzle");
             LivesControl.Instance.life = 3;
-            LivesControl.Instance.level++;
+            LivesControl.Instance.level++;*/
+            Debug.Log("Level"+LivesControl.Instance.level);
         }
 
     }
