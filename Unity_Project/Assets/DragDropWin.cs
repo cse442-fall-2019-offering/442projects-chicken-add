@@ -25,6 +25,10 @@ public class DragDropWin : MonoBehaviour
     {
         if((DragDrop.win1 && DragDrop2.win2 && DragDrop3.win3 && DragDrop4.win4) == true)
         {
+            DragDrop.win1 = false;
+            DragDrop2.win2 = false;
+            DragDrop3.win3 = false;
+            DragDrop4.win4 = false;
             Debug.Log("You Win");
             SceneManager.LoadScene("EndGame");
         }

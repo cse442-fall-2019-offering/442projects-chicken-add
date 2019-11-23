@@ -26,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CodePuzzle.unity
     guid: 090833a680013ed408cfb521abeccd58
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle4.unity
+    guid: 41639d2bfd784bb4bac56dde544ad7e8
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle3.unity
+    guid: ea8f6deed8464d14f907c6cc8fbdf82a
+  - enabled: 1
+    path: Assets/Scenes/CodePuzzle2.unity
+    guid: 7522a7753767a0747855babda9a45b92
   m_configObjects: {}
