@@ -1565,8 +1565,7 @@ MonoBehaviour:
     __________ is a language used to write code in.
 
 
-    A __________ is used to execute a piece of code based on the truth of a given
-    statement.
+    A __________ is used to execute a piece of code based on  a given statement.
 
 
     The type for text in programming is _________.
@@ -1641,10 +1640,10 @@ MonoBehaviour:
   m_margin: {x: 24.184326, y: 0, z: -1806.9133, w: -742.8037}
   m_textInfo:
     textComponent: {fileID: 1915792995}
-    characterCount: 247
+    characterCount: 235
     spriteCount: 0
-    spaceCount: 50
-    wordCount: 44
+    spaceCount: 48
+    wordCount: 41
     linkCount: 0
     lineCount: 9
     pageCount: 1
