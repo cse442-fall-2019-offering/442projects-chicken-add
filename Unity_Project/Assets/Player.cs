@@ -82,7 +82,9 @@ public class Player : MonoBehaviour
             }
             else
             {
-                Debug.Log("Level Error");
+                SceneManager.LoadScene("GameOver");
+                LivesControl.Instance.life = 3;
+                LivesControl.Instance.level = 1;
             }
             /*Debug.Log("You Win!");
             SceneManager.LoadScene("CodePuzzle");

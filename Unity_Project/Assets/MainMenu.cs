@@ -8,6 +8,13 @@ public class MainMenu : MonoBehaviour
     public void PlayGame()
     {
         SceneManager.LoadScene("World");
+
+        if(LivesControl.Instance.level > 4)
+        {
+            SceneManager.LoadScene("GameOver");
+            
+        }    
+        
     }
     public void BackToMenu()
     {
