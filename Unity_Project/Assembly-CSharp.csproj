@@ -64,27 +64,45 @@
   <ItemGroup>
     <Compile Include="Assets\2d_sci-fi_game_art\Techno Blue UI\Demo_Assets\scripts\GUI_Demo.cs" />
     <Compile Include="Assets\bullet.cs" />
+    <Compile Include="Assets\bullet0.cs" />
     <Compile Include="Assets\CameraScript.cs" />
     <Compile Include="Assets\Character_Controller.cs" />
     <Compile Include="Assets\ColorToPrefab.cs" />
     <Compile Include="Assets\Control.cs" />
+    <Compile Include="Assets\DestroyLives.cs" />
+    <Compile Include="Assets\DontDestroy.cs" />
+    <Compile Include="Assets\DragDrop.cs" />
+    <Compile Include="Assets\DragDrop2.cs" />
+    <Compile Include="Assets\DragDrop3.cs" />
+    <Compile Include="Assets\DragDrop4.cs" />
+    <Compile Include="Assets\DragDropWin.cs" />
     <Compile Include="Assets\Enemy.cs" />
+    <Compile Include="Assets\EnemyWeapon.cs" />
     <Compile Include="Assets\GameMaster.cs" />
     <Compile Include="Assets\Leaderboard.cs" />
     <Compile Include="Assets\LevelGen.cs" />
+    <Compile Include="Assets\LevelScript.cs" />
+    <Compile Include="Assets\LivesControl.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\MusicContinue.cs" />
     <Compile Include="Assets\Options.cs" />
     <Compile Include="Assets\Pause.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\playerbullet0.cs" />
+    <Compile Include="Assets\playerbullet1.cs" />
+    <Compile Include="Assets\ResetLives.cs" />
     <Compile Include="Assets\SceneOneManage.cs" />
-    <Compile Include="Assets\SettingsMenuVol.cs" />
-    <Compile Include="Assets\StartMenuVol.cs" />
+    <Compile Include="Assets\ScreamSound.cs" />
+    <Compile Include="Assets\StopGameMusic.cs" />
     <Compile Include="Assets\test.cs" />
+    <Compile Include="Assets\VolChange.cs" />
     <Compile Include="Assets\weapon.cs" />
+    <None Include="Assets\PROCJAM2017-DevilsGarage\2D_v01.0.0\View-Front\sprite-wall\sprites.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\PROCJAM2017-DevilsGarage\2D_v01.0.0\View-Top\sprites\sprites.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\TextMesh Pro\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
@@ -111,6 +129,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\PROCJAM2017-DevilsGarage\ReadMe.txt" />
     <None Include="Assets\TextMesh Pro\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
@@ -130,11 +149,20 @@
     <Reference Include="Cinemachine">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Animation.Runtime">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.IK.Editor">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.IK.Runtime">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -142,23 +170,53 @@
     <Reference Include="Unity.Timeline">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Animation.Triangle.Runtime">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="PsdPlugin">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Psdimporter.Editor">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.001">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Runtime">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Animation.Editor">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="com.unity.cinemachine.editor">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Common.Editor">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+      <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/Tom/Documents/Unity Project/442projects-chicken-add/Unity_Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>

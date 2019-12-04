@@ -6,6 +6,7 @@ TagManager:
   tags:
   - GM
   - Enemy
+  - PlayerBullet
   layers:
   - Default
   - TransparentFX
@@ -48,4 +49,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 459545725
+    locked: 0
+  - name: Word
+    uniqueID: 2091086947
     locked: 0
